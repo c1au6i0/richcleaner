@@ -12,6 +12,7 @@
 #' @param height Height of the graph
 #' @param save_path Where to save the data.
 #' @param ... Pheatmap arguments
+#' @keywords internal
 #' @importFrom rlang .data
 #' @importFrom magrittr %>%
 rich_pheatmap_ <- function(dat,
@@ -51,9 +52,9 @@ rich_pheatmap_ <- function(dat,
 #' rich_pheatmap
 #'
 #' Given a dataframe with pathway, gs, contrast, FDR.q.val and NES, it reshapes it, calculates
-#' negative log10(fdr_q_val) * sign of NES and plots a pheatmap. Values of FDR.q.val equal to 0 are
+#' `-log10(fdr_q_val) * sign(NES)` and plots a pheatmap. Values of FDR.q.val equal to 0 are
 #' substituted with `10^10`. Plot is generate with `{pheatmap}` package and so function accepts those arguments too.
-#' (Yes a method of of pheatmap would have been politer but this is use internally in the lab)
+#' (Yes a method of of pheatmap would have been politer but this is just used internally in the lab)
 #'
 #' @param dat Dataframe.
 #' @param res Resolution in dpi.

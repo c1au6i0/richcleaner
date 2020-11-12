@@ -28,3 +28,4 @@ Given a dataframe with pathway, one gs, contrast, FDR.q.val and NES, it reshapes
 negative log10(fdr_q_val) * sign of NES and plots it
 plots heatmaps. This is use internaly
 }
+\keyword{internal}
