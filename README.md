@@ -94,5 +94,5 @@ the dataframe.
 
 ## Plotting
 
-The function `rich_pheatmap` is just a wrapper than run `rich_wider` and
-`pheatmap::pheatmap` on the result.
+The function `rich_pheatmap` is just a wrapper than runs `rich_wider`
+and `pheatmap::pheatmap` on the result.
