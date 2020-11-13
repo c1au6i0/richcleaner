@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	34	0.6588003635406494	0.017905012	No	
+row_1	TSPO	translocator protein [Source:HGNC Symbol;Acc:HGNC:1158]	51	0.5812650322914124	0.052293036	No	
+row_2	SOD1	superoxide dismutase 1 [Source:HGNC Symbol;Acc:HGNC:11179]	120	0.44357559084892273	0.004444871	No	
+row_3	IDH1	isocitrate dehydrogenase (NADP(+)) 1 [Source:HGNC Symbol;Acc:HGNC:5382]	160	0.38597342371940613	-0.010404125	No	
+row_4	IDI1	isopentenyl-diphosphate delta isomerase 1 [Source:HGNC Symbol;Acc:HGNC:5387]	167	0.375064492225647	0.01752742	No	
+row_5	DHCR24	24-dehydrocholesterol reductase [Source:HGNC Symbol;Acc:HGNC:2859]	291	0.273009330034256	-0.11968784	No	
+row_6	CAT	catalase [Source:HGNC Symbol;Acc:HGNC:1516]	372	-0.2635555863380432	-0.20070305	No	
+row_7	ACAA1	acetyl-CoA acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:82]	405	-0.275907963514328	-0.21679093	No	
+row_8	EPHX2	epoxide hydrolase 2 [Source:HGNC Symbol;Acc:HGNC:3402]	498	-0.3204619288444519	-0.30829555	No	
+row_9	ALDH1A1	aldehyde dehydrogenase 1 family member A1 [Source:HGNC Symbol;Acc:HGNC:402]	517	-0.33406004309654236	-0.30022505	No	
+row_10	ALDH9A1	aldehyde dehydrogenase 9 family member A1 [Source:HGNC Symbol;Acc:HGNC:412]	597	-0.42059746384620667	-0.3648808	Yes	
+row_11	SULT2B1	sulfotransferase family 2B member 1 [Source:HGNC Symbol;Acc:HGNC:11459]	622	-0.4644802510738373	-0.35229513	Yes	
+row_12	ACSL5	acyl-CoA synthetase long chain family member 5 [Source:HGNC Symbol;Acc:HGNC:16526]	643	-0.49960801005363464	-0.33103508	Yes	
+row_13	ECH1	enoyl-CoA hydratase 1 [Source:HGNC Symbol;Acc:HGNC:3149]	667	-0.5591143369674683	-0.3080634	Yes	
+row_14	SCP2	sterol carrier protein 2 [Source:HGNC Symbol;Acc:HGNC:10606]	714	-0.797919750213623	-0.29277867	Yes	
+row_15	FABP6	fatty acid binding protein 6 [Source:HGNC Symbol;Acc:HGNC:3561]	768	-3.794180154800415	-2.4214387E-8	Yes	

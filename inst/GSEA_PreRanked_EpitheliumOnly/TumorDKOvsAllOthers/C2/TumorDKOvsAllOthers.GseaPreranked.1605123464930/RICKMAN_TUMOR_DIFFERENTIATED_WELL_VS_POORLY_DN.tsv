@@ -1,0 +1,31 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	S100A6	S100 calcium binding protein A6 [Source:HGNC Symbol;Acc:HGNC:10496]	0	1.811274766921997	0.12211062	Yes	
+row_1	TMSB10	thymosin beta 10 [Source:HGNC Symbol;Acc:HGNC:11879]	1	1.5585063695907593	0.22718036	Yes	
+row_2	HIF1A	hypoxia inducible factor 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:4910]	47	0.595140814781189	0.20640986	Yes	
+row_3	DSP	desmoplakin [Source:HGNC Symbol;Acc:HGNC:3052]	57	0.5623799562454224	0.23214518	Yes	
+row_4	CD44	CD44 molecule (Indian blood group) [Source:HGNC Symbol;Acc:HGNC:1681]	58	0.5619633793830872	0.27003103	Yes	
+row_5	ERO1A	endoplasmic reticulum oxidoreductase 1 alpha [Source:HGNC Symbol;Acc:HGNC:13280]	63	0.544617235660553	0.30133474	Yes	
+row_6	AHNAK	AHNAK nucleoprotein [Source:HGNC Symbol;Acc:HGNC:347]	68	0.524288535118103	0.33126795	Yes	
+row_7	TPM4	tropomyosin 4 [Source:HGNC Symbol;Acc:HGNC:12013]	101	0.46103614568710327	0.31904784	Yes	
+row_8	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	110	0.44804179668426514	0.33842802	Yes	
+row_9	SDC1	syndecan 1 [Source:HGNC Symbol;Acc:HGNC:10658]	112	0.44650328159332275	0.36717674	Yes	
+row_10	PLAUR	plasminogen activator, urokinase receptor [Source:HGNC Symbol;Acc:HGNC:9053]	121	0.44230976700782776	0.38617048	Yes	
+row_11	BZW1	basic leucine zipper and W2 domains 1 [Source:HGNC Symbol;Acc:HGNC:18380]	122	0.4394327700138092	0.41579568	Yes	
+row_12	C4orf3	chromosome 4 open reading frame 3 [Source:HGNC Symbol;Acc:HGNC:19225]	146	0.4061035215854645	0.4120508	Yes	
+row_13	JUP	junction plakoglobin [Source:HGNC Symbol;Acc:HGNC:6207]	164	0.3797909915447235	0.4146511	Yes	
+row_14	CSNK1A1	casein kinase 1 alpha 1 [Source:HGNC Symbol;Acc:HGNC:2451]	185	0.352750688791275	0.41136888	Yes	
+row_15	TES	testin LIM domain protein [Source:HGNC Symbol;Acc:HGNC:14620]	195	0.3430157005786896	0.42231533	Yes	
+row_16	KLF6	Kruppel like factor 6 [Source:HGNC Symbol;Acc:HGNC:2235]	196	0.34194743633270264	0.44536838	Yes	
+row_17	PTBP3	polypyrimidine tract binding protein 3 [Source:HGNC Symbol;Acc:HGNC:10253]	204	0.3377387821674347	0.45866543	Yes	
+row_18	PTGFRN	prostaglandin F2 receptor inhibitor [Source:HGNC Symbol;Acc:HGNC:9601]	221	0.32522985339164734	0.45894057	Yes	
+row_19	DYNLL1	dynein light chain LC8-type 1 [Source:HGNC Symbol;Acc:HGNC:15476]	248	0.304017573595047	0.44425383	No	
+row_20	PDCD6IP	programmed cell death 6 interacting protein [Source:HGNC Symbol;Acc:HGNC:8766]	271	0.28747543692588806	0.4338646	No	
+row_21	KCTD10	potassium channel tetramerization domain containing 10 [Source:HGNC Symbol;Acc:HGNC:23236]	276	0.2808390259742737	0.4473852	No	
+row_22	ITPRID2	ITPR interacting domain containing 2 [Source:HGNC Symbol;Acc:HGNC:11319]	310	0.2615624964237213	0.420364	No	
+row_23	PNP	purine nucleoside phosphorylase [Source:HGNC Symbol;Acc:HGNC:7892]	431	-0.2863204777240753	0.27728525	No	
+row_24	SLC27A4	solute carrier family 27 member 4 [Source:HGNC Symbol;Acc:HGNC:10998]	536	-0.3570185899734497	0.16062364	No	
+row_25	TXNDC17	thioredoxin domain containing 17 [Source:HGNC Symbol;Acc:HGNC:28218]	538	-0.35787659883499146	0.18339741	No	
+row_26	GSDMC	gasdermin C [Source:HGNC Symbol;Acc:HGNC:7151]	543	-0.3594522476196289	0.20221786	No	
+row_27	SAR1B	secretion associated Ras related GTPase 1B [Source:HGNC Symbol;Acc:HGNC:10535]	598	-0.421810120344162	0.1575833	No	
+row_28	UPP1	uridine phosphorylase 1 [Source:HGNC Symbol;Acc:HGNC:12576]	629	-0.47486522793769836	0.14900187	No	
+row_29	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	668	-0.5597564578056335	0.1353181	No	

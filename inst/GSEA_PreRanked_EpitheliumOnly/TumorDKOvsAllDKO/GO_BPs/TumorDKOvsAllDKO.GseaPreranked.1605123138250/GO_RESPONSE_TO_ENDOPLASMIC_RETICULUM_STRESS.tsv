@@ -1,0 +1,21 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	10	0.6586881875991821	0.04124399	No	
+row_1	CFTR	CF transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884]	48	0.4273115396499634	-0.008664798	No	
+row_2	LMNA	lamin A/C [Source:HGNC Symbol;Acc:HGNC:6636]	70	0.39462971687316895	-0.02166561	No	
+row_3	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	179	0.2961597442626953	-0.26318124	No	
+row_4	BOK	BCL2 family apoptosis regulator BOK [Source:HGNC Symbol;Acc:HGNC:1087]	238	0.26827067136764526	-0.38187885	No	
+row_5	HDGF	heparin binding growth factor [Source:HGNC Symbol;Acc:HGNC:4856]	271	0.25654664635658264	-0.43643114	No	
+row_6	HERPUD1	homocysteine inducible ER protein with ubiquitin like domain 1 [Source:HGNC Symbol;Acc:HGNC:13744]	288	-0.2504114806652069	-0.4514006	Yes	
+row_7	MANF	mesencephalic astrocyte derived neurotrophic factor [Source:HGNC Symbol;Acc:HGNC:15461]	292	-0.25422683358192444	-0.43332234	Yes	
+row_8	DNAJC10	DnaJ heat shock protein family (Hsp40) member C10 [Source:HGNC Symbol;Acc:HGNC:24637]	299	-0.26318246126174927	-0.42187938	Yes	
+row_9	SERINC3	serine incorporator 3 [Source:HGNC Symbol;Acc:HGNC:11699]	300	-0.2638694941997528	-0.3952918	Yes	
+row_10	JUN	Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]	307	-0.2716788053512573	-0.38299274	Yes	
+row_11	PDIA3	protein disulfide isomerase family A member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	310	-0.27525243163108826	-0.36028334	Yes	
+row_12	SELENOK	selenoprotein K [Source:HGNC Symbol;Acc:HGNC:30394]	314	-0.277778297662735	-0.339832	Yes	
+row_13	HSPA5	heat shock protein family A (Hsp70) member 5 [Source:HGNC Symbol;Acc:HGNC:5238]	321	-0.2926256060600281	-0.32542235	Yes	
+row_14	P4HB	prolyl 4-hydroxylase subunit beta [Source:HGNC Symbol;Acc:HGNC:8548]	332	-0.310703307390213	-0.31924143	Yes	
+row_15	CREB3L1	cAMP responsive element binding protein 3 like 1 [Source:HGNC Symbol;Acc:HGNC:18856]	340	-0.34399959444999695	-0.30216786	Yes	
+row_16	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	351	-0.373076468706131	-0.2897022	Yes	
+row_17	ATP2A3	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 3 [Source:HGNC Symbol;Acc:HGNC:813]	386	-0.6199068427085876	-0.31266734	Yes	
+row_18	NUPR1	nuclear protein 1, transcriptional regulator [Source:HGNC Symbol;Acc:HGNC:29990]	400	-1.3154819011688232	-0.21278231	Yes	
+row_19	AGR2	anterior gradient 2, protein disulphide isomerase family member [Source:HGNC Symbol;Acc:HGNC:328]	411	-2.510745048522949	0.015075484	Yes	

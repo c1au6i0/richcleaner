@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GPX2	glutathione peroxidase 2 [Source:HGNC Symbol;Acc:HGNC:4554]	18	0.5820276141166687	0.04653246	Yes	
+row_1	GSR	glutathione-disulfide reductase [Source:HGNC Symbol;Acc:HGNC:4623]	20	0.5758184194564819	0.13448365	Yes	
+row_2	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	34	0.47600749135017395	0.17683214	Yes	
+row_3	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	41	0.4465313255786896	0.23200712	Yes	
+row_4	PRDX1	peroxiredoxin 1 [Source:HGNC Symbol;Acc:HGNC:9352]	59	0.4066278338432312	0.25348294	Yes	
+row_5	COX7C	cytochrome c oxidase subunit 7C [Source:HGNC Symbol;Acc:HGNC:2292]	67	0.39661723375320435	0.29832405	Yes	
+row_6	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	69	0.39545300602912903	0.35794488	Yes	
+row_7	COX6A1	cytochrome c oxidase subunit 6A1 [Source:HGNC Symbol;Acc:HGNC:2277]	85	0.37244418263435364	0.37903896	Yes	
+row_8	COX8A	cytochrome c oxidase subunit 8A [Source:HGNC Symbol;Acc:HGNC:2294]	105	0.3509872555732727	0.38678768	Yes	
+row_9	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma [Source:HGNC Symbol;Acc:HGNC:12852]	130	0.32716527581214905	0.3783258	Yes	
+row_10	COX6C	cytochrome c oxidase subunit 6C [Source:HGNC Symbol;Acc:HGNC:2285]	135	0.3241199254989624	0.4192609	Yes	
+row_11	COX5A	cytochrome c oxidase subunit 5A [Source:HGNC Symbol;Acc:HGNC:2267]	143	0.31979045271873474	0.45203468	Yes	
+row_12	TXNRD1	thioredoxin reductase 1 [Source:HGNC Symbol;Acc:HGNC:12437]	163	0.3064437806606293	0.45278686	Yes	
+row_13	NDUFA4	NDUFA4 mitochondrial complex associated [Source:HGNC Symbol;Acc:HGNC:7687]	165	0.3057255446910858	0.49831402	Yes	
+row_14	COX5B	cytochrome c oxidase subunit 5B [Source:HGNC Symbol;Acc:HGNC:2269]	247	0.26485058665275574	0.3379196	No	
+row_15	COX6B1	cytochrome c oxidase subunit 6B1 [Source:HGNC Symbol;Acc:HGNC:2280]	260	0.2616071403026581	0.34908557	No	
+row_16	CYCS	cytochrome c, somatic [Source:HGNC Symbol;Acc:HGNC:19986]	277	0.25429025292396545	0.3491272	No	

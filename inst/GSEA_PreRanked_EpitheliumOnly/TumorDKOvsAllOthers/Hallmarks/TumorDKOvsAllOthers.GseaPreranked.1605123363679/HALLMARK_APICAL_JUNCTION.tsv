@@ -1,0 +1,21 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	7	1.0671534538269043	0.11104171	Yes	
+row_1	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	34	0.6588003635406494	0.15064922	Yes	
+row_2	CLDN4	claudin 4 [Source:HGNC Symbol;Acc:HGNC:2046]	56	0.5677968263626099	0.18666601	Yes	
+row_3	LAMC2	laminin subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:6493]	69	0.5228712558746338	0.2296307	Yes	
+row_4	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	72	0.5145708322525024	0.28501013	Yes	
+row_5	ACTN1	actinin alpha 1 [Source:HGNC Symbol;Acc:HGNC:163]	84	0.49115392565727234	0.32573184	Yes	
+row_6	INSIG1	insulin induced gene 1 [Source:HGNC Symbol;Acc:HGNC:6083]	145	0.4066869914531708	0.2915041	Yes	
+row_7	JUP	junction plakoglobin [Source:HGNC Symbol;Acc:HGNC:6207]	164	0.3797909915447235	0.31031698	Yes	
+row_8	CTNND1	catenin delta 1 [Source:HGNC Symbol;Acc:HGNC:2515]	206	0.33686381578445435	0.29357955	Yes	
+row_9	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	232	0.3139440417289734	0.2956183	Yes	
+row_10	ITGB1	integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	238	0.31028908491134644	0.323947	Yes	
+row_11	CTNNA1	catenin alpha 1 [Source:HGNC Symbol;Acc:HGNC:2509]	258	0.2955130636692047	0.3319172	Yes	
+row_12	ITGA3	integrin subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:6139]	286	0.2755010724067688	0.3269489	Yes	
+row_13	MYH9	myosin heavy chain 9 [Source:HGNC Symbol;Acc:HGNC:7579]	294	0.2704037129878998	0.34810784	Yes	
+row_14	ITGB4	integrin subunit beta 4 [Source:HGNC Symbol;Acc:HGNC:6158]	317	0.2586687207221985	0.34791625	No	
+row_15	CLDN7	claudin 7 [Source:HGNC Symbol;Acc:HGNC:2049]	343	-0.2506396770477295	0.34281352	No	
+row_16	TGFBI	transforming growth factor beta induced [Source:HGNC Symbol;Acc:HGNC:11771]	443	-0.2906765639781952	0.24342902	No	
+row_17	MAPK13	mitogen-activated protein kinase 13 [Source:HGNC Symbol;Acc:HGNC:6875]	612	-0.44658464193344116	0.06950996	No	
+row_18	CLDN15	claudin 15 [Source:HGNC Symbol;Acc:HGNC:2036]	666	-0.5523349642753601	0.06105885	No	
+row_19	HADH	hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	690	-0.6540776491165161	0.10413892	No	

@@ -1,0 +1,21 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PLAC8	placenta associated 8 [Source:HGNC Symbol;Acc:HGNC:19254]	16	0.5947688817977905	-0.0030849986	No	
+row_1	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	19	0.5771936774253845	0.027909115	No	
+row_2	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	22	0.555739164352417	0.05756438	No	
+row_3	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	25	0.5315682888031006	0.085711285	No	
+row_4	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	34	0.47600749135017395	0.09531559	No	
+row_5	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	42	0.4461413323879242	0.10556869	No	
+row_6	CFTR	CF transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884]	48	0.4273115396499634	0.11967187	No	
+row_7	PRDX1	peroxiredoxin 1 [Source:HGNC Symbol;Acc:HGNC:9352]	59	0.4066278338432312	0.11992147	No	
+row_8	SCD	stearoyl-CoA desaturase [Source:HGNC Symbol;Acc:HGNC:10571]	84	0.3732236325740814	0.08291064	No	
+row_9	TFRC	transferrin receptor [Source:HGNC Symbol;Acc:HGNC:11763]	186	0.2916891276836395	-0.1526556	No	
+row_10	PROM1	prominin 1 [Source:HGNC Symbol;Acc:HGNC:9454]	196	0.2883591651916504	-0.15727389	No	
+row_11	ELOVL6	ELOVL fatty acid elongase 6 [Source:HGNC Symbol;Acc:HGNC:15829]	251	0.2637553811073303	-0.27649286	No	
+row_12	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	305	-0.26824018359184265	-0.39291942	No	
+row_13	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	306	-0.269396036863327	-0.376108	No	
+row_14	EGR1	early growth response 1 [Source:HGNC Symbol;Acc:HGNC:3238]	355	-0.3854314982891083	-0.47265851	Yes	
+row_15	NEUROD1	neuronal differentiation 1 [Source:HGNC Symbol;Acc:HGNC:7762]	358	-0.4010186195373535	-0.45265844	Yes	
+row_16	PIGR	polymeric immunoglobulin receptor [Source:HGNC Symbol;Acc:HGNC:8968]	363	-0.4184744656085968	-0.4365942	Yes	
+row_17	LYZ	lysozyme [Source:HGNC Symbol;Acc:HGNC:6740]	407	-1.8362603187561035	-0.43004423	Yes	
+row_18	MUC2	mucin 2, oligomeric mucus/gel-forming [Source:HGNC Symbol;Acc:HGNC:7512]	414	-3.2947847843170166	-0.23951161	Yes	
+row_19	TFF3	trefoil factor 3 [Source:HGNC Symbol;Acc:HGNC:11757]	415	-3.9186036586761475	0.005025252	Yes	

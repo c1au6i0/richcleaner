@@ -1,0 +1,26 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	9	1.036751389503479	0.053681683	No	
+row_1	APP	amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620]	97	0.4662449061870575	-0.033672098	No	
+row_2	SDC1	syndecan 1 [Source:HGNC Symbol;Acc:HGNC:10658]	112	0.44650328159332275	-0.024160141	No	
+row_3	AKR1B10	aldo-keto reductase family 1 member B10 [Source:HGNC Symbol;Acc:HGNC:382]	151	0.39671435952186584	-0.05006519	No	
+row_4	METAP2	methionyl aminopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:16672]	156	0.39395591616630554	-0.030446332	No	
+row_5	GNG5	G protein subunit gamma 5 [Source:HGNC Symbol;Acc:HGNC:4408]	166	0.3773398995399475	-0.018602133	No	
+row_6	CXCL16	C-X-C motif chemokine ligand 16 [Source:HGNC Symbol;Acc:HGNC:16642]	181	0.35898637771606445	-0.014642834	No	
+row_7	ROCK2	Rho associated coiled-coil containing protein kinase 2 [Source:HGNC Symbol;Acc:HGNC:10252]	192	0.34392938017845154	-0.0062625078	No	
+row_8	RDH10	retinol dehydrogenase 10 [Source:HGNC Symbol;Acc:HGNC:19975]	208	0.33457833528518677	-0.0051959055	No	
+row_9	RBP1	retinol binding protein 1 [Source:HGNC Symbol;Acc:HGNC:9919]	218	0.326877236366272	0.0034466037	No	
+row_10	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	340	0.2504592537879944	-0.14329699	No	
+row_11	PLB1	phospholipase B1 [Source:HGNC Symbol;Acc:HGNC:30041]	391	-0.26874682307243347	-0.1934502	No	
+row_12	REEP6	receptor accessory protein 6 [Source:HGNC Symbol;Acc:HGNC:30078]	412	-0.2797646224498749	-0.20258176	No	
+row_13	CYP4V2	cytochrome P450 family 4 subfamily V member 2 [Source:HGNC Symbol;Acc:HGNC:23198]	609	-0.443386435508728	-0.43789122	No	
+row_14	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	668	-0.5597564578056335	-0.4803335	Yes	
+row_15	RBP2	retinol binding protein 2 [Source:HGNC Symbol;Acc:HGNC:9920]	673	-0.5851491093635559	-0.44858408	Yes	
+row_16	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	683	-0.6200270056724548	-0.42134216	Yes	
+row_17	GNA11	G protein subunit alpha 11 [Source:HGNC Symbol;Acc:HGNC:4379]	688	-0.6494600772857666	-0.3855124	Yes	
+row_18	APOA4	apolipoprotein A4 [Source:HGNC Symbol;Acc:HGNC:602]	692	-0.6682462692260742	-0.34714666	Yes	
+row_19	CCL23	C-C motif chemokine ligand 23 [Source:HGNC Symbol;Acc:HGNC:10622]	717	-0.814434289932251	-0.32773155	Yes	
+row_20	CCL25	C-C motif chemokine ligand 25 [Source:HGNC Symbol;Acc:HGNC:10624]	730	-0.9363037347793579	-0.28445518	Yes	
+row_21	CLPS	colipase [Source:HGNC Symbol;Acc:HGNC:2085]	743	-1.1424281597137451	-0.22810093	Yes	
+row_22	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	747	-1.2770800590515137	-0.15110666	Yes	
+row_23	APOC3	apolipoprotein C3 [Source:HGNC Symbol;Acc:HGNC:610]	748	-1.315944790840149	-0.0676143	Yes	
+row_24	SCT	secretin [Source:HGNC Symbol;Acc:HGNC:10607]	753	-1.4681912660598755	0.020161254	Yes	

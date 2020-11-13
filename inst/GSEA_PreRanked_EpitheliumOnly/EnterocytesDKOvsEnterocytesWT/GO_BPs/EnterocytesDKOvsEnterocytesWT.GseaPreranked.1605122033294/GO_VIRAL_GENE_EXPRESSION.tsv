@@ -1,0 +1,30 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RPL37A	ribosomal protein L37a [Source:HGNC Symbol;Acc:HGNC:10348]	30	0.7070110440254211	0.032685436	Yes	
+row_1	RPL41	ribosomal protein L41 [Source:HGNC Symbol;Acc:HGNC:10354]	42	0.5943914651870728	0.07485585	Yes	
+row_2	RPS28	ribosomal protein S28 [Source:HGNC Symbol;Acc:HGNC:10418]	58	0.5374387502670288	0.107764564	Yes	
+row_3	RPL35	ribosomal protein L35 [Source:HGNC Symbol;Acc:HGNC:10344]	61	0.5163154602050781	0.15220056	Yes	
+row_4	RPL39	ribosomal protein L39 [Source:HGNC Symbol;Acc:HGNC:10350]	69	0.4788356423377991	0.18809564	Yes	
+row_5	RPS20	ribosomal protein S20 [Source:HGNC Symbol;Acc:HGNC:10405]	77	0.4579424560070038	0.22210896	Yes	
+row_6	RPS29	ribosomal protein S29 [Source:HGNC Symbol;Acc:HGNC:10419]	95	0.4269571900367737	0.24300101	Yes	
+row_7	RPL36	ribosomal protein L36 [Source:HGNC Symbol;Acc:HGNC:13631]	102	0.4179432988166809	0.27444485	Yes	
+row_8	RPL37	ribosomal protein L37 [Source:HGNC Symbol;Acc:HGNC:10347]	105	0.4111798405647278	0.3094118	Yes	
+row_9	RPS19	ribosomal protein S19 [Source:HGNC Symbol;Acc:HGNC:10402]	106	0.4095083773136139	0.34629428	Yes	
+row_10	RPL30	ribosomal protein L30 [Source:HGNC Symbol;Acc:HGNC:10333]	111	0.3992132246494293	0.37811732	Yes	
+row_11	RPS27	ribosomal protein S27 [Source:HGNC Symbol;Acc:HGNC:10416]	131	0.3742702901363373	0.39219797	Yes	
+row_12	RPL11	ribosomal protein L11 [Source:HGNC Symbol;Acc:HGNC:10301]	132	0.37296441197395325	0.42578915	Yes	
+row_13	RPS26	ribosomal protein S26 [Source:HGNC Symbol;Acc:HGNC:10414]	154	0.3405185341835022	0.43476382	Yes	
+row_14	JUN	Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]	156	0.33836403489112854	0.46420562	Yes	
+row_15	RPS7	ribosomal protein S7 [Source:HGNC Symbol;Acc:HGNC:10440]	171	0.31699883937835693	0.47829342	Yes	
+row_16	RPS24	ribosomal protein S24 [Source:HGNC Symbol;Acc:HGNC:10411]	178	0.3076510727405548	0.49980375	Yes	
+row_17	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	200	0.28988054394721985	0.50421774	Yes	
+row_18	RPL38	ribosomal protein L38 [Source:HGNC Symbol;Acc:HGNC:10349]	205	0.28546860814094543	0.5257963	Yes	
+row_19	RPL18A	ribosomal protein L18a [Source:HGNC Symbol;Acc:HGNC:10311]	206	0.2838688790798187	0.55136305	Yes	
+row_20	RPL6	ribosomal protein L6 [Source:HGNC Symbol;Acc:HGNC:10362]	214	0.27658218145370483	0.5690421	Yes	
+row_21	RPS15	ribosomal protein S15 [Source:HGNC Symbol;Acc:HGNC:10388]	217	0.2760257422924042	0.59183633	Yes	
+row_22	RPS2	ribosomal protein S2 [Source:HGNC Symbol;Acc:HGNC:10404]	222	0.27124667167663574	0.61213404	Yes	
+row_23	RPS27A	ribosomal protein S27a [Source:HGNC Symbol;Acc:HGNC:10417]	237	0.2573755383491516	0.6208518	Yes	
+row_24	ZFP36	ZFP36 ring finger protein [Source:HGNC Symbol;Acc:HGNC:12862]	240	0.25401318073272705	0.6416635	Yes	
+row_25	SPCS1	signal peptidase complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:23401]	272	-0.2563110291957855	0.63272345	No	
+row_26	RPL21	ribosomal protein L21 [Source:HGNC Symbol;Acc:HGNC:10313]	453	-0.3080396056175232	0.4745167	No	
+row_27	TRIM31	tripartite motif containing 31 [Source:HGNC Symbol;Acc:HGNC:16289]	645	-0.4152541756629944	0.31460264	No	
+row_28	SEC13	SEC13 homolog, nuclear pore and COPII coat complex component [Source:HGNC Symbol;Acc:HGNC:10697]	779	-0.5214834809303284	0.22417353	No	

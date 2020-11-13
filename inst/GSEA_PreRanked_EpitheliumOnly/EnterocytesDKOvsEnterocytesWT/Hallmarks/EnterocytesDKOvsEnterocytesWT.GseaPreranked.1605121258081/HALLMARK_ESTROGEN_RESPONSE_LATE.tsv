@@ -1,0 +1,25 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SGK1	serum/glucocorticoid regulated kinase 1 [Source:HGNC Symbol;Acc:HGNC:10810]	5	1.3375345468521118	0.08997782	No	
+row_1	ABHD2	abhydrolase domain containing 2, acylglycerol lipase [Source:HGNC Symbol;Acc:HGNC:18717]	9	1.103035569190979	0.16533513	No	
+row_2	TFF3	trefoil factor 3 [Source:HGNC Symbol;Acc:HGNC:11757]	24	0.7790545225143433	0.20634782	No	
+row_3	FKBP5	FKBP prolyl isomerase 5 [Source:HGNC Symbol;Acc:HGNC:3721]	84	0.44241324067115784	0.17717211	No	
+row_4	TOB1	transducer of ERBB2, 1 [Source:HGNC Symbol;Acc:HGNC:11979]	85	0.44114401936531067	0.20854335	No	
+row_5	CPE	carboxypeptidase E [Source:HGNC Symbol;Acc:HGNC:2303]	152	0.34894752502441406	0.16552672	No	
+row_6	AREG	amphiregulin [Source:HGNC Symbol;Acc:HGNC:651]	163	0.32985934615135193	0.17870663	No	
+row_7	FDFT1	farnesyl-diphosphate farnesyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:3629]	188	0.2998398542404175	0.17536327	No	
+row_8	SLC26A2	solute carrier family 26 member 2 [Source:HGNC Symbol;Acc:HGNC:10994]	191	0.2961486577987671	0.19436789	No	
+row_9	ITPK1	inositol-tetrakisphosphate 1-kinase [Source:HGNC Symbol;Acc:HGNC:6177]	207	0.2829345166683197	0.19907208	No	
+row_10	ZFP36	ZFP36 ring finger protein [Source:HGNC Symbol;Acc:HGNC:12862]	240	0.25401318073272705	0.18424782	No	
+row_11	TSTA3	tissue specific transplantation antigen P35B [Source:HGNC Symbol;Acc:HGNC:12390]	320	-0.26888298988342285	0.1221768	No	
+row_12	SULT2B1	sulfotransferase family 2B member 1 [Source:HGNC Symbol;Acc:HGNC:11459]	547	-0.351158082485199	-0.085122496	No	
+row_13	BAG1	BAG cochaperone 1 [Source:HGNC Symbol;Acc:HGNC:937]	639	-0.4107099771499634	-0.14944072	No	
+row_14	SORD	sorbitol dehydrogenase [Source:HGNC Symbol;Acc:HGNC:11184]	675	-0.43147900700569153	-0.15472803	No	
+row_15	SLC27A2	solute carrier family 27 member 2 [Source:HGNC Symbol;Acc:HGNC:10996]	791	-0.5397854447364807	-0.23453324	No	
+row_16	PDZK1	PDZ domain containing 1 [Source:HGNC Symbol;Acc:HGNC:8821]	832	-0.5779129266738892	-0.23454589	Yes	
+row_17	COX6C	cytochrome c oxidase subunit 6C [Source:HGNC Symbol;Acc:HGNC:2285]	839	-0.59412682056427	-0.19846202	Yes	
+row_18	MOCS2	molybdenum cofactor synthesis 2 [Source:HGNC Symbol;Acc:HGNC:7193]	863	-0.6409799456596375	-0.17651802	Yes	
+row_19	PLAAT3	phospholipase A and acyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:17825]	893	-0.6885221004486084	-0.15735963	Yes	
+row_20	PRLR	prolactin receptor [Source:HGNC Symbol;Acc:HGNC:9446]	905	-0.7117944359779358	-0.11804679	Yes	
+row_21	CHPT1	choline phosphotransferase 1 [Source:HGNC Symbol;Acc:HGNC:17852]	963	-0.9427507519721985	-0.109586336	Yes	
+row_22	PAPSS2	3'-phosphoadenosine 5'-phosphosulfate synthase 2 [Source:HGNC Symbol;Acc:HGNC:8604]	964	-0.9530128240585327	-0.04181439	Yes	
+row_23	CKB	creatine kinase B [Source:HGNC Symbol;Acc:HGNC:1991]	973	-1.0360149145126343	0.023638107	Yes	

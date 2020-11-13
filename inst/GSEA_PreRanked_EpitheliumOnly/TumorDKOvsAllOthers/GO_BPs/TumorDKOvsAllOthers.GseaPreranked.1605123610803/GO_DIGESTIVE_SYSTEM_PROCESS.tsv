@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	F11R	F11 receptor [Source:HGNC Symbol;Acc:HGNC:14685]	269	0.2896535098552704	-0.34483144	No	
+row_1	SOX9	SRY-box transcription factor 9 [Source:HGNC Symbol;Acc:HGNC:11204]	278	0.280718058347702	-0.3407365	No	
+row_2	TJP2	tight junction protein 2 [Source:HGNC Symbol;Acc:HGNC:11828]	295	0.2702713906764984	-0.34790203	No	
+row_3	KCNN4	potassium calcium-activated channel subfamily N member 4 [Source:HGNC Symbol;Acc:HGNC:6293]	312	0.26010599732398987	-0.35560364	No	
+row_4	MUC13	mucin 13, cell surface associated [Source:HGNC Symbol;Acc:HGNC:7511]	437	-0.28770431876182556	-0.5064281	No	
+row_5	AQP1	aquaporin 1 (Colton blood group) [Source:HGNC Symbol;Acc:HGNC:633]	495	-0.3192821741104126	-0.5658951	No	
+row_6	SLC2A2	solute carrier family 2 member 2 [Source:HGNC Symbol;Acc:HGNC:11006]	518	-0.3343863785266876	-0.57771146	No	
+row_7	LPCAT3	lysophosphatidylcholine acyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:30244]	544	-0.3603391945362091	-0.5921752	No	
+row_8	VDR	vitamin D receptor [Source:HGNC Symbol;Acc:HGNC:12679]	602	-0.4275470972061157	-0.64593256	Yes	
+row_9	SLC26A6	solute carrier family 26 member 6 [Source:HGNC Symbol;Acc:HGNC:14472]	611	-0.4451034963130951	-0.63316834	Yes	
+row_10	MOGAT2	monoacylglycerol O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:23248]	623	-0.46740174293518066	-0.6232442	Yes	
+row_11	VIL1	villin 1 [Source:HGNC Symbol;Acc:HGNC:12690]	624	-0.4687521159648895	-0.5985233	Yes	
+row_12	PLS1	plastin 1 [Source:HGNC Symbol;Acc:HGNC:9090]	646	-0.5086944699287415	-0.5998084	Yes	
+row_13	NPC1L1	NPC1 like intracellular cholesterol transporter 1 [Source:HGNC Symbol;Acc:HGNC:7898]	647	-0.5104362368583679	-0.57288915	Yes	
+row_14	APOA4	apolipoprotein A4 [Source:HGNC Symbol;Acc:HGNC:602]	692	-0.6682462692260742	-0.59654963	Yes	
+row_15	SLC5A1	solute carrier family 5 member 1 [Source:HGNC Symbol;Acc:HGNC:11036]	738	-1.025381088256836	-0.60271436	Yes	
+row_16	FABP1	fatty acid binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3555]	742	-1.1126315593719482	-0.5480528	Yes	
+row_17	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	747	-1.2770800590515137	-0.48605725	Yes	
+row_18	SCT	secretin [Source:HGNC Symbol;Acc:HGNC:10607]	753	-1.4681912660598755	-0.41532165	Yes	
+row_19	MUC2	mucin 2, oligomeric mucus/gel-forming [Source:HGNC Symbol;Acc:HGNC:7512]	759	-2.3776156902313232	-0.2966251	Yes	
+row_20	FABP2	fatty acid binding protein 2 [Source:HGNC Symbol;Acc:HGNC:3556]	763	-2.8678102493286133	-0.14939944	Yes	
+row_21	TFF3	trefoil factor 3 [Source:HGNC Symbol;Acc:HGNC:11757]	764	-2.9344115257263184	0.0053546927	Yes	

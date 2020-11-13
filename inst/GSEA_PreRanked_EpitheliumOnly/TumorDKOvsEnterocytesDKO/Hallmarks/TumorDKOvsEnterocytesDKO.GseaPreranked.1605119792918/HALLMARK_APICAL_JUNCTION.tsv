@@ -1,0 +1,19 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACTN1	actinin alpha 1 [Source:HGNC Symbol;Acc:HGNC:163]	129	0.7693761587142944	-0.013568216	Yes	
+row_1	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	134	0.7544302940368652	0.07088776	Yes	
+row_2	CLDN4	claudin 4 [Source:HGNC Symbol;Acc:HGNC:2046]	203	0.5619716644287109	0.08190684	Yes	
+row_3	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	232	0.5337080359458923	0.12156568	Yes	
+row_4	LAMC2	laminin subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:6493]	233	0.5315284132957458	0.18331766	Yes	
+row_5	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	366	0.3850211501121521	0.12270154	No	
+row_6	MYH9	myosin heavy chain 9 [Source:HGNC Symbol;Acc:HGNC:7579]	372	0.38262930512428284	0.16316429	No	
+row_7	ITGB1	integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	409	0.356621652841568	0.17586489	No	
+row_8	EPB41L2	erythrocyte membrane protein band 4.1 like 2 [Source:HGNC Symbol;Acc:HGNC:3379]	478	0.3197046220302582	0.15873782	No	
+row_9	ITGA2	integrin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6137]	539	0.2941422164440155	0.14502564	No	
+row_10	JUP	junction plakoglobin [Source:HGNC Symbol;Acc:HGNC:6207]	552	0.2905353009700775	0.16920248	No	
+row_11	MPZL2	myelin protein zero like 2 [Source:HGNC Symbol;Acc:HGNC:3496]	683	0.25058165192604065	0.0945636	No	
+row_12	MPP5	membrane palmitoylated protein 5 [Source:HGNC Symbol;Acc:HGNC:18669]	908	-0.35990265011787415	-0.042394526	No	
+row_13	MAPK13	mitogen-activated protein kinase 13 [Source:HGNC Symbol;Acc:HGNC:6875]	946	-0.39706653356552124	-0.025793202	No	
+row_14	TGFBI	transforming growth factor beta induced [Source:HGNC Symbol;Acc:HGNC:11771]	1044	-0.49811291694641113	-0.045337573	No	
+row_15	CLDN7	claudin 7 [Source:HGNC Symbol;Acc:HGNC:2049]	1049	-0.5056135058403015	0.010211332	No	
+row_16	CLDN15	claudin 15 [Source:HGNC Symbol;Acc:HGNC:2036]	1123	-0.6809346079826355	0.031060876	No	
+row_17	HADH	hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	1140	-0.735589861869812	0.103751	No	

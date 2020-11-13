@@ -1,0 +1,22 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	7	1.0671534538269043	0.10625499	Yes	
+row_1	AREG	amphiregulin [Source:HGNC Symbol;Acc:HGNC:651]	11	1.0183526277542114	0.21257058	Yes	
+row_2	F3	coagulation factor III, tissue factor [Source:HGNC Symbol;Acc:HGNC:3541]	29	0.7270906567573547	0.26861486	Yes	
+row_3	CD44	CD44 molecule (Indian blood group) [Source:HGNC Symbol;Acc:HGNC:1681]	58	0.5619633793830872	0.29206368	Yes	
+row_4	ACTN1	actinin alpha 1 [Source:HGNC Symbol;Acc:HGNC:163]	84	0.49115392565727234	0.31185186	Yes	
+row_5	APP	amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620]	97	0.4662449061870575	0.34632114	Yes	
+row_6	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	110	0.44804179668426514	0.3788183	Yes	
+row_7	PLAUR	plasminogen activator, urokinase receptor [Source:HGNC Symbol;Acc:HGNC:9053]	121	0.44230976700782776	0.41336825	Yes	
+row_8	HNRNPL	heterogeneous nuclear ribonucleoprotein L [Source:HGNC Symbol;Acc:HGNC:5045]	131	0.42762741446495056	0.44766447	Yes	
+row_9	BHLHE40	basic helix-loop-helix family member e40 [Source:HGNC Symbol;Acc:HGNC:1046]	155	0.39408618211746216	0.4596103	Yes	
+row_10	MAPK1IP1L	mitogen-activated protein kinase 1 interacting protein 1 like [Source:HGNC Symbol;Acc:HGNC:19840]	227	0.3168399930000305	0.39901635	Yes	
+row_11	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	232	0.3139440417289734	0.42768082	Yes	
+row_12	RRAS2	RAS related 2 [Source:HGNC Symbol;Acc:HGNC:17271]	235	0.31309986114501953	0.45892763	Yes	
+row_13	SRSF6	serine and arginine rich splicing factor 6 [Source:HGNC Symbol;Acc:HGNC:10788]	260	0.29484787583351135	0.4587853	Yes	
+row_14	TNFRSF12A	TNF receptor superfamily member 12A [Source:HGNC Symbol;Acc:HGNC:18152]	261	0.29406967759132385	0.49064422	Yes	
+row_15	EPHA2	EPH receptor A2 [Source:HGNC Symbol;Acc:HGNC:3386]	274	0.28151094913482666	0.5050998	Yes	
+row_16	SOX9	SRY-box transcription factor 9 [Source:HGNC Symbol;Acc:HGNC:11204]	278	0.280718058347702	0.53150153	Yes	
+row_17	IER3	immediate early response 3 [Source:HGNC Symbol;Acc:HGNC:5392]	318	0.25861456990242004	0.50738025	Yes	
+row_18	THBS1	thrombospondin 1 [Source:HGNC Symbol;Acc:HGNC:11785]	319	0.2585146427154541	0.5353872	Yes	
+row_19	ATP1B1	ATPase Na+/K+ transporting subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:804]	365	-0.25856655836105347	0.5032394	No	
+row_20	IER2	immediate early response 2 [Source:HGNC Symbol;Acc:HGNC:28871]	491	-0.3156209886074066	0.37032083	No	

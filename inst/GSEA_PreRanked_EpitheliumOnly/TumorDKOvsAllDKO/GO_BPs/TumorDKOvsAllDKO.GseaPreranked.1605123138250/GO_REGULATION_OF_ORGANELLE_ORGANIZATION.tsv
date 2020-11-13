@@ -1,0 +1,41 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TMSB4X	thymosin beta 4 X-linked [Source:HGNC Symbol;Acc:HGNC:11881]	4	0.7046668529510498	0.031165991	Yes	
+row_1	ANXA2	annexin A2 [Source:HGNC Symbol;Acc:HGNC:537]	6	0.6924484968185425	0.06954461	Yes	
+row_2	FAM162A	family with sequence similarity 162 member A [Source:HGNC Symbol;Acc:HGNC:17865]	9	0.6761683225631714	0.10431322	Yes	
+row_3	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	10	0.6586881875991821	0.14333722	Yes	
+row_4	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	11	0.6584210395812988	0.18234539	Yes	
+row_5	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	22	0.555739164352417	0.18881513	Yes	
+row_6	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	25	0.5315682888031006	0.2150169	Yes	
+row_7	TSPO	translocator protein [Source:HGNC Symbol;Acc:HGNC:1158]	26	0.5166745781898499	0.2456273	Yes	
+row_8	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	34	0.47600749135017395	0.25530985	Yes	
+row_9	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	41	0.4465313255786896	0.2658916	Yes	
+row_10	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	42	0.4461413323879242	0.29232326	Yes	
+row_11	NPM1	nucleophosmin 1 [Source:HGNC Symbol;Acc:HGNC:7910]	46	0.4414442181587219	0.3105401	Yes	
+row_12	SDC1	syndecan 1 [Source:HGNC Symbol;Acc:HGNC:10658]	49	0.4263771176338196	0.33050984	Yes	
+row_13	SET	SET nuclear proto-oncogene [Source:HGNC Symbol;Acc:HGNC:10760]	50	0.42515307664871216	0.35569805	Yes	
+row_14	S100A10	S100 calcium binding protein A10 [Source:HGNC Symbol;Acc:HGNC:10487]	53	0.42264324426651	0.37544656	Yes	
+row_15	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	69	0.39545300602912903	0.35919264	Yes	
+row_16	LMNA	lamin A/C [Source:HGNC Symbol;Acc:HGNC:6636]	70	0.39462971687316895	0.38257247	Yes	
+row_17	TMSB10	thymosin beta 10 [Source:HGNC Symbol;Acc:HGNC:11879]	88	0.3689432144165039	0.359457	No	
+row_18	CAPG	capping actin protein, gelsolin like [Source:HGNC Symbol;Acc:HGNC:1474]	109	0.3461546301841736	0.3270549	No	
+row_19	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma [Source:HGNC Symbol;Acc:HGNC:12852]	130	0.32716527581214905	0.29352775	No	
+row_20	G3BP1	G3BP stress granule assembly factor 1 [Source:HGNC Symbol;Acc:HGNC:30292]	142	0.32015329599380493	0.2833947	No	
+row_21	RANBP1	RAN binding protein 1 [Source:HGNC Symbol;Acc:HGNC:9847]	145	0.31864601373672485	0.29698187	No	
+row_22	VDAC1	voltage dependent anion channel 1 [Source:HGNC Symbol;Acc:HGNC:12669]	151	0.31429293751716614	0.30237466	No	
+row_23	GCLC	glutamate-cysteine ligase catalytic subunit [Source:HGNC Symbol;Acc:HGNC:4311]	173	0.30015799403190613	0.26460198	No	
+row_24	DSTN	destrin, actin depolymerizing factor [Source:HGNC Symbol;Acc:HGNC:15750]	177	0.29831424355506897	0.2743391	No	
+row_25	BTC	betacellulin [Source:HGNC Symbol;Acc:HGNC:1121]	181	0.2933272421360016	0.28378078	No	
+row_26	TFRC	transferrin receptor [Source:HGNC Symbol;Acc:HGNC:11763]	186	0.2916891276836395	0.2904799	No	
+row_27	ARF6	ADP ribosylation factor 6 [Source:HGNC Symbol;Acc:HGNC:659]	226	0.2730017304420471	0.20347929	No	
+row_28	TOMM7	translocase of outer mitochondrial membrane 7 [Source:HGNC Symbol;Acc:HGNC:21648]	228	0.2726227939128876	0.21698533	No	
+row_29	CAPZA2	capping actin protein of muscle Z-line subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:1490]	235	0.26985037326812744	0.2170996	No	
+row_30	BOK	BCL2 family apoptosis regulator BOK [Source:HGNC Symbol;Acc:HGNC:1087]	238	0.26827067136764526	0.2277023	No	
+row_31	HNRNPU	heterogeneous nuclear ribonucleoprotein U [Source:HGNC Symbol;Acc:HGNC:5048]	240	0.2677850127220154	0.24092172	No	
+row_32	HIF1A	hypoxia inducible factor 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:4910]	244	0.2661416232585907	0.24875279	No	
+row_33	TMOD3	tropomodulin 3 [Source:HGNC Symbol;Acc:HGNC:11873]	255	0.26249760389328003	0.23784944	No	
+row_34	HNRNPA1	heterogeneous nuclear ribonucleoprotein A1 [Source:HGNC Symbol;Acc:HGNC:5031]	261	0.2615104019641876	0.24011512	No	
+row_35	CAPZA1	capping actin protein of muscle Z-line subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:1488]	275	0.25476545095443726	0.22081716	No	
+row_36	ELAPOR1	endosome-lysosome associated apoptosis and autophagy regulator 1 [Source:HGNC Symbol;Acc:HGNC:29618]	315	-0.2803494334220886	0.13425188	No	
+row_37	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	351	-0.373076468706131	0.06376221	No	
+row_38	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	375	-0.46610143780708313	0.030529842	No	
+row_39	NUPR1	nuclear protein 1, transcriptional regulator [Source:HGNC Symbol;Acc:HGNC:29990]	400	-1.3154819011688232	0.044973537	No	

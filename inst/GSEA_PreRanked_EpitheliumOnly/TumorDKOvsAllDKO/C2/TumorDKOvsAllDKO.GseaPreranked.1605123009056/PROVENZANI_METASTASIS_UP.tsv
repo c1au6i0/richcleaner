@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PLAC8	placenta associated 8 [Source:HGNC Symbol;Acc:HGNC:19254]	16	0.5947688817977905	0.010598872	No	
+row_1	GPX2	glutathione peroxidase 2 [Source:HGNC Symbol;Acc:HGNC:4554]	18	0.5820276141166687	0.057522427	No	
+row_2	SAT1	spermidine/spermine N1-acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10540]	40	0.45204922556877136	0.043534793	No	
+row_3	CAVIN3	caveolae associated protein 3 [Source:HGNC Symbol;Acc:HGNC:9400]	64	0.3971804678440094	0.019900972	No	
+row_4	HNRNPA3	heterogeneous nuclear ribonucleoprotein A3 [Source:HGNC Symbol;Acc:HGNC:24941]	80	0.3783285617828369	0.014616644	No	
+row_5	TUBB	tubulin beta class I [Source:HGNC Symbol;Acc:HGNC:20778]	82	0.3757162392139435	0.044023234	No	
+row_6	HNRNPF	heterogeneous nuclear ribonucleoprotein F [Source:HGNC Symbol;Acc:HGNC:5039]	126	0.3303108513355255	-0.035163496	No	
+row_7	OXCT1	3-oxoacid CoA-transferase 1 [Source:HGNC Symbol;Acc:HGNC:8527]	158	0.3111070692539215	-0.08605555	No	
+row_8	PROM1	prominin 1 [Source:HGNC Symbol;Acc:HGNC:9454]	196	0.2883591651916504	-0.15384161	No	
+row_9	LSM7	LSM7 homolog, U6 small nuclear RNA and mRNA degradation associated [Source:HGNC Symbol;Acc:HGNC:20470]	233	0.2713121175765991	-0.2205813	No	
+row_10	TOMM70	translocase of outer mitochondrial membrane 70 [Source:HGNC Symbol;Acc:HGNC:11985]	258	0.26172035932540894	-0.25821018	No	
+row_11	HNRNPA1	heterogeneous nuclear ribonucleoprotein A1 [Source:HGNC Symbol;Acc:HGNC:5031]	261	0.2615104019641876	-0.24099405	No	
+row_12	JUN	Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]	307	-0.2716788053512573	-0.3301465	No	
+row_13	GALNT7	polypeptide N-acetylgalactosaminyltransferase 7 [Source:HGNC Symbol;Acc:HGNC:4129]	322	-0.2966322600841522	-0.33987352	No	
+row_14	CD24	CD24 molecule [Source:HGNC Symbol;Acc:HGNC:1645]	387	-0.6521586179733276	-0.4441027	Yes	
+row_15	CHGB	chromogranin B [Source:HGNC Symbol;Acc:HGNC:1930]	409	-2.1343424320220947	-0.31525448	Yes	
+row_16	TFF3	trefoil factor 3 [Source:HGNC Symbol;Acc:HGNC:11757]	415	-3.9186036586761475	0.0049875383	Yes	

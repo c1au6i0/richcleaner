@@ -1,0 +1,20 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	3	1.3506386280059814	0.067594916	No	
+row_1	RPL39	ribosomal protein L39 [Source:HGNC Symbol;Acc:HGNC:10350]	49	0.5838735103607178	0.038544998	No	
+row_2	WFDC2	WAP four-disulfide core domain 2 [Source:HGNC Symbol;Acc:HGNC:15939]	55	0.5730356574058533	0.06225392	No	
+row_3	ROMO1	reactive oxygen species modulator 1 [Source:HGNC Symbol;Acc:HGNC:16185]	81	0.49944764375686646	0.055395402	No	
+row_4	PGLYRP1	peptidoglycan recognition protein 1 [Source:HGNC Symbol;Acc:HGNC:8904]	94	0.4742079973220825	0.06453232	No	
+row_5	IGKC	immunoglobulin kappa constant [Source:HGNC Symbol;Acc:HGNC:5716]	163	0.38226518034935	-0.005871164	No	
+row_6	ANG	angiogenin [Source:HGNC Symbol;Acc:HGNC:483]	386	-0.26653802394866943	-0.28774247	No	
+row_7	BST1	bone marrow stromal cell antigen 1 [Source:HGNC Symbol;Acc:HGNC:1118]	424	-0.28481701016426086	-0.32197815	No	
+row_8	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	444	-0.2920899987220764	-0.33182833	No	
+row_9	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	574	-0.3801666498184204	-0.48367637	No	
+row_10	LEAP2	liver enriched antimicrobial peptide 2 [Source:HGNC Symbol;Acc:HGNC:29571]	594	-0.4114803373813629	-0.48719788	No	
+row_11	PSMB10	proteasome 20S subunit beta 10 [Source:HGNC Symbol;Acc:HGNC:9538]	635	-0.4836503565311432	-0.5148938	No	
+row_12	HLA-DRB1	major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	686	-0.6428012847900391	-0.5474867	No	
+row_13	CHGA	chromogranin A [Source:HGNC Symbol;Acc:HGNC:1929]	727	-0.8985058665275574	-0.55319184	Yes	
+row_14	REG3A	regenerating family member 3 alpha [Source:HGNC Symbol;Acc:HGNC:8601]	746	-1.241577386856079	-0.5113781	Yes	
+row_15	REG3G	regenerating family member 3 gamma [Source:HGNC Symbol;Acc:HGNC:29595]	749	-1.324976921081543	-0.4438101	Yes	
+row_16	LYZ	lysozyme [Source:HGNC Symbol;Acc:HGNC:6740]	761	-2.4896504878997803	-0.32650492	Yes	
+row_17	ITLN1	intelectin 1 [Source:HGNC Symbol;Acc:HGNC:18259]	762	-2.621704339981079	-0.18753308	Yes	
+row_18	DEFA3	defensin alpha 3 [Source:HGNC Symbol;Acc:HGNC:2762]	766	-3.663578748703003	0.0026666112	Yes	

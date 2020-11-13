@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FLNB	filamin B [Source:HGNC Symbol;Acc:HGNC:3755]	23	0.7915253639221191	0.056227546	Yes	
+row_1	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	27	0.7286320924758911	0.13231461	Yes	
+row_2	HIF1A	hypoxia inducible factor 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:4910]	47	0.595140814781189	0.1723071	Yes	
+row_3	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	66	0.5342736840248108	0.2069468	Yes	
+row_4	FAT1	FAT atypical cadherin 1 [Source:HGNC Symbol;Acc:HGNC:3595]	85	0.49035942554473877	0.23675872	Yes	
+row_5	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	110	0.44804179668426514	0.25388625	Yes	
+row_6	SDC1	syndecan 1 [Source:HGNC Symbol;Acc:HGNC:10658]	112	0.44650328159332275	0.3016345	Yes	
+row_7	ONECUT2	one cut homeobox 2 [Source:HGNC Symbol;Acc:HGNC:8139]	114	0.44561997056007385	0.34928563	Yes	
+row_8	SOD1	superoxide dismutase 1 [Source:HGNC Symbol;Acc:HGNC:11179]	120	0.44357559084892273	0.39135724	Yes	
+row_9	ROCK2	Rho associated coiled-coil containing protein kinase 2 [Source:HGNC Symbol;Acc:HGNC:10252]	192	0.34392938017845154	0.33412072	Yes	
+row_10	MYADM	myeloid associated differentiation marker [Source:HGNC Symbol;Acc:HGNC:7544]	220	0.3258872926235199	0.33380297	Yes	
+row_11	FOXA1	forkhead box A1 [Source:HGNC Symbol;Acc:HGNC:5021]	241	0.3077232241630554	0.34085917	Yes	
+row_12	F11R	F11 receptor [Source:HGNC Symbol;Acc:HGNC:14685]	269	0.2896535098552704	0.33655804	Yes	
+row_13	EPHA2	EPH receptor A2 [Source:HGNC Symbol;Acc:HGNC:3386]	274	0.28151094913482666	0.36215156	Yes	
+row_14	SOX9	SRY-box transcription factor 9 [Source:HGNC Symbol;Acc:HGNC:11204]	278	0.280718058347702	0.3889966	Yes	
+row_15	SLC4A7	solute carrier family 4 member 7 [Source:HGNC Symbol;Acc:HGNC:11033]	287	0.27528509497642517	0.40855092	Yes	
+row_16	TJP2	tight junction protein 2 [Source:HGNC Symbol;Acc:HGNC:11828]	295	0.2702713906764984	0.42889273	Yes	
+row_17	KLF5	Kruppel like factor 5 [Source:HGNC Symbol;Acc:HGNC:6349]	302	0.26582449674606323	0.45008436	Yes	
+row_18	FLNA	filamin A [Source:HGNC Symbol;Acc:HGNC:3754]	320	0.2576660215854645	0.45565352	Yes	
+row_19	IQGAP1	IQ motif containing GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:6110]	336	0.25188177824020386	0.46326417	Yes	
+row_20	CLDN3	claudin 3 [Source:HGNC Symbol;Acc:HGNC:2045]	567	-0.37662452459335327	0.19677061	No	
+row_21	SLC9A3R1	SLC9A3 regulator 1 [Source:HGNC Symbol;Acc:HGNC:11075]	687	-0.6455308198928833	0.108434	No	

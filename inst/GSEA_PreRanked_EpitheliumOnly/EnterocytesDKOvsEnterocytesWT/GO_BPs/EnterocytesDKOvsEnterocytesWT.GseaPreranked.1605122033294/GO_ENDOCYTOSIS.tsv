@@ -1,0 +1,25 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	10	1.093573808670044	0.09551027	Yes	
+row_1	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	44	0.5904099941253662	0.11870834	Yes	
+row_2	IGKC	immunoglobulin kappa constant [Source:HGNC Symbol;Acc:HGNC:5716]	48	0.5824788212776184	0.17197166	Yes	
+row_3	SDCBP	syndecan binding protein [Source:HGNC Symbol;Acc:HGNC:10662]	63	0.513802707195282	0.2072863	Yes	
+row_4	VEGFA	vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	65	0.5057293176651001	0.2551807	Yes	
+row_5	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	74	0.467189222574234	0.29215264	Yes	
+row_6	ARF6	ADP ribosylation factor 6 [Source:HGNC Symbol;Acc:HGNC:659]	75	0.46412602066993713	0.33705026	Yes	
+row_7	LDLR	low density lipoprotein receptor [Source:HGNC Symbol;Acc:HGNC:6547]	76	0.4635609984397888	0.3818932	Yes	
+row_8	APOC3	apolipoprotein C3 [Source:HGNC Symbol;Acc:HGNC:610]	80	0.45191723108291626	0.42252654	Yes	
+row_9	APP	amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620]	96	0.4257490634918213	0.44829547	Yes	
+row_10	CXCL16	C-X-C motif chemokine ligand 16 [Source:HGNC Symbol;Acc:HGNC:16642]	141	0.3641728460788727	0.43830308	Yes	
+row_11	TFRC	transferrin receptor [Source:HGNC Symbol;Acc:HGNC:11763]	170	0.31801122426986694	0.44028917	Yes	
+row_12	JCHAIN	joining chain of multimeric IgA and IgM [Source:HGNC Symbol;Acc:HGNC:5713]	202	0.28869011998176575	0.43635562	Yes	
+row_13	WASL	WASP like actin nucleation promoting factor [Source:HGNC Symbol;Acc:HGNC:12735]	203	0.2884257733821869	0.46425673	Yes	
+row_14	LGALS3	galectin 3 [Source:HGNC Symbol;Acc:HGNC:6563]	302	-0.2634928822517395	0.3890265	No	
+row_15	KIAA1109	KIAA1109 [Source:HGNC Symbol;Acc:HGNC:26953]	353	-0.27734461426734924	0.36446822	No	
+row_16	ARF1	ADP ribosylation factor 1 [Source:HGNC Symbol;Acc:HGNC:652]	380	-0.28402501344680786	0.36522213	No	
+row_17	HEATR5A	HEAT repeat containing 5A [Source:HGNC Symbol;Acc:HGNC:20276]	465	-0.31236323714256287	0.3091079	No	
+row_18	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	520	-0.33788469433784485	0.286295	No	
+row_19	SCAMP5	secretory carrier membrane protein 5 [Source:HGNC Symbol;Acc:HGNC:30386]	538	-0.34672093391418457	0.30236357	No	
+row_20	ANO6	anoctamin 6 [Source:HGNC Symbol;Acc:HGNC:25240]	540	-0.3474460244178772	0.3349463	No	
+row_21	CD81	CD81 molecule [Source:HGNC Symbol;Acc:HGNC:1701]	624	-0.4003819525241852	0.2883744	No	
+row_22	CD36	CD36 molecule [Source:HGNC Symbol;Acc:HGNC:1663]	678	-0.43444788455963135	0.27593037	No	
+row_23	PYCARD	PYD and CARD domain containing [Source:HGNC Symbol;Acc:HGNC:16608]	773	-0.515485942363739	0.22918789	No	

@@ -1,0 +1,25 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	S100A11	S100 calcium binding protein A11 [Source:HGNC Symbol;Acc:HGNC:10488]	29	1.227587342262268	0.06871474	Yes	
+row_1	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	44	1.1072791814804077	0.14044489	Yes	
+row_2	SCD	stearoyl-CoA desaturase [Source:HGNC Symbol;Acc:HGNC:10571]	73	0.9840580224990845	0.1917164	Yes	
+row_3	CD9	CD9 molecule [Source:HGNC Symbol;Acc:HGNC:1709]	75	0.9802417159080505	0.26435396	Yes	
+row_4	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	134	0.7544302940368652	0.27436405	Yes	
+row_5	LGALS3	galectin 3 [Source:HGNC Symbol;Acc:HGNC:6563]	159	0.6817842125892639	0.306197	Yes	
+row_6	MAL2	mal, T cell differentiation protein 2 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:13634]	173	0.6223383545875549	0.34239742	Yes	
+row_7	ANXA5	annexin A5 [Source:HGNC Symbol;Acc:HGNC:543]	202	0.5633208155632019	0.3621474	Yes	
+row_8	FABP5	fatty acid binding protein 5 [Source:HGNC Symbol;Acc:HGNC:3560]	266	0.4659968614578247	0.3465385	Yes	
+row_9	PLAUR	plasminogen activator, urokinase receptor [Source:HGNC Symbol;Acc:HGNC:9053]	267	0.46598249673843384	0.38144982	Yes	
+row_10	FASN	fatty acid synthase [Source:HGNC Symbol;Acc:HGNC:3594]	285	0.44585850834846497	0.4012207	Yes	
+row_11	ALCAM	activated leukocyte cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:400]	411	0.35548412799835205	0.3276129	No	
+row_12	IDI1	isopentenyl-diphosphate delta isomerase 1 [Source:HGNC Symbol;Acc:HGNC:5387]	433	0.34290289878845215	0.3364627	No	
+row_13	GUSB	glucuronidase beta [Source:HGNC Symbol;Acc:HGNC:4696]	615	0.26676538586616516	0.21130036	No	
+row_14	TNFRSF12A	TNF receptor superfamily member 12A [Source:HGNC Symbol;Acc:HGNC:18152]	620	0.26589512825012207	0.22801346	No	
+row_15	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	647	0.2595812678337097	0.22661118	No	
+row_16	SC5D	sterol-C5-desaturase [Source:HGNC Symbol;Acc:HGNC:10547]	712	-0.2593326270580292	0.19471715	No	
+row_17	HMGCS1	3-hydroxy-3-methylglutaryl-CoA synthase 1 [Source:HGNC Symbol;Acc:HGNC:5007]	721	-0.2626231014728546	0.20797741	No	
+row_18	ERRFI1	ERBB receptor feedback inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:18185]	755	-0.2720525562763214	0.20189601	No	
+row_19	STARD4	StAR related lipid transfer domain containing 4 [Source:HGNC Symbol;Acc:HGNC:18058]	902	-0.3569140136241913	0.111554936	No	
+row_20	PCYT2	phosphate cytidylyltransferase 2, ethanolamine [Source:HGNC Symbol;Acc:HGNC:8756]	1011	-0.4582902193069458	0.059282072	No	
+row_21	PNRC1	proline rich nuclear receptor coactivator 1 [Source:HGNC Symbol;Acc:HGNC:17278]	1073	-0.545129120349884	0.051205613	No	
+row_22	CHKA	choline kinase alpha [Source:HGNC Symbol;Acc:HGNC:1937]	1124	-0.6817723512649536	0.062187612	No	
+row_23	ATF3	activating transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:785]	1136	-0.7219915390014648	0.107457876	No	

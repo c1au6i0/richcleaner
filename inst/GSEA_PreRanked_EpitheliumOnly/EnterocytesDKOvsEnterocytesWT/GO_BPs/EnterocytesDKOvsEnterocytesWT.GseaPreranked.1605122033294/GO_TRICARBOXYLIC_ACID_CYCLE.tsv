@@ -1,0 +1,24 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PDHB	pyruvate dehydrogenase E1 subunit beta [Source:HGNC Symbol;Acc:HGNC:8808]	433	-0.30037587881088257	-0.4217698	No	
+row_1	PDHA1	pyruvate dehydrogenase E1 subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:8806]	452	-0.30791768431663513	-0.4168894	No	
+row_2	CS	citrate synthase [Source:HGNC Symbol;Acc:HGNC:2422]	486	-0.3227536976337433	-0.42628384	No	
+row_3	DLAT	dihydrolipoamide S-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:2896]	494	-0.32490524649620056	-0.408821	No	
+row_4	ME2	malic enzyme 2 [Source:HGNC Symbol;Acc:HGNC:6984]	523	-0.338260293006897	-0.4119055	No	
+row_5	ACO1	aconitase 1 [Source:HGNC Symbol;Acc:HGNC:117]	584	-0.37507691979408264	-0.44505104	No	
+row_6	FH	fumarate hydratase [Source:HGNC Symbol;Acc:HGNC:3700]	644	-0.4143153727054596	-0.47419298	No	
+row_7	IDH3G	isocitrate dehydrogenase (NAD(+)) 3 non-catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:5386]	664	-0.4265640676021576	-0.46133786	No	
+row_8	SDHA	succinate dehydrogenase complex flavoprotein subunit A [Source:HGNC Symbol;Acc:HGNC:10680]	760	-0.5023577809333801	-0.52076125	Yes	
+row_9	SDHC	succinate dehydrogenase complex subunit C [Source:HGNC Symbol;Acc:HGNC:10682]	765	-0.5042508244514465	-0.48661184	Yes	
+row_10	DLD	dihydrolipoamide dehydrogenase [Source:HGNC Symbol;Acc:HGNC:2898]	770	-0.5128448605537415	-0.45181042	Yes	
+row_11	SUCLA2	succinate-CoA ligase ADP-forming subunit beta [Source:HGNC Symbol;Acc:HGNC:11448]	780	-0.5230294466018677	-0.42136982	Yes	
+row_12	DLST	dihydrolipoamide S-succinyltransferase [Source:HGNC Symbol;Acc:HGNC:2911]	787	-0.5380356907844543	-0.3867106	Yes	
+row_13	IDH3B	isocitrate dehydrogenase (NAD(+)) 3 non-catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:5385]	801	-0.5451448559761047	-0.35869893	Yes	
+row_14	SDHD	succinate dehydrogenase complex subunit D [Source:HGNC Symbol;Acc:HGNC:10683]	830	-0.5777232646942139	-0.34361604	Yes	
+row_15	OGDH	oxoglutarate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:8124]	833	-0.5811320543289185	-0.30158046	Yes	
+row_16	IDH3A	isocitrate dehydrogenase (NAD(+)) 3 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:5384]	865	-0.6424024701118469	-0.2846706	Yes	
+row_17	FAHD1	fumarylacetoacetate hydrolase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:14169]	878	-0.6565433740615845	-0.24718072	Yes	
+row_18	SUCLG1	succinate-CoA ligase GDP/ADP-forming subunit alpha [Source:HGNC Symbol;Acc:HGNC:11449]	915	-0.7390629649162292	-0.22807093	Yes	
+row_19	ACO2	aconitase 2 [Source:HGNC Symbol;Acc:HGNC:118]	953	-0.880581259727478	-0.19925123	Yes	
+row_20	SDHB	succinate dehydrogenase complex iron sulfur subunit B [Source:HGNC Symbol;Acc:HGNC:10681]	960	-0.9203367233276367	-0.13558787	Yes	
+row_21	MDH2	malate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:6971]	980	-1.1206825971603394	-0.070071824	Yes	
+row_22	MDH1	malate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:6970]	981	-1.1266003847122192	0.015400382	Yes	

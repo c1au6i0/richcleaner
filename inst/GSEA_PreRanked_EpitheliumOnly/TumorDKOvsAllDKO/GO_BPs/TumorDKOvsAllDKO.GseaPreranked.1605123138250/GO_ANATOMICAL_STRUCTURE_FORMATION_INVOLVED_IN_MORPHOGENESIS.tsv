@@ -1,0 +1,32 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANXA2	annexin A2 [Source:HGNC Symbol;Acc:HGNC:537]	6	0.6924484968185425	0.037955057	Yes	
+row_1	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	11	0.6584210395812988	0.07845106	Yes	
+row_2	KRT19	keratin 19 [Source:HGNC Symbol;Acc:HGNC:6436]	15	0.6018701791763306	0.117165156	Yes	
+row_3	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	22	0.555739164352417	0.14456587	Yes	
+row_4	F3	coagulation factor III, tissue factor [Source:HGNC Symbol;Acc:HGNC:3541]	24	0.5324541330337524	0.18308882	Yes	
+row_5	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	25	0.5315682888031006	0.22412735	Yes	
+row_6	KRT8	keratin 8 [Source:HGNC Symbol;Acc:HGNC:6446]	30	0.489909291267395	0.2516138	Yes	
+row_7	NCL	nucleolin [Source:HGNC Symbol;Acc:HGNC:7667]	36	0.4708935618400574	0.27504817	Yes	
+row_8	SAT1	spermidine/spermine N1-acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10540]	40	0.45204922556877136	0.30219567	Yes	
+row_9	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	42	0.4461413323879242	0.33405504	Yes	
+row_10	RTN4	reticulon 4 [Source:HGNC Symbol;Acc:HGNC:14085]	43	0.4448782503604889	0.36840087	Yes	
+row_11	PGK1	phosphoglycerate kinase 1 [Source:HGNC Symbol;Acc:HGNC:8896]	57	0.4160909056663513	0.3669325	Yes	
+row_12	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	69	0.39545300602912903	0.3690388	Yes	
+row_13	KLF5	Kruppel like factor 5 [Source:HGNC Symbol;Acc:HGNC:6349]	107	0.3492462933063507	0.30039433	No	
+row_14	TSPAN12	tetraspanin 12 [Source:HGNC Symbol;Acc:HGNC:21641]	138	0.32225286960601807	0.24775375	No	
+row_15	PMP22	peripheral myelin protein 22 [Source:HGNC Symbol;Acc:HGNC:9118]	146	0.3167990744113922	0.25412366	No	
+row_16	ATP5F1B	ATP synthase F1 subunit beta [Source:HGNC Symbol;Acc:HGNC:830]	160	0.3083372414112091	0.24433641	No	
+row_17	TXNRD1	thioredoxin reductase 1 [Source:HGNC Symbol;Acc:HGNC:12437]	163	0.3064437806606293	0.26282674	No	
+row_18	JUP	junction plakoglobin [Source:HGNC Symbol;Acc:HGNC:6207]	170	0.3028024435043335	0.27070007	No	
+row_19	PROM1	prominin 1 [Source:HGNC Symbol;Acc:HGNC:9454]	196	0.2883591651916504	0.2283627	No	
+row_20	PERP	p53 apoptosis effector related to PMP22 [Source:HGNC Symbol;Acc:HGNC:17637]	231	0.2720051109790802	0.16150694	No	
+row_21	HIF1A	hypoxia inducible factor 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:4910]	244	0.2661416232585907	0.15104605	No	
+row_22	TMOD3	tropomodulin 3 [Source:HGNC Symbol;Acc:HGNC:11873]	255	0.26249760389328003	0.1454718	No	
+row_23	ACTN1	actinin alpha 1 [Source:HGNC Symbol;Acc:HGNC:163]	278	0.25406816601753235	0.10823902	No	
+row_24	JUN	Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]	307	-0.2716788053512573	0.056861944	No	
+row_25	ENPEP	glutamyl aminopeptidase [Source:HGNC Symbol;Acc:HGNC:3355]	335	-0.3295270502567291	0.012534898	No	
+row_26	CREB3L1	cAMP responsive element binding protein 3 like 1 [Source:HGNC Symbol;Acc:HGNC:18856]	340	-0.34399959444999695	0.028756695	No	
+row_27	WARS1	tryptophanyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:12729]	347	-0.3586890399456024	0.0409446	No	
+row_28	RAMP1	receptor activity modifying protein 1 [Source:HGNC Symbol;Acc:HGNC:9843]	371	-0.4466107189655304	0.01599265	No	
+row_29	KLF4	Kruppel like factor 4 [Source:HGNC Symbol;Acc:HGNC:6348]	376	-0.4675544798374176	0.04175323	No	
+row_30	ANPEP	alanyl aminopeptidase, membrane [Source:HGNC Symbol;Acc:HGNC:500]	389	-0.7979745268821716	0.07235131	No	

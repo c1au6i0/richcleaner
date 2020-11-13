@@ -1,0 +1,42 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	58	1.0583137273788452	-0.011804848	No	
+row_1	STARD10	StAR related lipid transfer domain containing 10 [Source:HGNC Symbol;Acc:HGNC:10666]	442	0.3365353047847748	-0.31194606	No	
+row_2	GOT2	glutamic-oxaloacetic transaminase 2 [Source:HGNC Symbol;Acc:HGNC:4433]	653	0.25883540511131287	-0.4740322	No	
+row_3	SLC7A11	solute carrier family 7 member 11 [Source:HGNC Symbol;Acc:HGNC:11059]	685	0.25016888976097107	-0.49087933	No	
+row_4	SERINC3	serine incorporator 3 [Source:HGNC Symbol;Acc:HGNC:11699]	741	-0.26817986369132996	-0.5266371	No	
+row_5	ABCD1	ATP binding cassette subfamily D member 1 [Source:HGNC Symbol;Acc:HGNC:61]	765	-0.27601656317710876	-0.5361168	No	
+row_6	SLC5A12	solute carrier family 5 member 12 [Source:HGNC Symbol;Acc:HGNC:28750]	781	-0.28620749711990356	-0.5387521	No	
+row_7	PPFIA3	PTPRF interacting protein alpha 3 [Source:HGNC Symbol;Acc:HGNC:9247]	802	-0.29589784145355225	-0.5451287	No	
+row_8	SLC36A1	solute carrier family 36 member 1 [Source:HGNC Symbol;Acc:HGNC:18761]	807	-0.297624409198761	-0.5384395	No	
+row_9	SLC3A2	solute carrier family 3 member 2 [Source:HGNC Symbol;Acc:HGNC:11026]	817	-0.30202171206474304	-0.53566855	No	
+row_10	NOS2	nitric oxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:7873]	833	-0.3117631673812866	-0.5374502	No	
+row_11	SLC16A10	solute carrier family 16 member 10 [Source:HGNC Symbol;Acc:HGNC:17027]	870	-0.33632001280784607	-0.5554848	No	
+row_12	SLC25A15	solute carrier family 25 member 15 [Source:HGNC Symbol;Acc:HGNC:10985]	871	-0.33705687522888184	-0.54422647	No	
+row_13	CROT	carnitine O-octanoyltransferase [Source:HGNC Symbol;Acc:HGNC:2366]	883	-0.3450334668159485	-0.5416448	No	
+row_14	SLCO2A1	solute carrier organic anion transporter family member 2A1 [Source:HGNC Symbol;Acc:HGNC:10955]	924	-0.3782690763473511	-0.56153023	No	
+row_15	SLC7A8	solute carrier family 7 member 8 [Source:HGNC Symbol;Acc:HGNC:11066]	939	-0.3947394788265228	-0.5597273	No	
+row_16	SLC6A20	solute carrier family 6 member 20 [Source:HGNC Symbol;Acc:HGNC:30927]	972	-0.41085267066955566	-0.57202035	No	
+row_17	SLC26A3	solute carrier family 26 member 3 [Source:HGNC Symbol;Acc:HGNC:3018]	994	-0.4330110251903534	-0.57463014	Yes	
+row_18	SLC16A5	solute carrier family 16 member 5 [Source:HGNC Symbol;Acc:HGNC:10926]	1001	-0.4423993229866028	-0.56473124	Yes	
+row_19	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	1005	-0.4446200132369995	-0.55231917	Yes	
+row_20	SLC7A7	solute carrier family 7 member 7 [Source:HGNC Symbol;Acc:HGNC:11065]	1035	-0.48568329215049744	-0.55967367	Yes	
+row_21	PDZK1	PDZ domain containing 1 [Source:HGNC Symbol;Acc:HGNC:8821]	1061	-0.5205377340316772	-0.56261194	Yes	
+row_22	SLC26A6	solute carrier family 26 member 6 [Source:HGNC Symbol;Acc:HGNC:14472]	1066	-0.522800862789154	-0.5484015	Yes	
+row_23	SLC7A9	solute carrier family 7 member 9 [Source:HGNC Symbol;Acc:HGNC:11067]	1083	-0.5615503191947937	-0.5426528	Yes	
+row_24	SLC26A2	solute carrier family 26 member 2 [Source:HGNC Symbol;Acc:HGNC:10994]	1088	-0.5756403207778931	-0.52667737	Yes	
+row_25	GLS	glutaminase [Source:HGNC Symbol;Acc:HGNC:4331]	1092	-0.5859963297843933	-0.50954306	Yes	
+row_26	SLC25A22	solute carrier family 25 member 22 [Source:HGNC Symbol;Acc:HGNC:19954]	1099	-0.6028616428375244	-0.49428442	Yes	
+row_27	SLC3A1	solute carrier family 3 member 1 [Source:HGNC Symbol;Acc:HGNC:11025]	1154	-0.7723442316055298	-0.5123891	Yes	
+row_28	SLC5A8	solute carrier family 5 member 8 [Source:HGNC Symbol;Acc:HGNC:19119]	1155	-0.7724592089653015	-0.48658758	Yes	
+row_29	ABCC2	ATP binding cassette subfamily C member 2 [Source:HGNC Symbol;Acc:HGNC:53]	1161	-0.796758770942688	-0.46403942	Yes	
+row_30	SLC10A2	solute carrier family 10 member 2 [Source:HGNC Symbol;Acc:HGNC:10906]	1175	-0.8300246000289917	-0.44688419	Yes	
+row_31	SLC27A4	solute carrier family 27 member 4 [Source:HGNC Symbol;Acc:HGNC:10998]	1198	-0.9556950330734253	-0.4328484	Yes	
+row_32	ACE	angiotensin I converting enzyme [Source:HGNC Symbol;Acc:HGNC:2707]	1202	-0.9814121127128601	-0.40250644	Yes	
+row_33	SLC43A2	solute carrier family 43 member 2 [Source:HGNC Symbol;Acc:HGNC:23087]	1204	-0.9986978769302368	-0.3699611	Yes	
+row_34	SLC13A2	solute carrier family 13 member 2 [Source:HGNC Symbol;Acc:HGNC:10917]	1220	-1.1406625509262085	-0.344056	Yes	
+row_35	SLC6A8	solute carrier family 6 member 8 [Source:HGNC Symbol;Acc:HGNC:11055]	1231	-1.2646304368972778	-0.3099451	Yes	
+row_36	SLC9A3R1	SLC9A3 regulator 1 [Source:HGNC Symbol;Acc:HGNC:11075]	1235	-1.3089489936828613	-0.2686628	Yes	
+row_37	SLC6A19	solute carrier family 6 member 19 [Source:HGNC Symbol;Acc:HGNC:27960]	1247	-1.6037949323654175	-0.22403622	Yes	
+row_38	ACE2	angiotensin I converting enzyme 2 [Source:HGNC Symbol;Acc:HGNC:13557]	1249	-1.6108580827713013	-0.1710436	Yes	
+row_39	FABP1	fatty acid binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3555]	1259	-1.9348732233047485	-0.11373236	Yes	
+row_40	FABP6	fatty acid binding protein 6 [Source:HGNC Symbol;Acc:HGNC:3561]	1269	-3.648376703262329	8.130543E-4	Yes	

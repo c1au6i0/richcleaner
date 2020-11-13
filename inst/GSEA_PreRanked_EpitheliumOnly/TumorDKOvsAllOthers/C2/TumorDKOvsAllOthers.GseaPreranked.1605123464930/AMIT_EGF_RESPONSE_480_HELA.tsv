@@ -1,0 +1,19 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ABHD2	abhydrolase domain containing 2, acylglycerol lipase [Source:HGNC Symbol;Acc:HGNC:18717]	22	0.7936760187149048	0.063614644	Yes	
+row_1	PMEPA1	prostate transmembrane protein, androgen induced 1 [Source:HGNC Symbol;Acc:HGNC:14107]	26	0.7293991446495056	0.14500454	Yes	
+row_2	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	27	0.7286320924758911	0.23029932	Yes	
+row_3	CD44	CD44 molecule (Indian blood group) [Source:HGNC Symbol;Acc:HGNC:1681]	58	0.5619633793830872	0.2561369	Yes	
+row_4	GPRC5A	G protein-coupled receptor class C group 5 member A [Source:HGNC Symbol;Acc:HGNC:9836]	67	0.5316164493560791	0.30771625	Yes	
+row_5	ACTN1	actinin alpha 1 [Source:HGNC Symbol;Acc:HGNC:163]	84	0.49115392565727234	0.34390655	Yes	
+row_6	LPCAT4	lysophosphatidylcholine acyltransferase 4 [Source:HGNC Symbol;Acc:HGNC:30059]	89	0.48274120688438416	0.39509073	Yes	
+row_7	ITGA6	integrin subunit alpha 6 [Source:HGNC Symbol;Acc:HGNC:6142]	106	0.454662024974823	0.42700922	Yes	
+row_8	PDLIM7	PDZ and LIM domain 7 [Source:HGNC Symbol;Acc:HGNC:22958]	108	0.45286309719085693	0.47869053	Yes	
+row_9	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	110	0.44804179668426514	0.52980745	Yes	
+row_10	PLAUR	plasminogen activator, urokinase receptor [Source:HGNC Symbol;Acc:HGNC:9053]	121	0.44230976700782776	0.5682693	Yes	
+row_11	PLEC	plectin [Source:HGNC Symbol;Acc:HGNC:9069]	139	0.4125789701938629	0.59392995	Yes	
+row_12	ZFP36L2	ZFP36 ring finger protein like 2 [Source:HGNC Symbol;Acc:HGNC:1108]	172	0.367814302444458	0.594377	Yes	
+row_13	SNRPF	small nuclear ribonucleoprotein polypeptide F [Source:HGNC Symbol;Acc:HGNC:11162]	228	0.3153865337371826	0.55806094	No	
+row_14	TNFRSF12A	TNF receptor superfamily member 12A [Source:HGNC Symbol;Acc:HGNC:18152]	261	0.29406967759132385	0.5498753	No	
+row_15	ARHGDIA	Rho GDP dissociation inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:678]	296	0.2697383165359497	0.53617835	No	
+row_16	EFHD2	EF-hand domain family member D2 [Source:HGNC Symbol;Acc:HGNC:28670]	308	0.26236197352409363	0.5522437	No	
+row_17	DGAT1	diacylglycerol O-acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:2843]	644	-0.5035091042518616	0.16511334	No	

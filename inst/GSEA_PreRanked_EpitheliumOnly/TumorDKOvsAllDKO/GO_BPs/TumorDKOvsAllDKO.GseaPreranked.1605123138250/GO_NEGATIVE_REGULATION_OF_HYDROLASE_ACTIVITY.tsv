@@ -1,0 +1,28 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LGALS3	galectin 3 [Source:HGNC Symbol;Acc:HGNC:6563]	1	0.9599125385284424	0.055796176	No	
+row_1	ANXA2	annexin A2 [Source:HGNC Symbol;Acc:HGNC:537]	6	0.6924484968185425	0.0876604	No	
+row_2	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	11	0.6584210395812988	0.11745608	No	
+row_3	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	22	0.555739164352417	0.12566438	No	
+row_4	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	34	0.47600749135017395	0.1264682	No	
+row_5	SET	SET nuclear proto-oncogene [Source:HGNC Symbol;Acc:HGNC:10760]	50	0.42515307664871216	0.11395037	No	
+row_6	WFDC2	WAP four-disulfide core domain 2 [Source:HGNC Symbol;Acc:HGNC:15939]	97	0.35807281732559204	0.018070797	No	
+row_7	SERPINB1	serpin family B member 1 [Source:HGNC Symbol;Acc:HGNC:3311]	129	0.32822203636169434	-0.041260254	No	
+row_8	CSTB	cystatin B [Source:HGNC Symbol;Acc:HGNC:2482]	131	0.32674291729927063	-0.02395488	No	
+row_9	PPP1R2	protein phosphatase 1 regulatory inhibitor subunit 2 [Source:HGNC Symbol;Acc:HGNC:9288]	134	0.324311226606369	-0.0093548745	No	
+row_10	CD44	CD44 molecule (Indian blood group) [Source:HGNC Symbol;Acc:HGNC:1681]	164	0.3060827851295471	-0.06491669	No	
+row_11	SERPINB6	serpin family B member 6 [Source:HGNC Symbol;Acc:HGNC:8950]	197	0.2883448600769043	-0.12922946	No	
+row_12	PPP1R1B	protein phosphatase 1 regulatory inhibitor subunit 1B [Source:HGNC Symbol;Acc:HGNC:9287]	215	0.2776641845703125	-0.15582833	No	
+row_13	POR	cytochrome p450 oxidoreductase [Source:HGNC Symbol;Acc:HGNC:9208]	222	0.2743811309337616	-0.15449378	No	
+row_14	GAPDH	glyceraldehyde-3-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4141]	234	0.2711993455886841	-0.16614038	No	
+row_15	HERPUD1	homocysteine inducible ER protein with ubiquitin like domain 1 [Source:HGNC Symbol;Acc:HGNC:13744]	288	-0.2504114806652069	-0.28646758	No	
+row_16	CST3	cystatin C [Source:HGNC Symbol;Acc:HGNC:2475]	343	-0.3492322862148285	-0.40334493	No	
+row_17	RASA4	RAS p21 protein activator 4 [Source:HGNC Symbol;Acc:HGNC:23181]	360	-0.40121278166770935	-0.41987565	Yes	
+row_18	SYTL2	synaptotagmin like 2 [Source:HGNC Symbol;Acc:HGNC:15585]	361	-0.40621644258499146	-0.39518148	Yes	
+row_19	R3HDML	R3H domain containing like [Source:HGNC Symbol;Acc:HGNC:16249]	372	-0.4474419057369232	-0.39355662	Yes	
+row_20	RGS2	regulator of G protein signaling 2 [Source:HGNC Symbol;Acc:HGNC:9998]	373	-0.4509578347206116	-0.3661426	Yes	
+row_21	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	375	-0.46610143780708313	-0.34036553	Yes	
+row_22	KLF4	Kruppel like factor 4 [Source:HGNC Symbol;Acc:HGNC:6348]	376	-0.4675544798374176	-0.31194258	Yes	
+row_23	APOC3	apolipoprotein C3 [Source:HGNC Symbol;Acc:HGNC:610]	391	-0.8304588198661804	-0.29726407	Yes	
+row_24	PCSK1N	proprotein convertase subtilisin/kexin type 1 inhibitor [Source:HGNC Symbol;Acc:HGNC:17301]	392	-0.8577544689178467	-0.24512061	Yes	
+row_25	SPINK1	serine peptidase inhibitor Kazal type 1 [Source:HGNC Symbol;Acc:HGNC:11244]	395	-0.9275135397911072	-0.19385153	Yes	
+row_26	SPINK4	serine peptidase inhibitor Kazal type 4 [Source:HGNC Symbol;Acc:HGNC:16646]	416	-4.072333812713623	0.0025574476	Yes	

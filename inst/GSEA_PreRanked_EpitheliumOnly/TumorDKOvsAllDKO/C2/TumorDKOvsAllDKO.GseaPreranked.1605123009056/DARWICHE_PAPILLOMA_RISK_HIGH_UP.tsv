@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GSTA1	glutathione S-transferase alpha 1 [Source:HGNC Symbol;Acc:HGNC:4626]	3	0.7680385112762451	0.10177935	Yes	
+row_1	FAM162A	family with sequence similarity 162 member A [Source:HGNC Symbol;Acc:HGNC:17865]	9	0.6761683225631714	0.18550178	Yes	
+row_2	S100A11	S100 calcium binding protein A11 [Source:HGNC Symbol;Acc:HGNC:10488]	23	0.5380399823188782	0.22962403	Yes	
+row_3	PMEPA1	prostate transmembrane protein, androgen induced 1 [Source:HGNC Symbol;Acc:HGNC:14107]	29	0.49336227774620056	0.2873406	Yes	
+row_4	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	34	0.47600749135017395	0.34508204	Yes	
+row_5	NCL	nucleolin [Source:HGNC Symbol;Acc:HGNC:7667]	36	0.4708935618400574	0.40957728	Yes	
+row_6	HSPD1	heat shock protein family D (Hsp60) member 1 [Source:HGNC Symbol;Acc:HGNC:5261]	45	0.4432012140750885	0.45267668	Yes	
+row_7	PGK1	phosphoglycerate kinase 1 [Source:HGNC Symbol;Acc:HGNC:8896]	57	0.4160909056663513	0.48443806	Yes	
+row_8	BZW1	basic leucine zipper and W2 domains 1 [Source:HGNC Symbol;Acc:HGNC:18380]	86	0.37125203013420105	0.4674267	Yes	
+row_9	WFDC2	WAP four-disulfide core domain 2 [Source:HGNC Symbol;Acc:HGNC:15939]	97	0.35807281732559204	0.49342823	Yes	
+row_10	NHP2	NHP2 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:14377]	116	0.3385803699493408	0.49670666	Yes	
+row_11	MT1A	metallothionein 1A [Source:HGNC Symbol;Acc:HGNC:7393]	166	0.3056003749370575	0.41798666	No	
+row_12	RPL39	ribosomal protein L39 [Source:HGNC Symbol;Acc:HGNC:10350]	175	0.2993217408657074	0.44061786	No	
+row_13	ELAVL1	ELAV like RNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3312]	239	0.2678306996822357	0.32161203	No	
+row_14	COX5B	cytochrome c oxidase subunit 5B [Source:HGNC Symbol;Acc:HGNC:2269]	247	0.26485058665275574	0.34183314	No	
+row_15	H2AZ1	H2A.Z variant histone 1 [Source:HGNC Symbol;Acc:HGNC:4741]	257	0.2617552578449249	0.35662636	No	
+row_16	ELAPOR1	endosome-lysosome associated apoptosis and autophagy regulator 1 [Source:HGNC Symbol;Acc:HGNC:29618]	315	-0.2803494334220886	0.25436404	No	

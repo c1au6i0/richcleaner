@@ -1,0 +1,57 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LGALS3	galectin 3 [Source:HGNC Symbol;Acc:HGNC:6563]	1	0.9599125385284424	0.025583714	No	
+row_1	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	10	0.6586881875991821	0.022935279	No	
+row_2	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	11	0.6584210395812988	0.042378403	No	
+row_3	DMBT1	deleted in malignant brain tumors 1 [Source:HGNC Symbol;Acc:HGNC:2926]	12	0.6378223299980164	0.06121325	No	
+row_4	PLAC8	placenta associated 8 [Source:HGNC Symbol;Acc:HGNC:19254]	16	0.5947688817977905	0.07048944	No	
+row_5	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	22	0.555739164352417	0.07308822	No	
+row_6	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	25	0.5315682888031006	0.08326053	No	
+row_7	TSPO	translocator protein [Source:HGNC Symbol;Acc:HGNC:1158]	26	0.5166745781898499	0.09851789	No	
+row_8	FLNB	filamin B [Source:HGNC Symbol;Acc:HGNC:3755]	27	0.5095658898353577	0.11356533	No	
+row_9	KRT8	keratin 8 [Source:HGNC Symbol;Acc:HGNC:6446]	30	0.489909291267395	0.12250745	No	
+row_10	HSPD1	heat shock protein family D (Hsp60) member 1 [Source:HGNC Symbol;Acc:HGNC:5261]	45	0.4432012140750885	0.09692112	No	
+row_11	HMGB2	high mobility group box 2 [Source:HGNC Symbol;Acc:HGNC:5000]	54	0.4201262891292572	0.08722797	No	
+row_12	IL33	interleukin 33 [Source:HGNC Symbol;Acc:HGNC:16028]	55	0.4194910228252411	0.09961551	No	
+row_13	PRDX1	peroxiredoxin 1 [Source:HGNC Symbol;Acc:HGNC:9352]	59	0.4066278338432312	0.1033359	No	
+row_14	TUBB	tubulin beta class I [Source:HGNC Symbol;Acc:HGNC:20778]	82	0.3757162392139435	0.053657293	No	
+row_15	WFDC2	WAP four-disulfide core domain 2 [Source:HGNC Symbol;Acc:HGNC:15939]	97	0.35807281732559204	0.025557125	No	
+row_16	CYBA	cytochrome b-245 alpha chain [Source:HGNC Symbol;Acc:HGNC:2577]	102	0.3542243242263794	0.024967618	No	
+row_17	HMGB1	high mobility group box 1 [Source:HGNC Symbol;Acc:HGNC:4983]	114	0.3430297374725342	0.0047105188	No	
+row_18	REG3A	regenerating family member 3 alpha [Source:HGNC Symbol;Acc:HGNC:8601]	124	0.3323754370212555	-0.010336338	No	
+row_19	G3BP1	G3BP stress granule assembly factor 1 [Source:HGNC Symbol;Acc:HGNC:30292]	142	0.32015329599380493	-0.047843564	No	
+row_20	MIF	macrophage migration inhibitory factor [Source:HGNC Symbol;Acc:HGNC:7097]	154	0.31344732642173767	-0.06897423	No	
+row_21	CD44	CD44 molecule (Indian blood group) [Source:HGNC Symbol;Acc:HGNC:1681]	164	0.3060827851295471	-0.08479751	No	
+row_22	RPL39	ribosomal protein L39 [Source:HGNC Symbol;Acc:HGNC:10350]	175	0.2993217408657074	-0.10358287	No	
+row_23	MUC17	mucin 17, cell surface associated [Source:HGNC Symbol;Acc:HGNC:16800]	183	0.2921721041202545	-0.11429206	No	
+row_24	PLSCR1	phospholipid scramblase 1 [Source:HGNC Symbol;Acc:HGNC:9092]	201	0.2854034900665283	-0.15282544	No	
+row_25	RPS19	ribosomal protein S19 [Source:HGNC Symbol;Acc:HGNC:10402]	217	0.27697494626045227	-0.18608287	No	
+row_26	C15orf48	chromosome 15 open reading frame 48 [Source:HGNC Symbol;Acc:HGNC:29898]	225	0.27344846725463867	-0.19734497	No	
+row_27	NONO	non-POU domain containing octamer binding [Source:HGNC Symbol;Acc:HGNC:7871]	230	0.27209043502807617	-0.20035988	No	
+row_28	GAPDH	glyceraldehyde-3-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4141]	234	0.2711993455886841	-0.20063868	No	
+row_29	CAPZA2	capping actin protein of muscle Z-line subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:1490]	235	0.26985037326812744	-0.19267002	No	
+row_30	REG3G	regenerating family member 3 gamma [Source:HGNC Symbol;Acc:HGNC:29595]	237	0.2694959342479706	-0.18747425	No	
+row_31	PGLYRP1	peptidoglycan recognition protein 1 [Source:HGNC Symbol;Acc:HGNC:8904]	241	0.26719439029693604	-0.18787132	No	
+row_32	LSM5	LSM5 homolog, U6 small nuclear RNA and mRNA degradation associated [Source:HGNC Symbol;Acc:HGNC:17162]	273	0.25632479786872864	-0.26593742	No	
+row_33	CAPZA1	capping actin protein of muscle Z-line subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:1488]	275	0.25476545095443726	-0.26117665	No	
+row_34	C1QBP	complement C1q binding protein [Source:HGNC Symbol;Acc:HGNC:1243]	284	0.251401424407959	-0.27585223	No	
+row_35	SERINC3	serine incorporator 3 [Source:HGNC Symbol;Acc:HGNC:11699]	300	-0.2638694941997528	-0.30949664	No	
+row_36	PLA2G10	phospholipase A2 group X [Source:HGNC Symbol;Acc:HGNC:9029]	303	-0.2659264802932739	-0.30716872	No	
+row_37	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	305	-0.26824018359184265	-0.30201006	No	
+row_38	PDCD4	programmed cell death 4 [Source:HGNC Symbol;Acc:HGNC:8763]	308	-0.27207037806510925	-0.2995007	No	
+row_39	SELENOK	selenoprotein K [Source:HGNC Symbol;Acc:HGNC:30394]	314	-0.277778297662735	-0.30511007	No	
+row_40	HSPA5	heat shock protein family A (Hsp70) member 5 [Source:HGNC Symbol;Acc:HGNC:5238]	321	-0.2926256060600281	-0.31304345	No	
+row_41	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	328	-0.3010304570198059	-0.32072863	No	
+row_42	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	348	-0.36987370252609253	-0.36229247	No	
+row_43	EGR1	early growth response 1 [Source:HGNC Symbol;Acc:HGNC:3238]	355	-0.3854314982891083	-0.36748528	No	
+row_44	FER1L6	fer-1 like family member 6 [Source:HGNC Symbol;Acc:HGNC:28065]	367	-0.4265522062778473	-0.385276	No	
+row_45	CCL23	C-C motif chemokine ligand 23 [Source:HGNC Symbol;Acc:HGNC:10622]	369	-0.4310687482357025	-0.375309	No	
+row_46	CLPS	colipase [Source:HGNC Symbol;Acc:HGNC:2085]	382	-0.5743468403816223	-0.39149773	Yes	
+row_47	MUC3A	mucin 3A, cell surface associated [Source:HGNC Symbol;Acc:HGNC:7513]	385	-0.5997304320335388	-0.3793126	Yes	
+row_48	CD24	CD24 molecule [Source:HGNC Symbol;Acc:HGNC:1645]	387	-0.6521586179733276	-0.36281684	Yes	
+row_49	ITLN1	intelectin 1 [Source:HGNC Symbol;Acc:HGNC:18259]	396	-0.9773956537246704	-0.35605386	Yes	
+row_50	CHGA	chromogranin A [Source:HGNC Symbol;Acc:HGNC:1929]	399	-1.2148116827011108	-0.32570544	Yes	
+row_51	DEFA3	defensin alpha 3 [Source:HGNC Symbol;Acc:HGNC:2762]	402	-1.413041591644287	-0.28950328	Yes	
+row_52	REG4	regenerating family member 4 [Source:HGNC Symbol;Acc:HGNC:22977]	403	-1.4251763820648193	-0.24741793	Yes	
+row_53	LYZ	lysozyme [Source:HGNC Symbol;Acc:HGNC:6740]	407	-1.8362603187561035	-0.2014806	Yes	
+row_54	MUC2	mucin 2, oligomeric mucus/gel-forming [Source:HGNC Symbol;Acc:HGNC:7512]	414	-3.2947847843170166	-0.12076043	Yes	
+row_55	ZG16	zymogen granule protein 16 [Source:HGNC Symbol;Acc:HGNC:30961]	417	-4.276520729064941	5.029142E-8	Yes	

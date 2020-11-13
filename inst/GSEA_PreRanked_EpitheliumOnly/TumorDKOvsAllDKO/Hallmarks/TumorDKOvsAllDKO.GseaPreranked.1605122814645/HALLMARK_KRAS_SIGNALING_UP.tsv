@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EMP1	epithelial membrane protein 1 [Source:HGNC Symbol;Acc:HGNC:3333]	2	0.8661971688270569	0.12051264	No	
+row_1	ANXA10	annexin A10 [Source:HGNC Symbol;Acc:HGNC:534]	51	0.4246687889099121	0.06292253	No	
+row_2	IL33	interleukin 33 [Source:HGNC Symbol;Acc:HGNC:16028]	55	0.4194910228252411	0.11624491	No	
+row_3	KCNN4	potassium calcium-activated channel subfamily N member 4 [Source:HGNC Symbol;Acc:HGNC:6293]	125	0.3308022916316986	-0.007051678	No	
+row_4	JUP	junction plakoglobin [Source:HGNC Symbol;Acc:HGNC:6207]	170	0.3028024435043335	-0.07236952	No	
+row_5	BTC	betacellulin [Source:HGNC Symbol;Acc:HGNC:1121]	181	0.2933272421360016	-0.05469268	No	
+row_6	MPZL2	myelin protein zero like 2 [Source:HGNC Symbol;Acc:HGNC:3496]	202	0.28531014919281006	-0.06299107	No	
+row_7	MALL	mal, T cell differentiation protein like [Source:HGNC Symbol;Acc:HGNC:6818]	221	0.2745453119277954	-0.067886055	No	
+row_8	TMEM176B	transmembrane protein 176B [Source:HGNC Symbol;Acc:HGNC:29596]	320	-0.2921469211578369	-0.26874247	No	
+row_9	PIGR	polymeric immunoglobulin receptor [Source:HGNC Symbol;Acc:HGNC:8968]	363	-0.4184744656085968	-0.31234154	Yes	
+row_10	TSPAN13	tetraspanin 13 [Source:HGNC Symbol;Acc:HGNC:21643]	370	-0.44322407245635986	-0.2630254	Yes	
+row_11	KLF4	Kruppel like factor 4 [Source:HGNC Symbol;Acc:HGNC:6348]	376	-0.4675544798374176	-0.20770346	Yes	
+row_12	CPE	carboxypeptidase E [Source:HGNC Symbol;Acc:HGNC:2303]	378	-0.4938620328903198	-0.13864507	Yes	
+row_13	TPH1	tryptophan hydroxylase 1 [Source:HGNC Symbol;Acc:HGNC:12008]	388	-0.7331603765487671	-0.054773584	Yes	
+row_14	PCSK1N	proprotein convertase subtilisin/kexin type 1 inhibitor [Source:HGNC Symbol;Acc:HGNC:17301]	392	-0.8577544689178467	0.062034674	Yes	

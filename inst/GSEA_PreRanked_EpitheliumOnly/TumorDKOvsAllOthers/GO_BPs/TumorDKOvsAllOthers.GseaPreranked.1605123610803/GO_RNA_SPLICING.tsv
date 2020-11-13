@@ -1,0 +1,26 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LGALS3	galectin 3 [Source:HGNC Symbol;Acc:HGNC:6563]	6	1.0708757638931274	0.10149136	Yes	
+row_1	HNRNPA3	heterogeneous nuclear ribonucleoprotein A3 [Source:HGNC Symbol;Acc:HGNC:24941]	54	0.5767353773117065	0.097322196	Yes	
+row_2	AHNAK	AHNAK nucleoprotein [Source:HGNC Symbol;Acc:HGNC:347]	68	0.524288535118103	0.13348639	Yes	
+row_3	HNRNPH1	heterogeneous nuclear ribonucleoprotein H1 [Source:HGNC Symbol;Acc:HGNC:5041]	95	0.4694477617740631	0.14656697	Yes	
+row_4	SNRPG	small nuclear ribonucleoprotein polypeptide G [Source:HGNC Symbol;Acc:HGNC:11163]	96	0.46854397654533386	0.19450133	Yes	
+row_5	PRDX6	peroxiredoxin 6 [Source:HGNC Symbol;Acc:HGNC:16753]	116	0.4444580078125	0.21443394	Yes	
+row_6	HNRNPL	heterogeneous nuclear ribonucleoprotein L [Source:HGNC Symbol;Acc:HGNC:5045]	131	0.42762741446495056	0.23936515	Yes	
+row_7	PCBP1	poly(rC) binding protein 1 [Source:HGNC Symbol;Acc:HGNC:8647]	153	0.3952089846134186	0.25157115	Yes	
+row_8	NCL	nucleolin [Source:HGNC Symbol;Acc:HGNC:7667]	158	0.38972681760787964	0.2860658	Yes	
+row_9	HNRNPK	heterogeneous nuclear ribonucleoprotein K [Source:HGNC Symbol;Acc:HGNC:5044]	199	0.34103330969810486	0.26719174	Yes	
+row_10	PTBP3	polypyrimidine tract binding protein 3 [Source:HGNC Symbol;Acc:HGNC:10253]	204	0.3377387821674347	0.29636776	Yes	
+row_11	RPS26	ribosomal protein S26 [Source:HGNC Symbol;Acc:HGNC:10414]	219	0.3265533745288849	0.31095856	Yes	
+row_12	NONO	non-POU domain containing octamer binding [Source:HGNC Symbol;Acc:HGNC:7871]	223	0.32290542125701904	0.33996114	Yes	
+row_13	ALYREF	Aly/REF export factor [Source:HGNC Symbol;Acc:HGNC:19071]	224	0.3218117654323578	0.37288406	Yes	
+row_14	SNRPF	small nuclear ribonucleoprotein polypeptide F [Source:HGNC Symbol;Acc:HGNC:11162]	228	0.3153865337371826	0.4011174	Yes	
+row_15	UBL5	ubiquitin like 5 [Source:HGNC Symbol;Acc:HGNC:13736]	247	0.3048492670059204	0.40811145	Yes	
+row_16	SNRPE	small nuclear ribonucleoprotein polypeptide E [Source:HGNC Symbol;Acc:HGNC:11161]	252	0.30182501673698425	0.4336133	Yes	
+row_17	SRSF6	serine and arginine rich splicing factor 6 [Source:HGNC Symbol;Acc:HGNC:10788]	260	0.29484787583351135	0.45436907	Yes	
+row_18	LSM7	LSM7 homolog, U6 small nuclear RNA and mRNA degradation associated [Source:HGNC Symbol;Acc:HGNC:20470]	264	0.29098084568977356	0.4801056	Yes	
+row_19	POLR2L	RNA polymerase II subunit L [Source:HGNC Symbol;Acc:HGNC:9199]	283	0.27666935324668884	0.4842167	Yes	
+row_20	POLR2K	RNA polymerase II subunit K [Source:HGNC Symbol;Acc:HGNC:9198]	285	0.2762744426727295	0.51113683	Yes	
+row_21	ELAVL1	ELAV like RNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3312]	304	0.26544317603111267	0.5140994	Yes	
+row_22	RTRAF	RNA transcription, translation and transport factor [Source:HGNC Symbol;Acc:HGNC:23169]	398	-0.27137312293052673	0.41686225	No	
+row_23	SLC39A5	solute carrier family 39 member 5 [Source:HGNC Symbol;Acc:HGNC:20502]	528	-0.3492589294910431	0.27920607	No	
+row_24	TMBIM6	transmembrane BAX inhibitor motif containing 6 [Source:HGNC Symbol;Acc:HGNC:11723]	593	-0.41083577275276184	0.2352151	No	

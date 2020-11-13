@@ -1,0 +1,34 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	34	0.6588003635406494	-0.0074960524	No	
+row_1	MIF	macrophage migration inhibitory factor [Source:HGNC Symbol;Acc:HGNC:7097]	79	0.5006850361824036	-0.037867155	No	
+row_2	PRDX6	peroxiredoxin 6 [Source:HGNC Symbol;Acc:HGNC:16753]	116	0.4444580078125	-0.060671613	No	
+row_3	UGDH	UDP-glucose 6-dehydrogenase [Source:HGNC Symbol;Acc:HGNC:12525]	124	0.43833261728286743	-0.044433717	No	
+row_4	IDH1	isocitrate dehydrogenase (NADP(+)) 1 [Source:HGNC Symbol;Acc:HGNC:5382]	160	0.38597342371940613	-0.06931501	No	
+row_5	IDI1	isopentenyl-diphosphate delta isomerase 1 [Source:HGNC Symbol;Acc:HGNC:5387]	167	0.375064492225647	-0.055434946	No	
+row_6	XIST	X inactive specific transcript [Source:HGNC Symbol;Acc:HGNC:12810]	222	0.32437506318092346	-0.1097499	No	
+row_7	DHCR24	24-dehydrocholesterol reductase [Source:HGNC Symbol;Acc:HGNC:2859]	291	0.273009330034256	-0.18610395	No	
+row_8	ME1	malic enzyme 1 [Source:HGNC Symbol;Acc:HGNC:6983]	333	0.2540724575519562	-0.22688562	No	
+row_9	DECR1	2,4-dienoyl-CoA reductase 1 [Source:HGNC Symbol;Acc:HGNC:2753]	351	-0.25323325395584106	-0.23510788	No	
+row_10	IDH3B	isocitrate dehydrogenase (NAD(+)) 3 non-catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:5385]	392	-0.26882895827293396	-0.273664	No	
+row_11	ACAA1	acetyl-CoA acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:82]	405	-0.275907963514328	-0.27376083	No	
+row_12	FH	fumarate hydratase [Source:HGNC Symbol;Acc:HGNC:3700]	407	-0.277224063873291	-0.2588347	No	
+row_13	REEP6	receptor accessory protein 6 [Source:HGNC Symbol;Acc:HGNC:30078]	412	-0.2797646224498749	-0.24783538	No	
+row_14	HSD17B10	hydroxysteroid 17-beta dehydrogenase 10 [Source:HGNC Symbol;Acc:HGNC:4800]	421	-0.2841920256614685	-0.24201079	No	
+row_15	OSTC	oligosaccharyltransferase complex non-catalytic subunit [Source:HGNC Symbol;Acc:HGNC:24448]	481	-0.3107897937297821	-0.30391726	No	
+row_16	VNN1	vanin 1 [Source:HGNC Symbol;Acc:HGNC:12705]	487	-0.3138664662837982	-0.29227343	No	
+row_17	ECI1	enoyl-CoA delta isomerase 1 [Source:HGNC Symbol;Acc:HGNC:2703]	490	-0.31547290086746216	-0.27645913	No	
+row_18	ALDH1A1	aldehyde dehydrogenase 1 family member A1 [Source:HGNC Symbol;Acc:HGNC:402]	517	-0.33406004309654236	-0.2921617	No	
+row_19	ACAA2	acetyl-CoA acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:83]	555	-0.37108758091926575	-0.3206348	No	
+row_20	ALDH9A1	aldehyde dehydrogenase 9 family member A1 [Source:HGNC Symbol;Acc:HGNC:412]	597	-0.42059746384620667	-0.35163438	No	
+row_21	PSME1	proteasome activator subunit 1 [Source:HGNC Symbol;Acc:HGNC:9568]	619	-0.45781654119491577	-0.3532737	Yes	
+row_22	HPGD	15-hydroxyprostaglandin dehydrogenase [Source:HGNC Symbol;Acc:HGNC:5154]	621	-0.4598962366580963	-0.3276169	Yes	
+row_23	CA4	carbonic anhydrase 4 [Source:HGNC Symbol;Acc:HGNC:1375]	625	-0.4694886803627014	-0.30411404	Yes	
+row_24	SUCLG1	succinate-CoA ligase GDP/ADP-forming subunit alpha [Source:HGNC Symbol;Acc:HGNC:11449]	637	-0.4878202974796295	-0.2904039	Yes	
+row_25	ACSL5	acyl-CoA synthetase long chain family member 5 [Source:HGNC Symbol;Acc:HGNC:16526]	643	-0.49960801005363464	-0.26784915	Yes	
+row_26	ECH1	enoyl-CoA hydratase 1 [Source:HGNC Symbol;Acc:HGNC:3149]	667	-0.5591143369674683	-0.26625535	Yes	
+row_27	MDH2	malate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:6971]	675	-0.5867174863815308	-0.24130096	Yes	
+row_28	HADH	hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	690	-0.6540776491165161	-0.22190052	Yes	
+row_29	MAOA	monoamine oxidase A [Source:HGNC Symbol;Acc:HGNC:6833]	694	-0.6726738214492798	-0.18646204	Yes	
+row_30	MDH1	malate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:6970]	719	-0.8359899520874023	-0.16996258	Yes	
+row_31	FABP1	fatty acid binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3555]	742	-1.1126315593719482	-0.1344951	Yes	
+row_32	FABP2	fatty acid binding protein 2 [Source:HGNC Symbol;Acc:HGNC:3556]	763	-2.8678102493286133	0.0067934226	Yes	

@@ -1,0 +1,25 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FABP6	fatty acid binding protein 6 [Source:HGNC Symbol;Acc:HGNC:3561]	0	3.7953433990478516	0.23315099	Yes	
+row_1	HMGCS1	3-hydroxy-3-methylglutaryl-CoA synthase 1 [Source:HGNC Symbol;Acc:HGNC:5007]	7	1.1506723165512085	0.2976712	Yes	
+row_2	MSMO1	methylsterol monooxygenase 1 [Source:HGNC Symbol;Acc:HGNC:10545]	12	1.0861291885375977	0.360282	Yes	
+row_3	SLC10A2	solute carrier family 10 member 2 [Source:HGNC Symbol;Acc:HGNC:10906]	15	0.9295724034309387	0.4153309	Yes	
+row_4	INSIG1	insulin induced gene 1 [Source:HGNC Symbol;Acc:HGNC:6083]	22	0.7930747270584106	0.4578836	Yes	
+row_5	DHCR24	24-dehydrocholesterol reductase [Source:HGNC Symbol;Acc:HGNC:2859]	29	0.721125066280365	0.4960164	Yes	
+row_6	SQLE	squalene epoxidase [Source:HGNC Symbol;Acc:HGNC:11279]	32	0.6954421401023865	0.5366825	Yes	
+row_7	SCD	stearoyl-CoA desaturase [Source:HGNC Symbol;Acc:HGNC:10571]	36	0.6586044430732727	0.5740578	Yes	
+row_8	IDI1	isopentenyl-diphosphate delta isomerase 1 [Source:HGNC Symbol;Acc:HGNC:5387]	46	0.5843395590782166	0.60070455	Yes	
+row_9	CYP51A1	cytochrome P450 family 51 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2649]	47	0.5835601687431335	0.6365531	Yes	
+row_10	LGMN	legumain [Source:HGNC Symbol;Acc:HGNC:9472]	98	0.4245831072330475	0.61124814	No	
+row_11	FDPS	farnesyl diphosphate synthase [Source:HGNC Symbol;Acc:HGNC:3631]	128	0.3757230341434479	0.6045244	No	
+row_12	HMGCR	3-hydroxy-3-methylglutaryl-CoA reductase [Source:HGNC Symbol;Acc:HGNC:5006]	140	0.3645966649055481	0.61561656	No	
+row_13	FDFT1	farnesyl-diphosphate farnesyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:3629]	188	0.2998398542404175	0.58573174	No	
+row_14	SREBF2	sterol regulatory element binding transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:11290]	231	0.26032912731170654	0.5585585	No	
+row_15	HSD17B7	hydroxysteroid 17-beta dehydrogenase 7 [Source:HGNC Symbol;Acc:HGNC:5215]	235	0.2576461136341095	0.5713027	No	
+row_16	VDR	vitamin D receptor [Source:HGNC Symbol;Acc:HGNC:12679]	321	-0.2694392800331116	0.50049585	No	
+row_17	ACOT8	acyl-CoA thioesterase 8 [Source:HGNC Symbol;Acc:HGNC:15919]	328	-0.2702556848526001	0.5109314	No	
+row_18	ELOVL6	ELOVL fatty acid elongase 6 [Source:HGNC Symbol;Acc:HGNC:15829]	438	-0.3026563823223114	0.41749915	No	
+row_19	EBP	EBP cholestenol delta-isomerase [Source:HGNC Symbol;Acc:HGNC:3133]	455	-0.3090462386608124	0.42004013	No	
+row_20	SAR1B	secretion associated Ras related GTPase 1B [Source:HGNC Symbol;Acc:HGNC:10535]	733	-0.47722309827804565	0.16466977	No	
+row_21	SLC27A2	solute carrier family 27 member 2 [Source:HGNC Symbol;Acc:HGNC:10996]	791	-0.5397854447364807	0.13924752	No	
+row_22	HSD17B4	hydroxysteroid 17-beta dehydrogenase 4 [Source:HGNC Symbol;Acc:HGNC:5213]	796	-0.5426245331764221	0.16847038	No	
+row_23	SCP2	sterol carrier protein 2 [Source:HGNC Symbol;Acc:HGNC:10606]	835	-0.586867094039917	0.16546762	No	

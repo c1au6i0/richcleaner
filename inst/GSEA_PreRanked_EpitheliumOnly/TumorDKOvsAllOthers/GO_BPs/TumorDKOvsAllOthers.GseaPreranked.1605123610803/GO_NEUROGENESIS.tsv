@@ -1,0 +1,71 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	S100A6	S100 calcium binding protein A6 [Source:HGNC Symbol;Acc:HGNC:10496]	0	1.811274766921997	0.054281194	Yes	
+row_1	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	3	1.3506386280059814	0.091896586	Yes	
+row_2	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	7	1.0671534538269043	0.11958573	Yes	
+row_3	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	9	1.036751389503479	0.149225	Yes	
+row_4	AREG	amphiregulin [Source:HGNC Symbol;Acc:HGNC:651]	11	1.0183526277542114	0.1783129	Yes	
+row_5	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	27	0.7286320924758911	0.17868967	Yes	
+row_6	PROM1	prominin 1 [Source:HGNC Symbol;Acc:HGNC:9454]	33	0.6613738536834717	0.19135699	Yes	
+row_7	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	34	0.6588003635406494	0.21110025	Yes	
+row_8	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	38	0.6448140144348145	0.22613251	Yes	
+row_9	RTN4	reticulon 4 [Source:HGNC Symbol;Acc:HGNC:14085]	39	0.6444033980369568	0.24544431	Yes	
+row_10	HIF1A	hypoxia inducible factor 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:4910]	47	0.595140814781189	0.2532655	Yes	
+row_11	TSPO	translocator protein [Source:HGNC Symbol;Acc:HGNC:1158]	51	0.5812650322914124	0.26639327	Yes	
+row_12	LAMC2	laminin subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:6493]	69	0.5228712558746338	0.2577425	Yes	
+row_13	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	72	0.5145708322525024	0.27030218	Yes	
+row_14	IL33	interleukin 33 [Source:HGNC Symbol;Acc:HGNC:16028]	76	0.50267493724823	0.28107476	Yes	
+row_15	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma [Source:HGNC Symbol;Acc:HGNC:12852]	87	0.4866916537284851	0.281354	Yes	
+row_16	ACTR2	actin related protein 2 [Source:HGNC Symbol;Acc:HGNC:169]	91	0.48093873262405396	0.2914752	Yes	
+row_17	APP	amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620]	97	0.4662449061870575	0.29829478	Yes	
+row_18	ITGA6	integrin subunit alpha 6 [Source:HGNC Symbol;Acc:HGNC:6142]	106	0.454662024974823	0.3004754	Yes	
+row_19	PDLIM7	PDZ and LIM domain 7 [Source:HGNC Symbol;Acc:HGNC:22958]	108	0.45286309719085693	0.3126164	Yes	
+row_20	ONECUT2	one cut homeobox 2 [Source:HGNC Symbol;Acc:HGNC:8139]	114	0.44561997056007385	0.3188179	Yes	
+row_21	SOD1	superoxide dismutase 1 [Source:HGNC Symbol;Acc:HGNC:11179]	120	0.44357559084892273	0.32495812	Yes	
+row_22	WDR1	WD repeat domain 1 [Source:HGNC Symbol;Acc:HGNC:12754]	144	0.4075033962726593	0.30426624	Yes	
+row_23	BHLHE40	basic helix-loop-helix family member e40 [Source:HGNC Symbol;Acc:HGNC:1046]	155	0.39408618211746216	0.30177027	Yes	
+row_24	ARF6	ADP ribosylation factor 6 [Source:HGNC Symbol;Acc:HGNC:659]	162	0.38350343704223633	0.3046796	Yes	
+row_25	ACSL3	acyl-CoA synthetase long chain family member 3 [Source:HGNC Symbol;Acc:HGNC:3570]	165	0.37829911708831787	0.3131554	Yes	
+row_26	IFRD1	interferon related developmental regulator 1 [Source:HGNC Symbol;Acc:HGNC:5456]	168	0.3726617097854614	0.3214623	Yes	
+row_27	BOK	BCL2 family apoptosis regulator BOK [Source:HGNC Symbol;Acc:HGNC:1087]	186	0.3521551489830017	0.30769542	Yes	
+row_28	CD9	CD9 molecule [Source:HGNC Symbol;Acc:HGNC:1709]	211	0.3329448997974396	0.28333852	Yes	
+row_29	ALCAM	activated leukocyte cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:400]	217	0.328165739774704	0.28602007	Yes	
+row_30	B4GALT6	beta-1,4-galactosyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:929]	225	0.3206464946269989	0.28561506	Yes	
+row_31	NAP1L1	nucleosome assembly protein 1 like 1 [Source:HGNC Symbol;Acc:HGNC:7637]	226	0.3189855217933655	0.29517457	Yes	
+row_32	HES1	hes family bHLH transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:5192]	236	0.31269019842147827	0.2916699	Yes	
+row_33	ITGB1	integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	238	0.31028908491134644	0.29953817	Yes	
+row_34	FOXA1	forkhead box A1 [Source:HGNC Symbol;Acc:HGNC:5021]	241	0.3077232241630554	0.30589896	Yes	
+row_35	CRK	CRK proto-oncogene, adaptor protein [Source:HGNC Symbol;Acc:HGNC:2362]	255	0.2973930537700653	0.2962134	Yes	
+row_36	CTNNA1	catenin alpha 1 [Source:HGNC Symbol;Acc:HGNC:2509]	258	0.2955130636692047	0.30220824	Yes	
+row_37	TNFRSF12A	TNF receptor superfamily member 12A [Source:HGNC Symbol;Acc:HGNC:18152]	261	0.29406967759132385	0.30815983	Yes	
+row_38	RAB11A	RAB11A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9760]	270	0.28845903277397156	0.3053596	Yes	
+row_39	EPHA2	EPH receptor A2 [Source:HGNC Symbol;Acc:HGNC:3386]	274	0.28151094913482666	0.3095042	Yes	
+row_40	SOX9	SRY-box transcription factor 9 [Source:HGNC Symbol;Acc:HGNC:11204]	278	0.280718058347702	0.31362507	Yes	
+row_41	ITGA3	integrin subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:6139]	286	0.2755010724067688	0.31186712	Yes	
+row_42	SLC4A7	solute carrier family 4 member 7 [Source:HGNC Symbol;Acc:HGNC:11033]	287	0.27528509497642517	0.320117	Yes	
+row_43	ADAM10	ADAM metallopeptidase domain 10 [Source:HGNC Symbol;Acc:HGNC:188]	293	0.270868718624115	0.32108146	Yes	
+row_44	ARHGDIA	Rho GDP dissociation inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:678]	296	0.2697383165359497	0.32630387	Yes	
+row_45	ATP8B1	ATPase phospholipid transporting 8B1 [Source:HGNC Symbol;Acc:HGNC:3706]	306	0.26462262868881226	0.32135868	No	
+row_46	FLNA	filamin A [Source:HGNC Symbol;Acc:HGNC:3754]	320	0.2576660215854645	0.31048256	No	
+row_47	NME1	NME/NM23 nucleoside diphosphate kinase 1 [Source:HGNC Symbol;Acc:HGNC:7849]	328	0.25545382499694824	0.3081238	No	
+row_48	IQGAP1	IQ motif containing GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:6110]	336	0.25188177824020386	0.305658	No	
+row_49	NIBAN2	niban apoptosis regulator 2 [Source:HGNC Symbol;Acc:HGNC:25282]	337	0.25158584117889404	0.31319767	No	
+row_50	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	340	0.2504592537879944	0.31784233	No	
+row_51	HEXB	hexosaminidase subunit beta [Source:HGNC Symbol;Acc:HGNC:4879]	368	-0.2596285939216614	0.2869964	No	
+row_52	HSP90AB1	heat shock protein 90 alpha family class B member 1 [Source:HGNC Symbol;Acc:HGNC:5258]	381	-0.26613056659698486	0.27780455	No	
+row_53	ID3	inhibitor of DNA binding 3, HLH protein [Source:HGNC Symbol;Acc:HGNC:5362]	422	-0.28433284163475037	0.22910097	No	
+row_54	BTG2	BTG anti-proliferation factor 2 [Source:HGNC Symbol;Acc:HGNC:1131]	456	-0.2984066605567932	0.19083348	No	
+row_55	CTSZ	cathepsin Z [Source:HGNC Symbol;Acc:HGNC:2547]	480	-0.3102013170719147	0.1672256	No	
+row_56	IER2	immediate early response 2 [Source:HGNC Symbol;Acc:HGNC:28871]	491	-0.3156209886074066	0.16237813	No	
+row_57	STMN1	stathmin 1 [Source:HGNC Symbol;Acc:HGNC:6510]	521	-0.33850619196891785	0.13103482	No	
+row_58	IFT20	intraflagellar transport 20 [Source:HGNC Symbol;Acc:HGNC:30989]	584	-0.3951971232891083	0.05418014	No	
+row_59	KLF4	Kruppel like factor 4 [Source:HGNC Symbol;Acc:HGNC:6348]	586	-0.4015501141548157	0.06478338	No	
+row_60	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	595	-0.41442012786865234	0.06575801	No	
+row_61	ASPA	aspartoacylase [Source:HGNC Symbol;Acc:HGNC:756]	596	-0.41442689299583435	0.078177765	No	
+row_62	MANF	mesencephalic astrocyte derived neurotrophic factor [Source:HGNC Symbol;Acc:HGNC:15461]	605	-0.43193233013153076	0.07967721	No	
+row_63	JUN	Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]	630	-0.47617611289024353	0.05961273	No	
+row_64	MME	membrane metalloendopeptidase [Source:HGNC Symbol;Acc:HGNC:7154]	631	-0.4768880009651184	0.07390435	No	
+row_65	EPB41L3	erythrocyte membrane protein band 4.1 like 3 [Source:HGNC Symbol;Acc:HGNC:3380]	639	-0.48985785245895386	0.07857035	No	
+row_66	SLC9A3R1	SLC9A3 regulator 1 [Source:HGNC Symbol;Acc:HGNC:11075]	687	-0.6455308198928833	0.030677028	No	
+row_67	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	701	-0.7041921615600586	0.033182617	No	
+row_68	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	703	-0.718590497970581	0.05328708	No	
+row_69	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	747	-1.2770800590515137	0.030042809	No	

@@ -1,0 +1,42 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	44	1.1072791814804077	-0.006211756	No	
+row_1	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	58	1.0583137273788452	0.011472529	No	
+row_2	TSPO	translocator protein [Source:HGNC Symbol;Acc:HGNC:1158]	64	1.0214496850967407	0.03467673	No	
+row_3	KCNN4	potassium calcium-activated channel subfamily N member 4 [Source:HGNC Symbol;Acc:HGNC:6293]	257	0.47693338990211487	-0.10868832	No	
+row_4	CFTR	CF transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884]	356	0.39435330033302307	-0.17783523	No	
+row_5	STARD10	StAR related lipid transfer domain containing 10 [Source:HGNC Symbol;Acc:HGNC:10666]	442	0.3365353047847748	-0.23795655	No	
+row_6	PSAP	prosaposin [Source:HGNC Symbol;Acc:HGNC:9498]	492	0.3132508397102356	-0.2694312	No	
+row_7	ATP10B	ATPase phospholipid transporting 10B (putative) [Source:HGNC Symbol;Acc:HGNC:13543]	501	0.3097275197505951	-0.2676666	No	
+row_8	GOT2	glutamic-oxaloacetic transaminase 2 [Source:HGNC Symbol;Acc:HGNC:4433]	653	0.25883540511131287	-0.3835208	No	
+row_9	PRELID1	PRELI domain containing 1 [Source:HGNC Symbol;Acc:HGNC:30255]	704	-0.25832563638687134	-0.4172748	No	
+row_10	ANO6	anoctamin 6 [Source:HGNC Symbol;Acc:HGNC:25240]	745	-0.2690977156162262	-0.44261113	No	
+row_11	ABCD1	ATP binding cassette subfamily D member 1 [Source:HGNC Symbol;Acc:HGNC:61]	765	-0.27601656317710876	-0.45068955	No	
+row_12	NOS2	nitric oxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:7873]	833	-0.3117631673812866	-0.4968381	No	
+row_13	CROT	carnitine O-octanoyltransferase [Source:HGNC Symbol;Acc:HGNC:2366]	883	-0.3450334668159485	-0.5274643	No	
+row_14	HEXB	hexosaminidase subunit beta [Source:HGNC Symbol;Acc:HGNC:4879]	884	-0.3452264666557312	-0.5182479	No	
+row_15	APOL3	apolipoprotein L3 [Source:HGNC Symbol;Acc:HGNC:14868]	901	-0.35531726479530334	-0.52177024	No	
+row_16	STARD4	StAR related lipid transfer domain containing 4 [Source:HGNC Symbol;Acc:HGNC:18058]	902	-0.3569140136241913	-0.51224184	No	
+row_17	ABCG8	ATP binding cassette subfamily G member 8 [Source:HGNC Symbol;Acc:HGNC:13887]	923	-0.37783724069595337	-0.51841503	No	
+row_18	SLCO2A1	solute carrier organic anion transporter family member 2A1 [Source:HGNC Symbol;Acc:HGNC:10955]	924	-0.3782690763473511	-0.5083165	No	
+row_19	PITPNA	phosphatidylinositol transfer protein alpha [Source:HGNC Symbol;Acc:HGNC:9001]	949	-0.39873793721199036	-0.5171838	No	
+row_20	B4GALNT1	beta-1,4-N-acetyl-galactosaminyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4117]	978	-0.41407889127731323	-0.52889353	No	
+row_21	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	1005	-0.4446200132369995	-0.5381619	No	
+row_22	DGAT2	diacylglycerol O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:16940]	1050	-0.5060001015663147	-0.56042576	No	
+row_23	ABCG5	ATP binding cassette subfamily G member 5 [Source:HGNC Symbol;Acc:HGNC:13886]	1074	-0.5454912185668945	-0.56456214	No	
+row_24	SOAT2	sterol O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:11178]	1080	-0.558765172958374	-0.55371004	No	
+row_25	CHKA	choline kinase alpha [Source:HGNC Symbol;Acc:HGNC:1937]	1124	-0.6817723512649536	-0.5704684	No	
+row_26	ABCC2	ATP binding cassette subfamily C member 2 [Source:HGNC Symbol;Acc:HGNC:53]	1161	-0.796758770942688	-0.57846594	Yes	
+row_27	SLC10A2	solute carrier family 10 member 2 [Source:HGNC Symbol;Acc:HGNC:10906]	1175	-0.8300246000289917	-0.56687623	Yes	
+row_28	SLC27A4	solute carrier family 27 member 4 [Source:HGNC Symbol;Acc:HGNC:10998]	1198	-0.9556950330734253	-0.55924857	Yes	
+row_29	ACE	angiotensin I converting enzyme [Source:HGNC Symbol;Acc:HGNC:2707]	1202	-0.9814121127128601	-0.53548723	Yes	
+row_30	NPC1L1	NPC1 like intracellular cholesterol transporter 1 [Source:HGNC Symbol;Acc:HGNC:7898]	1205	-1.001619577407837	-0.5103734	Yes	
+row_31	DGAT1	diacylglycerol O-acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:2843]	1224	-1.1827552318572998	-0.493432	Yes	
+row_32	SCP2	sterol carrier protein 2 [Source:HGNC Symbol;Acc:HGNC:10606]	1234	-1.3082586526870728	-0.46582296	Yes	
+row_33	SLC9A3R1	SLC9A3 regulator 1 [Source:HGNC Symbol;Acc:HGNC:11075]	1235	-1.3089489936828613	-0.43087846	Yes	
+row_34	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	1252	-1.6867952346801758	-0.39885488	Yes	
+row_35	MTTP	microsomal triglyceride transfer protein [Source:HGNC Symbol;Acc:HGNC:7467]	1256	-1.7194935083389282	-0.35538927	Yes	
+row_36	FABP1	fatty acid binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3555]	1259	-1.9348732233047485	-0.30536073	Yes	
+row_37	APOA4	apolipoprotein A4 [Source:HGNC Symbol;Acc:HGNC:602]	1262	-2.3588438034057617	-0.24401361	Yes	
+row_38	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	1266	-2.727443218231201	-0.17363915	Yes	
+row_39	APOC3	apolipoprotein C3 [Source:HGNC Symbol;Acc:HGNC:610]	1268	-2.9166970252990723	-0.096586235	Yes	
+row_40	FABP6	fatty acid binding protein 6 [Source:HGNC Symbol;Acc:HGNC:3561]	1269	-3.648376703262329	8.130627E-4	Yes	

@@ -1,0 +1,35 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HSP90AA1	heat shock protein 90 alpha family class A member 1 [Source:HGNC Symbol;Acc:HGNC:5253]	217	0.5470931529998779	-0.15451977	No	
+row_1	AKR1B10	aldo-keto reductase family 1 member B10 [Source:HGNC Symbol;Acc:HGNC:382]	269	0.4620147943496704	-0.17809477	No	
+row_2	FASN	fatty acid synthase [Source:HGNC Symbol;Acc:HGNC:3594]	285	0.44585850834846497	-0.17318445	No	
+row_3	AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	376	0.3779148459434509	-0.23150085	No	
+row_4	SDC1	syndecan 1 [Source:HGNC Symbol;Acc:HGNC:10658]	387	0.37059035897254944	-0.22542451	No	
+row_5	RBP1	retinol binding protein 1 [Source:HGNC Symbol;Acc:HGNC:9919]	441	0.33832940459251404	-0.2553424	No	
+row_6	SDC4	syndecan 4 [Source:HGNC Symbol;Acc:HGNC:10661]	538	0.29445430636405945	-0.3216983	No	
+row_7	SLC2A1	solute carrier family 2 member 1 [Source:HGNC Symbol;Acc:HGNC:11005]	617	0.2663023769855499	-0.37457857	No	
+row_8	ALDH1L1	aldehyde dehydrogenase 1 family member L1 [Source:HGNC Symbol;Acc:HGNC:3978]	739	-0.26777830719947815	-0.46216395	No	
+row_9	MOCS2	molybdenum cofactor synthesis 2 [Source:HGNC Symbol;Acc:HGNC:7193]	805	-0.2967114746570587	-0.50337297	No	
+row_10	SLC52A2	solute carrier family 52 member 2 [Source:HGNC Symbol;Acc:HGNC:30224]	848	-0.32268673181533813	-0.5249961	No	
+row_11	CYB5R3	cytochrome b5 reductase 3 [Source:HGNC Symbol;Acc:HGNC:2873]	855	-0.32743242383003235	-0.51733524	No	
+row_12	PRKG2	protein kinase cGMP-dependent 2 [Source:HGNC Symbol;Acc:HGNC:9416]	860	-0.33396607637405396	-0.50780785	No	
+row_13	NAPRT	nicotinate phosphoribosyltransferase [Source:HGNC Symbol;Acc:HGNC:30450]	954	-0.4010883867740631	-0.567664	Yes	
+row_14	CUBN	cubilin [Source:HGNC Symbol;Acc:HGNC:2548]	973	-0.410957008600235	-0.5665125	Yes	
+row_15	SLC52A3	solute carrier family 52 member 3 [Source:HGNC Symbol;Acc:HGNC:16187]	995	-0.4330873489379883	-0.5669406	Yes	
+row_16	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	1005	-0.4446200132369995	-0.5572272	Yes	
+row_17	PANK3	pantothenate kinase 3 [Source:HGNC Symbol;Acc:HGNC:19365]	1020	-0.4661799669265747	-0.55073196	Yes	
+row_18	BST1	bone marrow stromal cell antigen 1 [Source:HGNC Symbol;Acc:HGNC:1118]	1022	-0.4719202220439911	-0.5335081	Yes	
+row_19	ENPP3	ectonucleotide pyrophosphatase/phosphodiesterase 3 [Source:HGNC Symbol;Acc:HGNC:3358]	1065	-0.5227947235107422	-0.54748505	Yes	
+row_20	GCHFR	GTP cyclohydrolase I feedback regulator [Source:HGNC Symbol;Acc:HGNC:4194]	1109	-0.632881760597229	-0.55806386	Yes	
+row_21	PLB1	phospholipase B1 [Source:HGNC Symbol;Acc:HGNC:30041]	1115	-0.662757933139801	-0.53678167	Yes	
+row_22	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	1132	-0.7100363969802856	-0.5225854	Yes	
+row_23	VNN1	vanin 1 [Source:HGNC Symbol;Acc:HGNC:12705]	1147	-0.7573075890541077	-0.5049661	Yes	
+row_24	TCN2	transcobalamin 2 [Source:HGNC Symbol;Acc:HGNC:11653]	1153	-0.7712502479553223	-0.47953835	Yes	
+row_25	SLC5A8	solute carrier family 5 member 8 [Source:HGNC Symbol;Acc:HGNC:19119]	1155	-0.7724592089653015	-0.4508308	Yes	
+row_26	AMN	amnion associated transmembrane protein [Source:HGNC Symbol;Acc:HGNC:14604]	1156	-0.7736063003540039	-0.42127097	Yes	
+row_27	CYB5A	cytochrome b5 type A [Source:HGNC Symbol;Acc:HGNC:2570]	1169	-0.8133570551872253	-0.39989316	Yes	
+row_28	RFK	riboflavin kinase [Source:HGNC Symbol;Acc:HGNC:30324]	1216	-1.0939292907714844	-0.39528042	Yes	
+row_29	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	1252	-1.6867952346801758	-0.35912156	Yes	
+row_30	RBP2	retinol binding protein 2 [Source:HGNC Symbol;Acc:HGNC:9920]	1253	-1.6917424201965332	-0.2944794	Yes	
+row_31	APOA4	apolipoprotein A4 [Source:HGNC Symbol;Acc:HGNC:602]	1262	-2.3588438034057617	-0.21081431	Yes	
+row_32	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	1266	-2.727443218231201	-0.10902283	Yes	
+row_33	APOC3	apolipoprotein C3 [Source:HGNC Symbol;Acc:HGNC:610]	1268	-2.9166970252990723	0.0016169179	Yes	

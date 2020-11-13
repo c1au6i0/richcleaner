@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GSR	glutathione-disulfide reductase [Source:HGNC Symbol;Acc:HGNC:4623]	20	0.5758184194564819	0.046485543	Yes	
+row_1	PGD	phosphogluconate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:8891]	52	0.4243435859680176	0.04019097	Yes	
+row_2	UGDH	UDP-glucose 6-dehydrogenase [Source:HGNC Symbol;Acc:HGNC:12525]	58	0.4147617816925049	0.09713082	Yes	
+row_3	GSS	glutathione synthetase [Source:HGNC Symbol;Acc:HGNC:4624]	73	0.3869691491127014	0.1269758	Yes	
+row_4	GSTO1	glutathione S-transferase omega 1 [Source:HGNC Symbol;Acc:HGNC:13312]	75	0.38322019577026367	0.18861239	Yes	
+row_5	PTGES3	prostaglandin E synthase 3 [Source:HGNC Symbol;Acc:HGNC:16049]	90	0.36784738302230835	0.21525742	Yes	
+row_6	JUP	junction plakoglobin [Source:HGNC Symbol;Acc:HGNC:6207]	170	0.3028024435043335	0.068922676	Yes	
+row_7	GCLC	glutamate-cysteine ligase catalytic subunit [Source:HGNC Symbol;Acc:HGNC:4311]	173	0.30015799403190613	0.11416536	Yes	
+row_8	PAPSS2	3'-phosphoadenosine 5'-phosphosulfate synthase 2 [Source:HGNC Symbol;Acc:HGNC:8604]	182	0.2927941381931305	0.14321314	Yes	
+row_9	IDH1	isocitrate dehydrogenase (NADP(+)) 1 [Source:HGNC Symbol;Acc:HGNC:5382]	188	0.29080525040626526	0.17940937	Yes	
+row_10	GSTA3	glutathione S-transferase alpha 3 [Source:HGNC Symbol;Acc:HGNC:4628]	189	0.28995591402053833	0.22793232	Yes	
+row_11	POR	cytochrome p450 oxidoreductase [Source:HGNC Symbol;Acc:HGNC:9208]	222	0.2743811309337616	0.19404837	No	
+row_12	BLVRB	biliverdin reductase B [Source:HGNC Symbol;Acc:HGNC:1063]	262	0.2613549530506134	0.14052819	No	
+row_13	TMEM176B	transmembrane protein 176B [Source:HGNC Symbol;Acc:HGNC:29596]	320	-0.2921469211578369	0.047273144	No	
+row_14	ENPEP	glutamyl aminopeptidase [Source:HGNC Symbol;Acc:HGNC:3355]	335	-0.3295270502567291	0.06750543	No	
+row_15	RAP1GAP	RAP1 GTPase activating protein [Source:HGNC Symbol;Acc:HGNC:9858]	357	-0.38762524724006653	0.08000384	No	
+row_16	HGFAC	HGF activator [Source:HGNC Symbol;Acc:HGNC:4894]	359	-0.4011346697807312	0.14463833	No	

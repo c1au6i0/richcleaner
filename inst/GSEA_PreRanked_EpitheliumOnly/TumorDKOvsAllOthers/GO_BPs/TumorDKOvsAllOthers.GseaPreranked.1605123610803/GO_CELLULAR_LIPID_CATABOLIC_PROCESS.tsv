@@ -1,0 +1,29 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ABHD2	abhydrolase domain containing 2, acylglycerol lipase [Source:HGNC Symbol;Acc:HGNC:18717]	22	0.7936760187149048	0.007897465	No	
+row_1	PRDX6	peroxiredoxin 6 [Source:HGNC Symbol;Acc:HGNC:16753]	116	0.4444580078125	-0.09655987	No	
+row_2	AKR1B10	aldo-keto reductase family 1 member B10 [Source:HGNC Symbol;Acc:HGNC:382]	151	0.39671435952186584	-0.123656124	No	
+row_3	IDH1	isocitrate dehydrogenase (NADP(+)) 1 [Source:HGNC Symbol;Acc:HGNC:5382]	160	0.38597342371940613	-0.116173334	No	
+row_4	DECR1	2,4-dienoyl-CoA reductase 1 [Source:HGNC Symbol;Acc:HGNC:2753]	351	-0.25323325395584106	-0.3605909	No	
+row_5	HEXA	hexosaminidase subunit alpha [Source:HGNC Symbol;Acc:HGNC:4878]	361	-0.25622013211250305	-0.36060253	No	
+row_6	HEXB	hexosaminidase subunit beta [Source:HGNC Symbol;Acc:HGNC:4879]	368	-0.2596285939216614	-0.35640416	No	
+row_7	ACAA1	acetyl-CoA acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:82]	405	-0.275907963514328	-0.39192063	No	
+row_8	MGST2	microsomal glutathione S-transferase 2 [Source:HGNC Symbol;Acc:HGNC:7063]	460	-0.30048391222953796	-0.45056474	No	
+row_9	ECI1	enoyl-CoA delta isomerase 1 [Source:HGNC Symbol;Acc:HGNC:2703]	490	-0.31547290086746216	-0.47476083	No	
+row_10	PHYH	phytanoyl-CoA 2-hydroxylase [Source:HGNC Symbol;Acc:HGNC:8940]	503	-0.3225862383842468	-0.47567806	No	
+row_11	ASAH2B	N-acylsphingosine amidohydrolase 2B [Source:HGNC Symbol;Acc:HGNC:23456]	507	-0.3272826373577118	-0.4642271	No	
+row_12	SLC27A4	solute carrier family 27 member 4 [Source:HGNC Symbol;Acc:HGNC:10998]	536	-0.3570185899734497	-0.4851061	No	
+row_13	ACAA2	acetyl-CoA acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:83]	555	-0.37108758091926575	-0.49182358	No	
+row_14	HPGD	15-hydroxyprostaglandin dehydrogenase [Source:HGNC Symbol;Acc:HGNC:5154]	621	-0.4598962366580963	-0.55776304	No	
+row_15	GDPD1	glycerophosphodiester phosphodiesterase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:20883]	633	-0.4794963300228119	-0.5498997	No	
+row_16	ECH1	enoyl-CoA hydratase 1 [Source:HGNC Symbol;Acc:HGNC:3149]	667	-0.5591143369674683	-0.5679555	Yes	
+row_17	CPS1	carbamoyl-phosphate synthase 1 [Source:HGNC Symbol;Acc:HGNC:2323]	670	-0.5640668272972107	-0.5439413	Yes	
+row_18	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	683	-0.6200270056724548	-0.5307723	Yes	
+row_19	HADH	hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	690	-0.6540776491165161	-0.5078935	Yes	
+row_20	APOA4	apolipoprotein A4 [Source:HGNC Symbol;Acc:HGNC:602]	692	-0.6682462692260742	-0.4775961	Yes	
+row_21	SCP2	sterol carrier protein 2 [Source:HGNC Symbol;Acc:HGNC:10606]	714	-0.797919750213623	-0.46814814	Yes	
+row_22	CYP4F2	cytochrome P450 family 4 subfamily F member 2 [Source:HGNC Symbol;Acc:HGNC:2645]	726	-0.8854303956031799	-0.44106054	Yes	
+row_23	FABP1	fatty acid binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3555]	742	-1.1126315593719482	-0.40861124	Yes	
+row_24	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	747	-1.2770800590515137	-0.35352913	Yes	
+row_25	APOC3	apolipoprotein C3 [Source:HGNC Symbol;Acc:HGNC:610]	748	-1.315944790840149	-0.29120833	Yes	
+row_26	FABP2	fatty acid binding protein 2 [Source:HGNC Symbol;Acc:HGNC:3556]	763	-2.8678102493286133	-0.17428736	Yes	
+row_27	FABP6	fatty acid binding protein 6 [Source:HGNC Symbol;Acc:HGNC:3561]	768	-3.794180154800415	1.0593794E-7	Yes	

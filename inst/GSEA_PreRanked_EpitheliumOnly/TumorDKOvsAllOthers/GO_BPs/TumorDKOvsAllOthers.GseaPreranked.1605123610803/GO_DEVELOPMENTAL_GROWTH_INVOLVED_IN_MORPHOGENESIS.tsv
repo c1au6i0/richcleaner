@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AREG	amphiregulin [Source:HGNC Symbol;Acc:HGNC:651]	11	1.0183526277542114	0.1523815	Yes	
+row_1	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	27	0.7286320924758911	0.25195503	Yes	
+row_2	RTN4	reticulon 4 [Source:HGNC Symbol;Acc:HGNC:14085]	39	0.6444033980369568	0.34302336	Yes	
+row_3	APP	amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620]	97	0.4662449061870575	0.34387264	Yes	
+row_4	IFRD1	interferon related developmental regulator 1 [Source:HGNC Symbol;Acc:HGNC:5456]	168	0.3726617097854614	0.3121365	Yes	
+row_5	RDH10	retinol dehydrogenase 10 [Source:HGNC Symbol;Acc:HGNC:19975]	208	0.33457833528518677	0.31527025	Yes	
+row_6	ALCAM	activated leukocyte cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:400]	217	0.328165739774704	0.35846663	Yes	
+row_7	ITGB1	integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	238	0.31028908491134644	0.38281682	Yes	
+row_8	TNFRSF12A	TNF receptor superfamily member 12A [Source:HGNC Symbol;Acc:HGNC:18152]	261	0.29406967759132385	0.40185514	Yes	
+row_9	RAB11A	RAB11A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9760]	270	0.28845903277397156	0.43854114	Yes	
+row_10	SOX9	SRY-box transcription factor 9 [Source:HGNC Symbol;Acc:HGNC:11204]	278	0.280718058347702	0.47528422	Yes	
+row_11	TGFBR2	transforming growth factor beta receptor 2 [Source:HGNC Symbol;Acc:HGNC:11773]	307	0.2639567255973816	0.4814276	Yes	
+row_12	IQGAP1	IQ motif containing GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:6110]	336	0.25188177824020386	0.48559117	Yes	
+row_13	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	340	0.2504592537879944	0.522678	Yes	
+row_14	HSP90AB1	heat shock protein 90 alpha family class B member 1 [Source:HGNC Symbol;Acc:HGNC:5258]	381	-0.26613056659698486	0.5132627	No	

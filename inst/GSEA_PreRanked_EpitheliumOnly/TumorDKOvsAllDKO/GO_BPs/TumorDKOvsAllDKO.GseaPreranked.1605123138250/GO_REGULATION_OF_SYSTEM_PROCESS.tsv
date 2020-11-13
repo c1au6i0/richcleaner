@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LMNA	lamin A/C [Source:HGNC Symbol;Acc:HGNC:6636]	70	0.39462971687316895	-0.13728376	No	
+row_1	GSTO1	glutathione S-transferase omega 1 [Source:HGNC Symbol;Acc:HGNC:13312]	75	0.38322019577026367	-0.1114537	No	
+row_2	CYBA	cytochrome b-245 alpha chain [Source:HGNC Symbol;Acc:HGNC:2577]	102	0.3542243242263794	-0.14305727	No	
+row_3	DSP	desmoplakin [Source:HGNC Symbol;Acc:HGNC:3052]	118	0.3363525867462158	-0.14896631	No	
+row_4	DSG2	desmoglein 2 [Source:HGNC Symbol;Acc:HGNC:3049]	120	0.3356475532054901	-0.1201153	No	
+row_5	JUP	junction plakoglobin [Source:HGNC Symbol;Acc:HGNC:6207]	170	0.3028024435043335	-0.21373394	No	
+row_6	DSC2	desmocollin 2 [Source:HGNC Symbol;Acc:HGNC:3036]	220	0.27552154660224915	-0.30989972	No	
+row_7	ASPH	aspartate beta-hydroxylase [Source:HGNC Symbol;Acc:HGNC:757]	317	-0.28429335355758667	-0.52216196	No	
+row_8	NEUROD1	neuronal differentiation 1 [Source:HGNC Symbol;Acc:HGNC:7762]	358	-0.4010186195373535	-0.5842223	Yes	
+row_9	RGS2	regulator of G protein signaling 2 [Source:HGNC Symbol;Acc:HGNC:9998]	373	-0.4509578347206116	-0.5769434	Yes	
+row_10	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	375	-0.46610143780708313	-0.5359122	Yes	
+row_11	KLF4	Kruppel like factor 4 [Source:HGNC Symbol;Acc:HGNC:6348]	376	-0.4675544798374176	-0.49225783	Yes	
+row_12	ATP2A3	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 3 [Source:HGNC Symbol;Acc:HGNC:813]	386	-0.6199068427085876	-0.45676672	Yes	
+row_13	CHGA	chromogranin A [Source:HGNC Symbol;Acc:HGNC:1929]	399	-1.2148116827011108	-0.37319356	Yes	
+row_14	CCK	cholecystokinin [Source:HGNC Symbol;Acc:HGNC:1569]	408	-1.8405084609985352	-0.22125039	Yes	
+row_15	SCT	secretin [Source:HGNC Symbol;Acc:HGNC:10607]	412	-2.582814931869507	0.012437886	Yes	

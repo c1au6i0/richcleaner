@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ABHD2	abhydrolase domain containing 2, acylglycerol lipase [Source:HGNC Symbol;Acc:HGNC:18717]	22	0.7936760187149048	0.020396648	No	
+row_1	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	66	0.5342736840248108	-0.0033603124	No	
+row_2	INSIG1	insulin induced gene 1 [Source:HGNC Symbol;Acc:HGNC:6083]	145	0.4066869914531708	-0.081641585	No	
+row_3	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	340	0.2504592537879944	-0.3239517	No	
+row_4	CAT	catalase [Source:HGNC Symbol;Acc:HGNC:1516]	372	-0.2635555863380432	-0.3486872	No	
+row_5	ANG	angiogenin [Source:HGNC Symbol;Acc:HGNC:483]	386	-0.26653802394866943	-0.34929994	No	
+row_6	GK	glycerol kinase [Source:HGNC Symbol;Acc:HGNC:4289]	409	-0.27869826555252075	-0.36112005	No	
+row_7	MOGAT2	monoacylglycerol O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:23248]	623	-0.46740174293518066	-0.6151243	Yes	
+row_8	DGAT1	diacylglycerol O-acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:2843]	644	-0.5035091042518616	-0.6102208	Yes	
+row_9	CPS1	carbamoyl-phosphate synthase 1 [Source:HGNC Symbol;Acc:HGNC:2323]	670	-0.5640668272972107	-0.6081777	Yes	
+row_10	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	683	-0.6200270056724548	-0.5853466	Yes	
+row_11	APOA4	apolipoprotein A4 [Source:HGNC Symbol;Acc:HGNC:602]	692	-0.6682462692260742	-0.5541797	Yes	
+row_12	FABP1	fatty acid binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3555]	742	-1.1126315593719482	-0.54973364	Yes	
+row_13	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	747	-1.2770800590515137	-0.47515932	Yes	
+row_14	APOC3	apolipoprotein C3 [Source:HGNC Symbol;Acc:HGNC:610]	748	-1.315944790840149	-0.39283448	Yes	
+row_15	FABP2	fatty acid binding protein 2 [Source:HGNC Symbol;Acc:HGNC:3556]	763	-2.8678102493286133	-0.23204276	Yes	
+row_16	FABP6	fatty acid binding protein 6 [Source:HGNC Symbol;Acc:HGNC:3561]	768	-3.794180154800415	5.2154064E-8	Yes	

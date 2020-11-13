@@ -1,0 +1,29 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DMBT1	deleted in malignant brain tumors 1 [Source:HGNC Symbol;Acc:HGNC:2926]	12	0.6378223299980164	0.002433476	No	
+row_1	PLAC8	placenta associated 8 [Source:HGNC Symbol;Acc:HGNC:19254]	16	0.5947688817977905	0.02570267	No	
+row_2	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	22	0.555739164352417	0.041811913	No	
+row_3	TSPO	translocator protein [Source:HGNC Symbol;Acc:HGNC:1158]	26	0.5166745781898499	0.061015803	No	
+row_4	HSPD1	heat shock protein family D (Hsp60) member 1 [Source:HGNC Symbol;Acc:HGNC:5261]	45	0.4432012140750885	0.037933398	No	
+row_5	HMGB2	high mobility group box 2 [Source:HGNC Symbol;Acc:HGNC:5000]	54	0.4201262891292572	0.03929082	No	
+row_6	WFDC2	WAP four-disulfide core domain 2 [Source:HGNC Symbol;Acc:HGNC:15939]	97	0.35807281732559204	-0.049761523	No	
+row_7	CYBA	cytochrome b-245 alpha chain [Source:HGNC Symbol;Acc:HGNC:2577]	102	0.3542243242263794	-0.041578304	No	
+row_8	HMGB1	high mobility group box 1 [Source:HGNC Symbol;Acc:HGNC:4983]	114	0.3430297374725342	-0.051926557	No	
+row_9	MIF	macrophage migration inhibitory factor [Source:HGNC Symbol;Acc:HGNC:7097]	154	0.31344732642173767	-0.13560963	No	
+row_10	RPL39	ribosomal protein L39 [Source:HGNC Symbol;Acc:HGNC:10350]	175	0.2993217408657074	-0.17131008	No	
+row_11	RPS19	ribosomal protein S19 [Source:HGNC Symbol;Acc:HGNC:10402]	217	0.27697494626045227	-0.26202	No	
+row_12	C15orf48	chromosome 15 open reading frame 48 [Source:HGNC Symbol;Acc:HGNC:29898]	225	0.27344846725463867	-0.265734	No	
+row_13	REG3G	regenerating family member 3 gamma [Source:HGNC Symbol;Acc:HGNC:29595]	237	0.2694959342479706	-0.27991012	No	
+row_14	PGLYRP1	peptidoglycan recognition protein 1 [Source:HGNC Symbol;Acc:HGNC:8904]	241	0.26719439029693604	-0.27369326	No	
+row_15	LSM5	LSM5 homolog, U6 small nuclear RNA and mRNA degradation associated [Source:HGNC Symbol;Acc:HGNC:17162]	273	0.25632479786872864	-0.3398371	No	
+row_16	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	305	-0.26824018359184265	-0.4053607	No	
+row_17	PDCD4	programmed cell death 4 [Source:HGNC Symbol;Acc:HGNC:8763]	308	-0.27207037806510925	-0.39632592	No	
+row_18	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	328	-0.3010304570198059	-0.4293733	No	
+row_19	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	348	-0.36987370252609253	-0.45883697	No	
+row_20	FER1L6	fer-1 like family member 6 [Source:HGNC Symbol;Acc:HGNC:28065]	367	-0.4265522062778473	-0.48278606	No	
+row_21	CLPS	colipase [Source:HGNC Symbol;Acc:HGNC:2085]	382	-0.5743468403816223	-0.4887851	Yes	
+row_22	CD24	CD24 molecule [Source:HGNC Symbol;Acc:HGNC:1645]	387	-0.6521586179733276	-0.4650925	Yes	
+row_23	CHGA	chromogranin A [Source:HGNC Symbol;Acc:HGNC:1929]	399	-1.2148116827011108	-0.43005896	Yes	
+row_24	DEFA3	defensin alpha 3 [Source:HGNC Symbol;Acc:HGNC:2762]	402	-1.413041591644287	-0.36162937	Yes	
+row_25	REG4	regenerating family member 4 [Source:HGNC Symbol;Acc:HGNC:22977]	403	-1.4251763820648193	-0.28743988	Yes	
+row_26	LYZ	lysozyme [Source:HGNC Symbol;Acc:HGNC:6740]	407	-1.8362603187561035	-0.19954316	Yes	
+row_27	ZG16	zymogen granule protein 16 [Source:HGNC Symbol;Acc:HGNC:30961]	417	-4.276520729064941	3.259629E-9	Yes	

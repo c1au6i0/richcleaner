@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TM4SF20	transmembrane 4 L six family member 20 [Source:HGNC Symbol;Acc:HGNC:26230]	31	0.48244842886924744	-0.032281015	No	
+row_1	CFTR	CF transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884]	48	0.4273115396499634	-0.03237241	No	
+row_2	RPS27L	ribosomal protein S27 like [Source:HGNC Symbol;Acc:HGNC:18476]	96	0.35821977257728577	-0.11599886	No	
+row_3	COX8A	cytochrome c oxidase subunit 8A [Source:HGNC Symbol;Acc:HGNC:2294]	105	0.3509872555732727	-0.10328249	No	
+row_4	RHPN2	rhophilin Rho GTPase binding protein 2 [Source:HGNC Symbol;Acc:HGNC:19974]	121	0.33546552062034607	-0.10942148	No	
+row_5	REG3A	regenerating family member 3 alpha [Source:HGNC Symbol;Acc:HGNC:8601]	124	0.3323754370212555	-0.08350931	No	
+row_6	SERPINB1	serpin family B member 1 [Source:HGNC Symbol;Acc:HGNC:3311]	129	0.32822203636169434	-0.06295824	No	
+row_7	DSC2	desmocollin 2 [Source:HGNC Symbol;Acc:HGNC:3036]	220	0.27552154660224915	-0.2612349	No	
+row_8	BLVRB	biliverdin reductase B [Source:HGNC Symbol;Acc:HGNC:1063]	262	0.2613549530506134	-0.33893752	No	
+row_9	LGALS4	galectin 4 [Source:HGNC Symbol;Acc:HGNC:6565]	295	-0.2554718852043152	-0.3947988	No	
+row_10	ELAPOR1	endosome-lysosome associated apoptosis and autophagy regulator 1 [Source:HGNC Symbol;Acc:HGNC:29618]	315	-0.2803494334220886	-0.4160099	No	
+row_11	CRIP1	cysteine rich protein 1 [Source:HGNC Symbol;Acc:HGNC:2360]	334	-0.31657421588897705	-0.43136713	No	
+row_12	STARD10	StAR related lipid transfer domain containing 10 [Source:HGNC Symbol;Acc:HGNC:10666]	356	-0.38714390993118286	-0.44762906	No	
+row_13	HEPACAM2	HEPACAM family member 2 [Source:HGNC Symbol;Acc:HGNC:27364]	398	-1.0256849527359009	-0.45430332	Yes	
+row_14	REG4	regenerating family member 4 [Source:HGNC Symbol;Acc:HGNC:22977]	403	-1.4251763820648193	-0.33181345	Yes	
+row_15	TFF3	trefoil factor 3 [Source:HGNC Symbol;Acc:HGNC:11757]	415	-3.9186036586761475	0.0049749576	Yes	

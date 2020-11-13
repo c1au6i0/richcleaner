@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AREG	amphiregulin [Source:HGNC Symbol;Acc:HGNC:651]	11	1.0183526277542114	0.066704154	Yes	
+row_1	ABHD2	abhydrolase domain containing 2, acylglycerol lipase [Source:HGNC Symbol;Acc:HGNC:18717]	22	0.7936760187149048	0.116781354	Yes	
+row_2	FLNB	filamin B [Source:HGNC Symbol;Acc:HGNC:3755]	23	0.7915253639221191	0.18007347	Yes	
+row_3	CD44	CD44 molecule (Indian blood group) [Source:HGNC Symbol;Acc:HGNC:1681]	58	0.5619633793830872	0.1794939	Yes	
+row_4	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	110	0.44804179668426514	0.14704722	Yes	
+row_5	KRT8	keratin 8 [Source:HGNC Symbol;Acc:HGNC:6446]	118	0.4440076947212219	0.17318025	Yes	
+row_6	KRT19	keratin 19 [Source:HGNC Symbol;Acc:HGNC:6436]	141	0.41142556071281433	0.1766276	Yes	
+row_7	KRT18	keratin 18 [Source:HGNC Symbol;Acc:HGNC:6430]	148	0.40142855048179626	0.20069459	Yes	
+row_8	BHLHE40	basic helix-loop-helix family member e40 [Source:HGNC Symbol;Acc:HGNC:1046]	155	0.39408618211746216	0.22417445	Yes	
+row_9	HES1	hes family bHLH transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:5192]	236	0.31269019842147827	0.14208281	No	
+row_10	MYOF	myoferlin [Source:HGNC Symbol;Acc:HGNC:3656]	284	0.27656590938568115	0.101279296	No	
+row_11	CLDN7	claudin 7 [Source:HGNC Symbol;Acc:HGNC:2049]	343	-0.2506396770477295	0.043677088	No	
+row_12	PRSS23	serine protease 23 [Source:HGNC Symbol;Acc:HGNC:14370]	358	-0.25575923919677734	0.045386527	No	
+row_13	FOS	Fos proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:3796]	400	-0.2729761004447937	0.012328088	No	
+row_14	SLC26A2	solute carrier family 26 member 2 [Source:HGNC Symbol;Acc:HGNC:10994]	477	-0.30740243196487427	-0.06483163	No	
+row_15	BAG1	BAG cochaperone 1 [Source:HGNC Symbol;Acc:HGNC:937]	478	-0.30777719616889954	-0.040221084	No	
+row_16	PDZK1	PDZ domain containing 1 [Source:HGNC Symbol;Acc:HGNC:8821]	500	-0.3211478888988495	-0.04265384	No	
+row_17	KLF4	Kruppel like factor 4 [Source:HGNC Symbol;Acc:HGNC:6348]	586	-0.4015501141548157	-0.12433349	No	
+row_18	SULT2B1	sulfotransferase family 2B member 1 [Source:HGNC Symbol;Acc:HGNC:11459]	622	-0.4644802510738373	-0.13404672	No	
+row_19	CHPT1	choline phosphotransferase 1 [Source:HGNC Symbol;Acc:HGNC:17852]	640	-0.490469753742218	-0.11758536	No	
+row_20	SLC9A3R1	SLC9A3 regulator 1 [Source:HGNC Symbol;Acc:HGNC:11075]	687	-0.6455308198928833	-0.12754695	No	
+row_21	TFF3	trefoil factor 3 [Source:HGNC Symbol;Acc:HGNC:11757]	764	-2.9344115257263184	0.0053547737	No	

@@ -1,0 +1,21 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NPM1	nucleophosmin 1 [Source:HGNC Symbol;Acc:HGNC:7910]	32	1.2022429704666138	0.08476297	Yes	
+row_1	HSPA9	heat shock protein family A (Hsp70) member 9 [Source:HGNC Symbol;Acc:HGNC:5244]	98	0.8737730979919434	0.11299989	Yes	
+row_2	RPS14	ribosomal protein S14 [Source:HGNC Symbol;Acc:HGNC:10387]	121	0.8156763315200806	0.17027718	Yes	
+row_3	NHP2	NHP2 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:14377]	136	0.7434629201889038	0.22732155	Yes	
+row_4	LSM4	LSM4 homolog, U6 small nuclear RNA and mRNA degradation associated [Source:HGNC Symbol;Acc:HGNC:17259]	162	0.6551991105079651	0.26747206	Yes	
+row_5	EIF4A1	eukaryotic translation initiation factor 4A1 [Source:HGNC Symbol;Acc:HGNC:3282]	210	0.553285539150238	0.28068295	Yes	
+row_6	BANF1	BAF nuclear assembly factor 1 [Source:HGNC Symbol;Acc:HGNC:17397]	218	0.5469129681587219	0.3252834	Yes	
+row_7	ERO1A	endoplasmic reticulum oxidoreductase 1 alpha [Source:HGNC Symbol;Acc:HGNC:13280]	260	0.4725005030632019	0.335876	Yes	
+row_8	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	290	0.44026482105255127	0.35310227	Yes	
+row_9	EEF2	eukaryotic translation elongation factor 2 [Source:HGNC Symbol;Acc:HGNC:3214]	330	0.40882426500320435	0.35944933	Yes	
+row_10	EIF4E	eukaryotic translation initiation factor 4E [Source:HGNC Symbol;Acc:HGNC:3287]	359	0.391600102186203	0.3730085	Yes	
+row_11	EIF4G1	eukaryotic translation initiation factor 4 gamma 1 [Source:HGNC Symbol;Acc:HGNC:3296]	378	0.377208411693573	0.3932404	Yes	
+row_12	CNOT6	CCR4-NOT transcription complex subunit 6 [Source:HGNC Symbol;Acc:HGNC:14099]	385	0.3717091679573059	0.4225599	Yes	
+row_13	NOP56	NOP56 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:15911]	400	0.3618008494377136	0.4445751	Yes	
+row_14	PDIA6	protein disulfide isomerase family A member 6 [Source:HGNC Symbol;Acc:HGNC:30168]	439	0.3391900062561035	0.44533047	Yes	
+row_15	EIF2S1	eukaryotic translation initiation factor 2 subunit alpha [Source:HGNC Symbol;Acc:HGNC:3265]	557	0.28817054629325867	0.37825373	No	
+row_16	DNAJB9	DnaJ heat shock protein family (Hsp40) member B9 [Source:HGNC Symbol;Acc:HGNC:6968]	971	-0.4106278121471405	0.085805476	No	
+row_17	HERPUD1	homocysteine inducible ER protein with ubiquitin like domain 1 [Source:HGNC Symbol;Acc:HGNC:13744]	974	-0.41104742884635925	0.12193291	No	
+row_18	VEGFA	vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	1053	-0.5100680589675903	0.10639711	No	
+row_19	ATF3	activating transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:785]	1136	-0.7219915390014648	0.107114315	No	

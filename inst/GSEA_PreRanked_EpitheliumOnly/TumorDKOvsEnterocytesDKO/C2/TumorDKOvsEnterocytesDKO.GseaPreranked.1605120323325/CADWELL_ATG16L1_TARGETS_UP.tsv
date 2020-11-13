@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	XIST	X inactive specific transcript [Source:HGNC Symbol;Acc:HGNC:12810]	209	0.5535086393356323	-0.13885729	No	
+row_1	AKR1B10	aldo-keto reductase family 1 member B10 [Source:HGNC Symbol;Acc:HGNC:382]	269	0.4620147943496704	-0.16232562	No	
+row_2	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	694	-0.25390058755874634	-0.48873466	No	
+row_3	SLC5A12	solute carrier family 5 member 12 [Source:HGNC Symbol;Acc:HGNC:28750]	781	-0.28620749711990356	-0.5428651	No	
+row_4	KRT12	keratin 12 [Source:HGNC Symbol;Acc:HGNC:6414]	808	-0.29803571105003357	-0.5483486	No	
+row_5	FCGRT	Fc fragment of IgG receptor and transporter [Source:HGNC Symbol;Acc:HGNC:3621]	868	-0.33591678738594055	-0.57830435	No	
+row_6	KIAA1671	KIAA1671 [Source:HGNC Symbol;Acc:HGNC:29345]	903	-0.35697272419929504	-0.5871608	No	
+row_7	BST1	bone marrow stromal cell antigen 1 [Source:HGNC Symbol;Acc:HGNC:1118]	1022	-0.4719202220439911	-0.65735734	Yes	
+row_8	DGAT2	diacylglycerol O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:16940]	1050	-0.5060001015663147	-0.65294224	Yes	
+row_9	IFIT1B	interferon induced protein with tetratricopeptide repeats 1B [Source:HGNC Symbol;Acc:HGNC:23442]	1052	-0.5075781941413879	-0.62762934	Yes	
+row_10	ACAA1	acetyl-CoA acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:82]	1055	-0.5114495158195496	-0.60291785	Yes	
+row_11	PDZK1	PDZ domain containing 1 [Source:HGNC Symbol;Acc:HGNC:8821]	1061	-0.5205377340316772	-0.58014077	Yes	
+row_12	CLEC2D	C-type lectin domain family 2 member D [Source:HGNC Symbol;Acc:HGNC:14351]	1078	-0.5567143559455872	-0.5643095	Yes	
+row_13	VNN1	vanin 1 [Source:HGNC Symbol;Acc:HGNC:12705]	1147	-0.7573075890541077	-0.57979155	Yes	
+row_14	ALPI	alkaline phosphatase, intestinal [Source:HGNC Symbol;Acc:HGNC:437]	1188	-0.9020824432373047	-0.5654074	Yes	
+row_15	NPC1L1	NPC1 like intracellular cholesterol transporter 1 [Source:HGNC Symbol;Acc:HGNC:7898]	1205	-1.001619577407837	-0.5266869	Yes	
+row_16	CST6	cystatin E/M [Source:HGNC Symbol;Acc:HGNC:2478]	1213	-1.0724117755889893	-0.4771186	Yes	
+row_17	GGT1	gamma-glutamyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4250]	1238	-1.342499852180481	-0.42726588	Yes	
+row_18	MTTP	microsomal triglyceride transfer protein [Source:HGNC Symbol;Acc:HGNC:7467]	1256	-1.7194935083389282	-0.35241333	Yes	
+row_19	FABP1	fatty acid binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3555]	1259	-1.9348732233047485	-0.2544704	Yes	
+row_20	APOA4	apolipoprotein A4 [Source:HGNC Symbol;Acc:HGNC:602]	1262	-2.3588438034057617	-0.13471535	Yes	
+row_21	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	1266	-2.727443218231201	0.0032025673	Yes	

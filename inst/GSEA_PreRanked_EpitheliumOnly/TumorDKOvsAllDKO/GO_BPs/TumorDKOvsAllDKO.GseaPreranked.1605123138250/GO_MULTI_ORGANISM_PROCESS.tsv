@@ -1,0 +1,27 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANXA2	annexin A2 [Source:HGNC Symbol;Acc:HGNC:537]	6	0.6924484968185425	0.029816646	No	
+row_1	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	42	0.4461413323879242	-0.030396678	No	
+row_2	CFTR	CF transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884]	48	0.4273115396499634	-0.015306415	No	
+row_3	HMGB2	high mobility group box 2 [Source:HGNC Symbol;Acc:HGNC:5000]	54	0.4201262891292572	-6.8437285E-4	No	
+row_4	WFDC2	WAP four-disulfide core domain 2 [Source:HGNC Symbol;Acc:HGNC:15939]	97	0.35807281732559204	-0.08449374	No	
+row_5	DSG2	desmoglein 2 [Source:HGNC Symbol;Acc:HGNC:3049]	120	0.3356475532054901	-0.11874402	No	
+row_6	PPIA	peptidylprolyl isomerase A [Source:HGNC Symbol;Acc:HGNC:9253]	148	0.3159968852996826	-0.16702993	No	
+row_7	SYT8	synaptotagmin 8 [Source:HGNC Symbol;Acc:HGNC:19264]	168	0.3051326274871826	-0.19561563	No	
+row_8	RAN	RAN, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9846]	200	0.2866247892379761	-0.25601962	No	
+row_9	ABHD2	abhydrolase domain containing 2, acylglycerol lipase [Source:HGNC Symbol;Acc:HGNC:18717]	210	0.2793167531490326	-0.26077738	No	
+row_10	EIF2S2	eukaryotic translation initiation factor 2 subunit beta [Source:HGNC Symbol;Acc:HGNC:3266]	213	0.27782541513442993	-0.24777518	No	
+row_11	PPP1R1B	protein phosphatase 1 regulatory inhibitor subunit 1B [Source:HGNC Symbol;Acc:HGNC:9287]	215	0.2776641845703125	-0.23223247	No	
+row_12	VDAC2	voltage dependent anion channel 2 [Source:HGNC Symbol;Acc:HGNC:12672]	219	0.27646106481552124	-0.2218702	No	
+row_13	C1QBP	complement C1q binding protein [Source:HGNC Symbol;Acc:HGNC:1243]	284	0.251401424407959	-0.36875317	No	
+row_14	CTSV	cathepsin V [Source:HGNC Symbol;Acc:HGNC:2538]	290	-0.25117722153663635	-0.36514053	No	
+row_15	PLA2G10	phospholipase A2 group X [Source:HGNC Symbol;Acc:HGNC:9029]	303	-0.2659264802932739	-0.37842393	No	
+row_16	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	306	-0.269396036863327	-0.36597103	No	
+row_17	CST3	cystatin C [Source:HGNC Symbol;Acc:HGNC:2475]	343	-0.3492322862148285	-0.43505034	Yes	
+row_18	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	351	-0.373076468706131	-0.42859632	Yes	
+row_19	FOSB	FosB proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:3797]	362	-0.4105475842952728	-0.42735356	Yes	
+row_20	FOXA3	forkhead box A3 [Source:HGNC Symbol;Acc:HGNC:5023]	365	-0.4224703311920166	-0.4049257	Yes	
+row_21	RGS2	regulator of G protein signaling 2 [Source:HGNC Symbol;Acc:HGNC:9998]	373	-0.4509578347206116	-0.3933966	Yes	
+row_22	SPINK1	serine peptidase inhibitor Kazal type 1 [Source:HGNC Symbol;Acc:HGNC:11244]	395	-0.9275135397911072	-0.38652745	Yes	
+row_23	SELENOP	selenoprotein P [Source:HGNC Symbol;Acc:HGNC:10751]	397	-0.9995927810668945	-0.32394093	Yes	
+row_24	MMP7	matrix metallopeptidase 7 [Source:HGNC Symbol;Acc:HGNC:7174]	401	-1.3992948532104492	-0.24041024	Yes	
+row_25	ZG16	zymogen granule protein 16 [Source:HGNC Symbol;Acc:HGNC:30961]	417	-4.276520729064941	-1.6763806E-8	Yes	

@@ -1,0 +1,21 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	3	1.3506386280059814	0.11791836	Yes	
+row_1	LGALS3	galectin 3 [Source:HGNC Symbol;Acc:HGNC:6563]	6	1.0708757638931274	0.21191731	Yes	
+row_2	F3	coagulation factor III, tissue factor [Source:HGNC Symbol;Acc:HGNC:3541]	29	0.7270906567573547	0.24818012	Yes	
+row_3	ATOX1	antioxidant 1 copper chaperone [Source:HGNC Symbol;Acc:HGNC:798]	71	0.5179052352905273	0.24019237	Yes	
+row_4	ANXA5	annexin A5 [Source:HGNC Symbol;Acc:HGNC:543]	115	0.4447791576385498	0.2229332	Yes	
+row_5	PLAUR	plasminogen activator, urokinase receptor [Source:HGNC Symbol;Acc:HGNC:9053]	121	0.44230976700782776	0.25618544	Yes	
+row_6	CTSD	cathepsin D [Source:HGNC Symbol;Acc:HGNC:2529]	123	0.43882083892822266	0.2944632	Yes	
+row_7	PLSCR1	phospholipid scramblase 1 [Source:HGNC Symbol;Acc:HGNC:9092]	134	0.4204649329185486	0.31906793	Yes	
+row_8	PLAT	plasminogen activator, tissue type [Source:HGNC Symbol;Acc:HGNC:9051]	231	0.3140313923358917	0.21924499	No	
+row_9	ME1	malic enzyme 1 [Source:HGNC Symbol;Acc:HGNC:6983]	333	0.2540724575519562	0.10733393	No	
+row_10	ANG	angiogenin [Source:HGNC Symbol;Acc:HGNC:483]	386	-0.26653802394866943	0.061968718	No	
+row_11	XPNPEP1	X-prolyl aminopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:12822]	505	-0.32322028279304504	-0.06639721	No	
+row_12	PSMB9	proteasome 20S subunit beta 9 [Source:HGNC Symbol;Acc:HGNC:9546]	578	-0.3885420262813568	-0.12745126	No	
+row_13	CASP1	caspase 1 [Source:HGNC Symbol;Acc:HGNC:1499]	601	-0.4244210422039032	-0.11851078	No	
+row_14	CDA	cytidine deaminase [Source:HGNC Symbol;Acc:HGNC:1712]	626	-0.4705687165260315	-0.108074725	No	
+row_15	KLK1	kallikrein 1 [Source:HGNC Symbol;Acc:HGNC:6357]	656	-0.522150456905365	-0.0996579	No	
+row_16	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	668	-0.5597564578056335	-0.0638143	No	
+row_17	APOA4	apolipoprotein A4 [Source:HGNC Symbol;Acc:HGNC:602]	692	-0.6682462692260742	-0.03419855	No	
+row_18	LAP3	leucine aminopeptidase 3 [Source:HGNC Symbol;Acc:HGNC:18449]	704	-0.7187231183052063	0.015995163	No	
+row_19	DPP4	dipeptidyl peptidase 4 [Source:HGNC Symbol;Acc:HGNC:3009]	710	-0.7545823454856873	0.07743661	No	

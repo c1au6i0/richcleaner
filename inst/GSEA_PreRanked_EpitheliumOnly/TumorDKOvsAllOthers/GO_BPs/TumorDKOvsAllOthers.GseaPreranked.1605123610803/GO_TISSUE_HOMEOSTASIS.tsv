@@ -1,0 +1,19 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	7	1.0671534538269043	0.060757663	No	
+row_1	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	27	0.7286320924758911	0.08330638	No	
+row_2	PROM1	prominin 1 [Source:HGNC Symbol;Acc:HGNC:9454]	33	0.6613738536834717	0.12008014	No	
+row_3	SOD1	superoxide dismutase 1 [Source:HGNC Symbol;Acc:HGNC:11179]	120	0.44357559084892273	0.03469519	No	
+row_4	IGKC	immunoglobulin kappa constant [Source:HGNC Symbol;Acc:HGNC:5716]	163	0.38226518034935	0.003872612	No	
+row_5	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	232	0.3139440417289734	-0.066057034	No	
+row_6	ITGB1	integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	238	0.31028908491134644	-0.052338544	No	
+row_7	F11R	F11 receptor [Source:HGNC Symbol;Acc:HGNC:14685]	269	0.2896535098552704	-0.073264115	No	
+row_8	SOX9	SRY-box transcription factor 9 [Source:HGNC Symbol;Acc:HGNC:11204]	278	0.280718058347702	-0.06548219	No	
+row_9	TJP2	tight junction protein 2 [Source:HGNC Symbol;Acc:HGNC:11828]	295	0.2702713906764984	-0.06903875	No	
+row_10	FH	fumarate hydratase [Source:HGNC Symbol;Acc:HGNC:3700]	407	-0.277224063873291	-0.19863673	No	
+row_11	MUC13	mucin 13, cell surface associated [Source:HGNC Symbol;Acc:HGNC:7511]	437	-0.28770431876182556	-0.21835874	No	
+row_12	CLDN3	claudin 3 [Source:HGNC Symbol;Acc:HGNC:2045]	567	-0.37662452459335327	-0.36539727	No	
+row_13	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	703	-0.718590497970581	-0.49796867	Yes	
+row_14	PIGR	polymeric immunoglobulin receptor [Source:HGNC Symbol;Acc:HGNC:8968]	737	-1.0182609558105469	-0.47504222	Yes	
+row_15	MUC2	mucin 2, oligomeric mucus/gel-forming [Source:HGNC Symbol;Acc:HGNC:7512]	759	-2.3776156902313232	-0.34687003	Yes	
+row_16	LYZ	lysozyme [Source:HGNC Symbol;Acc:HGNC:6740]	761	-2.4896504878997803	-0.18470952	Yes	
+row_17	TFF3	trefoil factor 3 [Source:HGNC Symbol;Acc:HGNC:11757]	764	-2.9344115257263184	0.0053263167	Yes	

@@ -1,0 +1,28 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	27	0.7286320924758911	0.036366764	Yes	
+row_1	LMNA	lamin A/C [Source:HGNC Symbol;Acc:HGNC:6636]	43	0.6165744662284851	0.07771693	Yes	
+row_2	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	66	0.5342736840248108	0.10141529	Yes	
+row_3	SDC1	syndecan 1 [Source:HGNC Symbol;Acc:HGNC:10658]	112	0.44650328159332275	0.08535236	Yes	
+row_4	KRT8	keratin 8 [Source:HGNC Symbol;Acc:HGNC:6446]	118	0.4440076947212219	0.12294859	Yes	
+row_5	KRT19	keratin 19 [Source:HGNC Symbol;Acc:HGNC:6436]	141	0.41142556071281433	0.1343804	Yes	
+row_6	WDR1	WD repeat domain 1 [Source:HGNC Symbol;Acc:HGNC:12754]	144	0.4075033962726593	0.17237474	Yes	
+row_7	IFRD1	interferon related developmental regulator 1 [Source:HGNC Symbol;Acc:HGNC:5456]	168	0.3726617097854614	0.17858823	Yes	
+row_8	ATP2A2	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2 [Source:HGNC Symbol;Acc:HGNC:812]	178	0.3644122779369354	0.2028459	Yes	
+row_9	CD9	CD9 molecule [Source:HGNC Symbol;Acc:HGNC:1709]	211	0.3329448997974396	0.19296423	Yes	
+row_10	PTGFRN	prostaglandin F2 receptor inhibitor [Source:HGNC Symbol;Acc:HGNC:9601]	221	0.32522985339164734	0.21330948	Yes	
+row_11	CAPN2	calpain 2 [Source:HGNC Symbol;Acc:HGNC:1479]	230	0.31434136629104614	0.23391524	Yes	
+row_12	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	232	0.3139440417289734	0.26391527	Yes	
+row_13	HES1	hes family bHLH transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:5192]	236	0.31269019842147827	0.2910947	Yes	
+row_14	ITGB1	integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	238	0.31028908491134644	0.32072976	Yes	
+row_15	MORF4L2	mortality factor 4 like 2 [Source:HGNC Symbol;Acc:HGNC:16849]	245	0.3069269061088562	0.34329057	Yes	
+row_16	CTNNA1	catenin alpha 1 [Source:HGNC Symbol;Acc:HGNC:2509]	258	0.2955130636692047	0.35662544	Yes	
+row_17	TPM1	tropomyosin 1 [Source:HGNC Symbol;Acc:HGNC:12010]	272	0.2868867814540863	0.36775127	Yes	
+row_18	SOX9	SRY-box transcription factor 9 [Source:HGNC Symbol;Acc:HGNC:11204]	278	0.280718058347702	0.3890428	Yes	
+row_19	MYOF	myoferlin [Source:HGNC Symbol;Acc:HGNC:3656]	284	0.27656590938568115	0.40991974	Yes	
+row_20	MYH9	myosin heavy chain 9 [Source:HGNC Symbol;Acc:HGNC:7579]	294	0.2704037129878998	0.42479053	Yes	
+row_21	KLF5	Kruppel like factor 5 [Source:HGNC Symbol;Acc:HGNC:6349]	302	0.26582449674606323	0.4418995	Yes	
+row_22	NIBAN2	niban apoptosis regulator 2 [Source:HGNC Symbol;Acc:HGNC:25282]	337	0.25158584117889404	0.4211986	No	
+row_23	PDCD4	programmed cell death 4 [Source:HGNC Symbol;Acc:HGNC:8763]	419	-0.2837854027748108	0.34037054	No	
+row_24	IFT20	intraflagellar transport 20 [Source:HGNC Symbol;Acc:HGNC:30989]	584	-0.3951971232891083	0.15880726	No	
+row_25	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	595	-0.41442012786865234	0.1867106	No	
+row_26	H3-3A	H3.3 histone A [Source:HGNC Symbol;Acc:HGNC:4764]	614	-0.4516255557537079	0.20754726	No	

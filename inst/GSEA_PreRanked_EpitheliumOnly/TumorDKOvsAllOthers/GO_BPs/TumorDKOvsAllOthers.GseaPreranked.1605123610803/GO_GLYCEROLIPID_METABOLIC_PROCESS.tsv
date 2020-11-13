@@ -1,0 +1,34 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ABHD2	abhydrolase domain containing 2, acylglycerol lipase [Source:HGNC Symbol;Acc:HGNC:18717]	22	0.7936760187149048	0.0058870055	No	
+row_1	PGAP1	post-GPI attachment to proteins inositol deacylase 1 [Source:HGNC Symbol;Acc:HGNC:25712]	62	0.5523008108139038	-0.022204826	No	
+row_2	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	66	0.5342736840248108	-0.0021962617	No	
+row_3	LPCAT4	lysophosphatidylcholine acyltransferase 4 [Source:HGNC Symbol;Acc:HGNC:30059]	89	0.48274120688438416	-0.010325961	No	
+row_4	MBOAT1	membrane bound O-acyltransferase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:21579]	104	0.4589919447898865	-0.008656694	No	
+row_5	PRDX6	peroxiredoxin 6 [Source:HGNC Symbol;Acc:HGNC:16753]	116	0.4444580078125	-0.003566516	No	
+row_6	PLSCR1	phospholipid scramblase 1 [Source:HGNC Symbol;Acc:HGNC:9092]	134	0.4204649329185486	-0.007710103	No	
+row_7	INSIG1	insulin induced gene 1 [Source:HGNC Symbol;Acc:HGNC:6083]	145	0.4066869914531708	-0.002963919	No	
+row_8	ACSL3	acyl-CoA synthetase long chain family member 3 [Source:HGNC Symbol;Acc:HGNC:3570]	165	0.37829911708831787	-0.0117257	No	
+row_9	CAPN2	calpain 2 [Source:HGNC Symbol;Acc:HGNC:1479]	230	0.31434136629104614	-0.08451195	No	
+row_10	FAR1	fatty acyl-CoA reductase 1 [Source:HGNC Symbol;Acc:HGNC:26222]	234	0.3132668435573578	-0.07446621	No	
+row_11	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	340	0.2504592537879944	-0.20583874	No	
+row_12	CAT	catalase [Source:HGNC Symbol;Acc:HGNC:1516]	372	-0.2635555863380432	-0.23607743	No	
+row_13	ANG	angiogenin [Source:HGNC Symbol;Acc:HGNC:483]	386	-0.26653802394866943	-0.24172513	No	
+row_14	PLB1	phospholipase B1 [Source:HGNC Symbol;Acc:HGNC:30041]	391	-0.26874682307243347	-0.23504502	No	
+row_15	GK	glycerol kinase [Source:HGNC Symbol;Acc:HGNC:4289]	409	-0.27869826555252075	-0.24557935	No	
+row_16	CDS1	CDP-diacylglycerol synthase 1 [Source:HGNC Symbol;Acc:HGNC:1800]	436	-0.28682753443717957	-0.26797545	No	
+row_17	CHKA	choline kinase alpha [Source:HGNC Symbol;Acc:HGNC:1937]	469	-0.3041428327560425	-0.2977432	No	
+row_18	PHB2	prohibitin 2 [Source:HGNC Symbol;Acc:HGNC:30306]	486	-0.312918484210968	-0.3053762	No	
+row_19	AGPAT2	1-acylglycerol-3-phosphate O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:325]	513	-0.33057165145874023	-0.32580036	No	
+row_20	LPCAT3	lysophosphatidylcholine acyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:30244]	544	-0.3603391945362091	-0.35031742	No	
+row_21	MOGAT2	monoacylglycerol O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:23248]	623	-0.46740174293518066	-0.43522558	Yes	
+row_22	GDPD1	glycerophosphodiester phosphodiesterase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:20883]	633	-0.4794963300228119	-0.4258385	Yes	
+row_23	CHPT1	choline phosphotransferase 1 [Source:HGNC Symbol;Acc:HGNC:17852]	640	-0.490469753742218	-0.41188067	Yes	
+row_24	DGAT1	diacylglycerol O-acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:2843]	644	-0.5035091042518616	-0.39325896	Yes	
+row_25	CPS1	carbamoyl-phosphate synthase 1 [Source:HGNC Symbol;Acc:HGNC:2323]	670	-0.5640668272972107	-0.40179864	Yes	
+row_26	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	683	-0.6200270056724548	-0.39015263	Yes	
+row_27	APOA4	apolipoprotein A4 [Source:HGNC Symbol;Acc:HGNC:602]	692	-0.6682462692260742	-0.3708982	Yes	
+row_28	FABP1	fatty acid binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3555]	742	-1.1126315593719482	-0.3873177	Yes	
+row_29	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	747	-1.2770800590515137	-0.33518267	Yes	
+row_30	APOC3	apolipoprotein C3 [Source:HGNC Symbol;Acc:HGNC:610]	748	-1.315944790840149	-0.27586088	Yes	
+row_31	FABP2	fatty acid binding protein 2 [Source:HGNC Symbol;Acc:HGNC:3556]	763	-2.8678102493286133	-0.1656039	Yes	
+row_32	FABP6	fatty acid binding protein 6 [Source:HGNC Symbol;Acc:HGNC:3561]	768	-3.794180154800415	5.401671E-8	Yes	

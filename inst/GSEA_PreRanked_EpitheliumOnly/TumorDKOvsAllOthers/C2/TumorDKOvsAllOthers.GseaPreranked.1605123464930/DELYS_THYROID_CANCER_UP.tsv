@@ -1,0 +1,44 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TMSB10	thymosin beta 10 [Source:HGNC Symbol;Acc:HGNC:11879]	1	1.5585063695907593	0.06280367	Yes	
+row_1	S100A11	S100 calcium binding protein A11 [Source:HGNC Symbol;Acc:HGNC:10488]	2	1.3630578517913818	0.118935965	Yes	
+row_2	LGALS3	galectin 3 [Source:HGNC Symbol;Acc:HGNC:6563]	6	1.0708757638931274	0.15890363	Yes	
+row_3	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	9	1.036751389503479	0.19884342	Yes	
+row_4	AREG	amphiregulin [Source:HGNC Symbol;Acc:HGNC:651]	11	1.0183526277542114	0.23940293	Yes	
+row_5	IL1RN	interleukin 1 receptor antagonist [Source:HGNC Symbol;Acc:HGNC:6000]	18	0.8720592856407166	0.26705086	Yes	
+row_6	ANXA2	annexin A2 [Source:HGNC Symbol;Acc:HGNC:537]	28	0.7271065711975098	0.28459728	Yes	
+row_7	CAPG	capping actin protein, gelsolin like [Source:HGNC Symbol;Acc:HGNC:1474]	37	0.6490554213523865	0.30030683	Yes	
+row_8	TSPO	translocator protein [Source:HGNC Symbol;Acc:HGNC:1158]	51	0.5812650322914124	0.30633765	Yes	
+row_9	DSP	desmoplakin [Source:HGNC Symbol;Acc:HGNC:3052]	57	0.5623799562454224	0.32261005	Yes	
+row_10	CD44	CD44 molecule (Indian blood group) [Source:HGNC Symbol;Acc:HGNC:1681]	58	0.5619633793830872	0.34575236	Yes	
+row_11	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	66	0.5342736840248108	0.35811248	Yes	
+row_12	LAMC2	laminin subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:6493]	69	0.5228712558746338	0.3768901	Yes	
+row_13	CYBA	cytochrome b-245 alpha chain [Source:HGNC Symbol;Acc:HGNC:2577]	73	0.5142569541931152	0.39393556	Yes	
+row_14	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	110	0.44804179668426514	0.36279967	Yes	
+row_15	SDC1	syndecan 1 [Source:HGNC Symbol;Acc:HGNC:10658]	112	0.44650328159332275	0.37980977	Yes	
+row_16	CTSD	cathepsin D [Source:HGNC Symbol;Acc:HGNC:2529]	123	0.43882083892822266	0.3841068	Yes	
+row_17	ATP10B	ATPase phospholipid transporting 10B (putative) [Source:HGNC Symbol;Acc:HGNC:13543]	137	0.4134780764579773	0.38322797	Yes	
+row_18	PKM	pyruvate kinase M1/2 [Source:HGNC Symbol;Acc:HGNC:9021]	140	0.412327378988266	0.39745328	Yes	
+row_19	KRT19	keratin 19 [Source:HGNC Symbol;Acc:HGNC:6436]	141	0.41142556071281433	0.41439626	Yes	
+row_20	BHLHE40	basic helix-loop-helix family member e40 [Source:HGNC Symbol;Acc:HGNC:1046]	155	0.39408618211746216	0.41271883	No	
+row_21	DSC2	desmocollin 2 [Source:HGNC Symbol;Acc:HGNC:3036]	263	0.29266178607940674	0.27738807	No	
+row_22	EPHA2	EPH receptor A2 [Source:HGNC Symbol;Acc:HGNC:3386]	274	0.28151094913482666	0.2752069	No	
+row_23	ITGA3	integrin subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:6139]	286	0.2755010724067688	0.27140084	No	
+row_24	KCNN4	potassium calcium-activated channel subfamily N member 4 [Source:HGNC Symbol;Acc:HGNC:6293]	312	0.26010599732398987	0.24767704	No	
+row_25	IER3	immediate early response 3 [Source:HGNC Symbol;Acc:HGNC:5392]	318	0.25861456990242004	0.25144002	No	
+row_26	THBS1	thrombospondin 1 [Source:HGNC Symbol;Acc:HGNC:11785]	319	0.2585146427154541	0.26208597	No	
+row_27	MSMO1	methylsterol monooxygenase 1 [Source:HGNC Symbol;Acc:HGNC:10545]	329	0.25521475076675415	0.2601993	No	
+row_28	C9orf16	chromosome 9 open reading frame 16 [Source:HGNC Symbol;Acc:HGNC:17823]	330	0.25507059693336487	0.2707034	No	
+row_29	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	340	0.2504592537879944	0.2686209	No	
+row_30	CLDN7	claudin 7 [Source:HGNC Symbol;Acc:HGNC:2049]	343	-0.2506396770477295	0.27618772	No	
+row_31	PRSS23	serine protease 23 [Source:HGNC Symbol;Acc:HGNC:14370]	358	-0.25575923919677734	0.26743644	No	
+row_32	PNP	purine nucleoside phosphorylase [Source:HGNC Symbol;Acc:HGNC:7892]	431	-0.2863204777240753	0.18005389	No	
+row_33	TSTA3	tissue specific transplantation antigen P35B [Source:HGNC Symbol;Acc:HGNC:12390]	449	-0.29421648383140564	0.16875409	No	
+row_34	SLC26A3	solute carrier family 26 member 3 [Source:HGNC Symbol;Acc:HGNC:3018]	492	-0.31571313738822937	0.123904265	No	
+row_35	ACAA2	acetyl-CoA acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:83]	555	-0.37108758091926575	0.05378663	No	
+row_36	FMO5	flavin containing dimethylaniline monoxygenase 5 [Source:HGNC Symbol;Acc:HGNC:3773]	579	-0.391428679227829	0.038225673	No	
+row_37	MAPK13	mitogen-activated protein kinase 13 [Source:HGNC Symbol;Acc:HGNC:6875]	612	-0.44658464193344116	0.012539404	No	
+row_38	UPP1	uridine phosphorylase 1 [Source:HGNC Symbol;Acc:HGNC:12576]	629	-0.47486522793769836	0.010056333	No	
+row_39	CST6	cystatin E/M [Source:HGNC Symbol;Acc:HGNC:2478]	681	-0.6007741093635559	-0.035451036	No	
+row_40	DPP4	dipeptidyl peptidase 4 [Source:HGNC Symbol;Acc:HGNC:3009]	710	-0.7545823454856873	-0.04294396	No	
+row_41	MMP7	matrix metallopeptidase 7 [Source:HGNC Symbol;Acc:HGNC:7174]	732	-0.973405122756958	-0.031783637	No	
+row_42	AGR2	anterior gradient 2, protein disulphide isomerase family member [Source:HGNC Symbol;Acc:HGNC:328]	758	-1.9424649477005005	0.013774042	No	

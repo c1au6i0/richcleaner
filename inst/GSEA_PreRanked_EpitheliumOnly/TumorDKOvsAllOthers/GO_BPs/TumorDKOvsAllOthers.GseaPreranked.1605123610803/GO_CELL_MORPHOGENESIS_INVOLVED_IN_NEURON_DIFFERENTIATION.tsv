@@ -1,0 +1,25 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	S100A6	S100 calcium binding protein A6 [Source:HGNC Symbol;Acc:HGNC:10496]	0	1.811274766921997	0.15959159	Yes	
+row_1	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	7	1.0671534538269043	0.24556488	Yes	
+row_2	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	34	0.6588003635406494	0.26871252	Yes	
+row_3	RTN4	reticulon 4 [Source:HGNC Symbol;Acc:HGNC:14085]	39	0.6444033980369568	0.32012182	Yes	
+row_4	LAMC2	laminin subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:6493]	69	0.5228712558746338	0.3272659	Yes	
+row_5	ACTR2	actin related protein 2 [Source:HGNC Symbol;Acc:HGNC:169]	91	0.48093873262405396	0.34145352	Yes	
+row_6	APP	amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620]	97	0.4662449061870575	0.375823	Yes	
+row_7	PDLIM7	PDZ and LIM domain 7 [Source:HGNC Symbol;Acc:HGNC:22958]	108	0.45286309719085693	0.40230197	Yes	
+row_8	SOD1	superoxide dismutase 1 [Source:HGNC Symbol;Acc:HGNC:11179]	120	0.44357559084892273	0.42662036	Yes	
+row_9	IFRD1	interferon related developmental regulator 1 [Source:HGNC Symbol;Acc:HGNC:5456]	168	0.3726617097854614	0.39636838	Yes	
+row_10	ALCAM	activated leukocyte cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:400]	217	0.328165739774704	0.36085355	Yes	
+row_11	B4GALT6	beta-1,4-galactosyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:929]	225	0.3206464946269989	0.37970978	Yes	
+row_12	HES1	hes family bHLH transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:5192]	236	0.31269019842147827	0.3938381	Yes	
+row_13	ITGB1	integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	238	0.31028908491134644	0.41983542	Yes	
+row_14	TNFRSF12A	TNF receptor superfamily member 12A [Source:HGNC Symbol;Acc:HGNC:18152]	261	0.29406967759132385	0.41621575	Yes	
+row_15	RAB11A	RAB11A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9760]	270	0.28845903277397156	0.43089363	Yes	
+row_16	EPHA2	EPH receptor A2 [Source:HGNC Symbol;Acc:HGNC:3386]	274	0.28151094913482666	0.45167074	Yes	
+row_17	ADAM10	ADAM metallopeptidase domain 10 [Source:HGNC Symbol;Acc:HGNC:188]	293	0.270868718624115	0.45137593	Yes	
+row_18	ARHGDIA	Rho GDP dissociation inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:678]	296	0.2697383165359497	0.47245803	Yes	
+row_19	NIBAN2	niban apoptosis regulator 2 [Source:HGNC Symbol;Acc:HGNC:25282]	337	0.25158584117889404	0.440934	No	
+row_20	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	340	0.2504592537879944	0.46031743	No	
+row_21	HSP90AB1	heat shock protein 90 alpha family class B member 1 [Source:HGNC Symbol;Acc:HGNC:5258]	381	-0.26613056659698486	0.43007496	No	
+row_22	STMN1	stathmin 1 [Source:HGNC Symbol;Acc:HGNC:6510]	521	-0.33850619196891785	0.27332357	No	
+row_23	SLC9A3R1	SLC9A3 regulator 1 [Source:HGNC Symbol;Acc:HGNC:11075]	687	-0.6455308198928833	0.10872483	No	

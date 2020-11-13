@@ -1,0 +1,20 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	11	0.6584210395812988	0.029563058	No	
+row_1	SDC1	syndecan 1 [Source:HGNC Symbol;Acc:HGNC:10658]	49	0.4263771176338196	-0.02617152	No	
+row_2	REEP3	receptor accessory protein 3 [Source:HGNC Symbol;Acc:HGNC:23711]	104	0.35198378562927246	-0.13096781	No	
+row_3	AKR1B10	aldo-keto reductase family 1 member B10 [Source:HGNC Symbol;Acc:HGNC:382]	110	0.34612828493118286	-0.113465175	No	
+row_4	RBP2	retinol binding protein 2 [Source:HGNC Symbol;Acc:HGNC:9920]	178	0.2969084680080414	-0.25562188	No	
+row_5	PPP1R1B	protein phosphatase 1 regulatory inhibitor subunit 1B [Source:HGNC Symbol;Acc:HGNC:9287]	215	0.2776641845703125	-0.3217542	No	
+row_6	RBP1	retinol binding protein 1 [Source:HGNC Symbol;Acc:HGNC:9919]	236	0.2696274518966675	-0.3484836	No	
+row_7	GNB1	G protein subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:4396]	266	0.26012781262397766	-0.3985937	No	
+row_8	METAP2	methionyl aminopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:16672]	274	0.2553284168243408	-0.3939824	No	
+row_9	REEP5	receptor accessory protein 5 [Source:HGNC Symbol;Acc:HGNC:30077]	352	-0.37442731857299805	-0.55447537	Yes	
+row_10	MCF2L	MCF.2 cell line derived transforming sequence like [Source:HGNC Symbol;Acc:HGNC:14576]	354	-0.3846997320652008	-0.52360076	Yes	
+row_11	CCL23	C-C motif chemokine ligand 23 [Source:HGNC Symbol;Acc:HGNC:10622]	369	-0.4310687482357025	-0.52128416	Yes	
+row_12	RAMP1	receptor activity modifying protein 1 [Source:HGNC Symbol;Acc:HGNC:9843]	371	-0.4466107189655304	-0.48503745	Yes	
+row_13	RGS2	regulator of G protein signaling 2 [Source:HGNC Symbol;Acc:HGNC:9998]	373	-0.4509578347206116	-0.44841358	Yes	
+row_14	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	375	-0.46610143780708313	-0.41047567	Yes	
+row_15	CLPS	colipase [Source:HGNC Symbol;Acc:HGNC:2085]	382	-0.5743468403816223	-0.37567648	Yes	
+row_16	APOC3	apolipoprotein C3 [Source:HGNC Symbol;Acc:HGNC:610]	391	-0.8304588198661804	-0.32366672	Yes	
+row_17	CCK	cholecystokinin [Source:HGNC Symbol;Acc:HGNC:1569]	408	-1.8405084609985352	-0.20406383	Yes	
+row_18	SCT	secretin [Source:HGNC Symbol;Acc:HGNC:10607]	412	-2.582814931869507	0.012531305	Yes	

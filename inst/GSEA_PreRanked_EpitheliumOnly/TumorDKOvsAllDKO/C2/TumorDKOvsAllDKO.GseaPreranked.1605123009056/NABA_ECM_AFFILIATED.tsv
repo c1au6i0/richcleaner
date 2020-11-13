@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LGALS3	galectin 3 [Source:HGNC Symbol;Acc:HGNC:6563]	1	0.9599125385284424	0.076465346	No	
+row_1	ANXA2	annexin A2 [Source:HGNC Symbol;Acc:HGNC:537]	6	0.6924484968185425	0.12346906	No	
+row_2	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	11	0.6584210395812988	0.16767402	No	
+row_3	SDC1	syndecan 1 [Source:HGNC Symbol;Acc:HGNC:10658]	49	0.4263771176338196	0.110703774	No	
+row_4	ANXA10	annexin A10 [Source:HGNC Symbol;Acc:HGNC:534]	51	0.4246687889099121	0.14314526	No	
+row_5	REG3A	regenerating family member 3 alpha [Source:HGNC Symbol;Acc:HGNC:8601]	124	0.3323754370212555	-0.008621292	No	
+row_6	MUC17	mucin 17, cell surface associated [Source:HGNC Symbol;Acc:HGNC:16800]	183	0.2921721041202545	-0.12886871	No	
+row_7	ANXA7	annexin A7 [Source:HGNC Symbol;Acc:HGNC:545]	209	0.2797698378562927	-0.16804667	No	
+row_8	REG3G	regenerating family member 3 gamma [Source:HGNC Symbol;Acc:HGNC:29595]	237	0.2694959342479706	-0.21304478	No	
+row_9	LGALS4	galectin 4 [Source:HGNC Symbol;Acc:HGNC:6565]	295	-0.2554718852043152	-0.33382323	No	
+row_10	CLEC2D	C-type lectin domain family 2 member D [Source:HGNC Symbol;Acc:HGNC:14351]	345	-0.35109299421310425	-0.42683634	No	
+row_11	MUC3A	mucin 3A, cell surface associated [Source:HGNC Symbol;Acc:HGNC:7513]	385	-0.5997304320335388	-0.47452337	Yes	
+row_12	LGALS2	galectin 2 [Source:HGNC Symbol;Acc:HGNC:6562]	394	-0.9187455177307129	-0.41885695	Yes	
+row_13	ITLN1	intelectin 1 [Source:HGNC Symbol;Acc:HGNC:18259]	396	-0.9773956537246704	-0.34095362	Yes	
+row_14	REG4	regenerating family member 4 [Source:HGNC Symbol;Acc:HGNC:22977]	403	-1.4251763820648193	-0.23865807	Yes	
+row_15	MUC2	mucin 2, oligomeric mucus/gel-forming [Source:HGNC Symbol;Acc:HGNC:7512]	414	-3.2947847843170166	0.007462693	Yes	

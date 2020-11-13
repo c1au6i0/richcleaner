@@ -1,0 +1,29 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HIF1A	hypoxia inducible factor 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:4910]	47	0.595140814781189	-0.02068714	No	
+row_1	GCH1	GTP cyclohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:4193]	125	0.43810585141181946	-0.09313773	No	
+row_2	PLSCR1	phospholipid scramblase 1 [Source:HGNC Symbol;Acc:HGNC:9092]	134	0.4204649329185486	-0.07373783	No	
+row_3	OASL	2'-5'-oligoadenylate synthetase like [Source:HGNC Symbol;Acc:HGNC:8090]	338	0.2514447271823883	-0.32963416	No	
+row_4	IFITM2	interferon induced transmembrane protein 2 [Source:HGNC Symbol;Acc:HGNC:5413]	415	-0.28071579337120056	-0.4120384	No	
+row_5	PNP	purine nucleoside phosphorylase [Source:HGNC Symbol;Acc:HGNC:7892]	431	-0.2863204777240753	-0.41171888	No	
+row_6	IRF8	interferon regulatory factor 8 [Source:HGNC Symbol;Acc:HGNC:5358]	451	-0.2959664762020111	-0.41610476	No	
+row_7	PSMA2	proteasome 20S subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:9531]	475	-0.3064170181751251	-0.42513824	No	
+row_8	HLA-DMA	major histocompatibility complex, class II, DM alpha [Source:HGNC Symbol;Acc:HGNC:4934]	484	-0.3123410940170288	-0.41350335	No	
+row_9	ARL4A	ADP ribosylation factor like GTPase 4A [Source:HGNC Symbol;Acc:HGNC:695]	512	-0.3304521143436432	-0.42620885	Yes	
+row_10	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	525	-0.34834131598472595	-0.41738668	Yes	
+row_11	PSMB2	proteasome 20S subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:9539]	548	-0.36536866426467896	-0.42083696	Yes	
+row_12	PSMA3	proteasome 20S subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:9532]	559	-0.3729473352432251	-0.40754864	Yes	
+row_13	SECTM1	secreted and transmembrane 1 [Source:HGNC Symbol;Acc:HGNC:10707]	566	-0.37658950686454773	-0.38860062	Yes	
+row_14	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	574	-0.3801666498184204	-0.37074524	Yes	
+row_15	PSMB9	proteasome 20S subunit beta 9 [Source:HGNC Symbol;Acc:HGNC:9546]	578	-0.3885420262813568	-0.3468903	Yes	
+row_16	CASP1	caspase 1 [Source:HGNC Symbol;Acc:HGNC:1499]	601	-0.4244210422039032	-0.34609964	Yes	
+row_17	PSME1	proteasome activator subunit 1 [Source:HGNC Symbol;Acc:HGNC:9568]	619	-0.45781654119491577	-0.33616304	Yes	
+row_18	IFITM3	interferon induced transmembrane protein 3 [Source:HGNC Symbol;Acc:HGNC:5414]	627	-0.47284606099128723	-0.31165183	Yes	
+row_19	UPP1	uridine phosphorylase 1 [Source:HGNC Symbol;Acc:HGNC:12576]	629	-0.47486522793769836	-0.2788984	Yes	
+row_20	PSMB10	proteasome 20S subunit beta 10 [Source:HGNC Symbol;Acc:HGNC:9538]	635	-0.4836503565311432	-0.2509122	Yes	
+row_21	PSME2	proteasome activator subunit 2 [Source:HGNC Symbol;Acc:HGNC:9569]	677	-0.5921851992607117	-0.2637144	Yes	
+row_22	HLA-DRB1	major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	686	-0.6428012847900391	-0.2283472	Yes	
+row_23	PSMB8	proteasome 20S subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:9545]	693	-0.6697738170623779	-0.18834385	Yes	
+row_24	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	703	-0.718590497970581	-0.14888327	Yes	
+row_25	LAP3	leucine aminopeptidase 3 [Source:HGNC Symbol;Acc:HGNC:18449]	704	-0.7187231183052063	-0.09726743	Yes	
+row_26	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1 [Source:HGNC Symbol;Acc:HGNC:4942]	713	-0.783592700958252	-0.05178912	Yes	
+row_27	CD74	CD74 molecule [Source:HGNC Symbol;Acc:HGNC:1697]	755	-1.7358746528625488	0.017543899	Yes	

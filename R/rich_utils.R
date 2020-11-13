@@ -1,0 +1,95 @@
+#' rich_wider
+#'
+#' Given a dataframe  with pathway,  gs, contrasts, FDR.q.val and NES, it calculates
+#' negative `log10(p.norm) * sign of NES`, filters out all `FDR.q.val >  fdr_threshold` and
+#' returns a wider datagrame with `pathways` as rows, `contrasts` as
+#' column and one of the columns as the value. When a combination of contrast-pathway is not presence a 0 is substituted
+#' to NA.
+#'
+#' @param dat Dataframe as returned by script.
+#' @param fdr_threshold Minimum `FDR.q.val` to keep.
+#' @param gs Gene Set.
+#' @param value Column from which to take the value for pivit wider. One of c("fdr_q_val", "nes", "nom_p_val", "n_logp_sign").
+#'     Defaut is "n_logp_sign".
+#' @export
+rich_wider <- function(dat,
+                       fdr_threshold,
+                       gs,
+                       value = "n_logp_sign"){
+
+  dat[, "description"] <- row.names(dat)
+  dat$p_norm[dat$nom_p_val == 0 ] <- 10^-10
+  dat[,"n_logp_sign"] <- -log10(dat$p_norm) * sign(dat$nes)
+  dat <- dat[dat$gs == gs,]
+  dat <- dat[dat$fdr_q_val < fdr_threshold,]
+
+  dat_wider <- as.data.frame(tidyr::pivot_wider(dat,
+                                  id_cols = "description",
+                                  names_from = "contrast",
+                                  values_from = value,
+                                  values_fill = 0))
+  row.names(dat_wider) <-  dat_wider$description
+  dat_wider$description <- NULL
+  dat_wider
+}
+
+
+
+#' aggregate enriched data
+#'
+#' The functions looks recursively inside a folder and extract and bind together enrichment data.
+#'
+#'
+#' @param path The folder to look into, default is `svDialogs::dlg_dir()$res`
+#'
+#' @return
+#' @export
+#'
+#' @examples
+rich_aggregate <- function(
+                  path = svDialogs::dlg_dir()$res){
+
+  browser()
+  if(path == "svDialogs::dlg_dir()$res") eval(path)
+  files_all <-   list.files(path, recursive = TRUE,  full.names = TRUE)
+
+  files_reports <- data.frame(file = files_all[grepl("report.*tsv", files_all)])
+
+  # check the files at the same folder depth
+  splitted_files <- strsplit(files_reports$file, "/")
+  path_depth <- unlist(lapply(splitted_file, length))
+  # if all the path_dept are equal to the first, then we have as many TRUE as the vector elements.
+  if(!sum(path_depth == path_depth[[1]]) == length(path_depth)){
+    stop("Not all the reports at the same path depth!!")
+  }
+
+  path_depth <-  path_depth[[1]]
+  files_reports  <- tidyr::separate(files_reports,
+                                    col  = file,
+                                    into = as.character(1:path_depth[1]),
+                                    sep = "/",
+                                    remove = FALSE)
+
+  # we are subsetting by position so if the folder tree is different we are screwed
+  # we want to select the second to the last (contrast) and one to the last(gs)
+  # remove _ from them
+  files_reports[path_depth - 2:1] <- apply(files_reports[path_depth - 2:1], 2, function(x) sub("_", "", x))
+
+  files_reports[, "id"] <-   paste0(files_reports[, path_depth - 2], "_", files_reports[, path_depth - 1])
+
+  rich_ls <- lapply(files_reports$file, read.delim)
+  names(rich_ls) <- files_reports$id
+
+  rich_df <- dplyr::bind_rows(rich_df, .id = "id")
+  names(rich_df) <- gsub("\\.", "_", tolower(names(rich_df)))
+
+  names(rich_df)[names(rich_df) == "name"] <- "description"
+  rich_df <- tidyr::separate(rich_df, col = "id", into = c("contrast", "df"))
+
+  rich_df
+
+}
+
+
+
+

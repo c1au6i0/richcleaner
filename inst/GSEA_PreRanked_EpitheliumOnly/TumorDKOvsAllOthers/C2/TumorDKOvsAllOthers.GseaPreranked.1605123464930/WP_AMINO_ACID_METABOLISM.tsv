@@ -1,0 +1,19 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GSR	glutathione-disulfide reductase [Source:HGNC Symbol;Acc:HGNC:4623]	90	0.4816640615463257	-0.06752133	No	
+row_1	PKM	pyruvate kinase M1/2 [Source:HGNC Symbol;Acc:HGNC:9021]	140	0.412327378988266	-0.087980226	No	
+row_2	IDH1	isocitrate dehydrogenase (NADP(+)) 1 [Source:HGNC Symbol;Acc:HGNC:5382]	160	0.38597342371940613	-0.07135498	No	
+row_3	GSS	glutathione synthetase [Source:HGNC Symbol;Acc:HGNC:4624]	281	0.27953001856803894	-0.20077907	No	
+row_4	ACAA1	acetyl-CoA acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:82]	405	-0.275907963514328	-0.33459127	No	
+row_5	FH	fumarate hydratase [Source:HGNC Symbol;Acc:HGNC:3700]	407	-0.277224063873291	-0.30581045	No	
+row_6	DDC	dopa decarboxylase [Source:HGNC Symbol;Acc:HGNC:2719]	445	-0.29240524768829346	-0.32331672	No	
+row_7	ALDH1A1	aldehyde dehydrogenase 1 family member A1 [Source:HGNC Symbol;Acc:HGNC:402]	517	-0.33406004309654236	-0.38157135	No	
+row_8	GLUD1	glutamate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:4335]	529	-0.3505593538284302	-0.35814035	No	
+row_9	SUCLG1	succinate-CoA ligase GDP/ADP-forming subunit alpha [Source:HGNC Symbol;Acc:HGNC:11449]	637	-0.4878202974796295	-0.44762948	Yes	
+row_10	CPS1	carbamoyl-phosphate synthase 1 [Source:HGNC Symbol;Acc:HGNC:2323]	670	-0.5640668272972107	-0.42896977	Yes	
+row_11	MDH2	malate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:6971]	675	-0.5867174863815308	-0.37056613	Yes	
+row_12	OTC	ornithine carbamoyltransferase [Source:HGNC Symbol;Acc:HGNC:8512]	678	-0.5922812819480896	-0.308895	Yes	
+row_13	HADH	hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	690	-0.6540776491165161	-0.25249553	Yes	
+row_14	MAOA	monoamine oxidase A [Source:HGNC Symbol;Acc:HGNC:6833]	694	-0.6726738214492798	-0.18342364	Yes	
+row_15	ARG2	arginase 2 [Source:HGNC Symbol;Acc:HGNC:664]	705	-0.7256156802177429	-0.11792206	Yes	
+row_16	MDH1	malate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:6970]	719	-0.8359899520874023	-0.04442618	Yes	
+row_17	OAT	ornithine aminotransferase [Source:HGNC Symbol;Acc:HGNC:8091]	736	-0.9974222183227539	0.04260998	Yes	

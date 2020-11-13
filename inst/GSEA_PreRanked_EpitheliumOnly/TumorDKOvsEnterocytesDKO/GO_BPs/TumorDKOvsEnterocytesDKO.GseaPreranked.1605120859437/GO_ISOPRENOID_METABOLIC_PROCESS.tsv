@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AKR1B10	aldo-keto reductase family 1 member B10 [Source:HGNC Symbol;Acc:HGNC:382]	269	0.4620147943496704	-0.19301337	No	
+row_1	SDC1	syndecan 1 [Source:HGNC Symbol;Acc:HGNC:10658]	387	0.37059035897254944	-0.26875383	No	
+row_2	IDI1	isopentenyl-diphosphate delta isomerase 1 [Source:HGNC Symbol;Acc:HGNC:5387]	433	0.34290289878845215	-0.28818807	No	
+row_3	RBP1	retinol binding protein 1 [Source:HGNC Symbol;Acc:HGNC:9919]	441	0.33832940459251404	-0.2774193	No	
+row_4	RDH10	retinol dehydrogenase 10 [Source:HGNC Symbol;Acc:HGNC:19975]	479	0.3195706307888031	-0.29157758	No	
+row_5	SDC4	syndecan 4 [Source:HGNC Symbol;Acc:HGNC:10661]	538	0.29445430636405945	-0.3237648	No	
+row_6	HMGCS1	3-hydroxy-3-methylglutaryl-CoA synthase 1 [Source:HGNC Symbol;Acc:HGNC:5007]	721	-0.2626231014728546	-0.45677188	No	
+row_7	CYP2C19	cytochrome P450 family 2 subfamily C member 19 [Source:HGNC Symbol;Acc:HGNC:2621]	758	-0.2726186513900757	-0.4724017	No	
+row_8	PHYH	phytanoyl-CoA 2-hydroxylase [Source:HGNC Symbol;Acc:HGNC:8940]	783	-0.28743037581443787	-0.4777071	No	
+row_9	ALDH1A1	aldehyde dehydrogenase 1 family member A1 [Source:HGNC Symbol;Acc:HGNC:402]	964	-0.40646785497665405	-0.6021516	No	
+row_10	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	1005	-0.4446200132369995	-0.6126601	No	
+row_11	DGAT2	diacylglycerol O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:16940]	1050	-0.5060001015663147	-0.62340075	No	
+row_12	CYP2D6	cytochrome P450 family 2 subfamily D member 6 [Source:HGNC Symbol;Acc:HGNC:2625]	1084	-0.5618195533752441	-0.6226329	No	
+row_13	PLB1	phospholipase B1 [Source:HGNC Symbol;Acc:HGNC:30041]	1115	-0.662757933139801	-0.6145784	No	
+row_14	CYP4V2	cytochrome P450 family 4 subfamily V member 2 [Source:HGNC Symbol;Acc:HGNC:23198]	1196	-0.9478849768638611	-0.6327573	Yes	
+row_15	DGAT1	diacylglycerol O-acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:2843]	1224	-1.1827552318572998	-0.5971359	Yes	
+row_16	CYP3A4	cytochrome P450 family 3 subfamily A member 4 [Source:HGNC Symbol;Acc:HGNC:2637]	1251	-1.619191288948059	-0.5395928	Yes	
+row_17	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	1252	-1.6867952346801758	-0.45796135	Yes	
+row_18	RBP2	retinol binding protein 2 [Source:HGNC Symbol;Acc:HGNC:9920]	1253	-1.6917424201965332	-0.37609053	Yes	
+row_19	APOA4	apolipoprotein A4 [Source:HGNC Symbol;Acc:HGNC:602]	1262	-2.3588438034057617	-0.26834086	Yes	
+row_20	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	1266	-2.727443218231201	-0.13874982	Yes	
+row_21	APOC3	apolipoprotein C3 [Source:HGNC Symbol;Acc:HGNC:610]	1268	-2.9166970252990723	0.0016013116	Yes	

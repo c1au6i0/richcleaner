@@ -1,0 +1,22 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EMP1	epithelial membrane protein 1 [Source:HGNC Symbol;Acc:HGNC:3333]	16	0.8945969939231873	0.067282185	Yes	
+row_1	ANXA10	annexin A10 [Source:HGNC Symbol;Acc:HGNC:534]	19	0.8168424367904663	0.1455739	Yes	
+row_2	ERO1A	endoplasmic reticulum oxidoreductase 1 alpha [Source:HGNC Symbol;Acc:HGNC:13280]	63	0.544617235660553	0.14206979	Yes	
+row_3	IL33	interleukin 33 [Source:HGNC Symbol;Acc:HGNC:16028]	76	0.50267493724823	0.1758522	Yes	
+row_4	BTC	betacellulin [Source:HGNC Symbol;Acc:HGNC:1121]	107	0.4545145034790039	0.18079677	Yes	
+row_5	PLAUR	plasminogen activator, urokinase receptor [Source:HGNC Symbol;Acc:HGNC:9053]	121	0.44230976700782776	0.2072589	Yes	
+row_6	JUP	junction plakoglobin [Source:HGNC Symbol;Acc:HGNC:6207]	164	0.3797909915447235	0.18875408	No	
+row_7	PLAT	plasminogen activator, tissue type [Source:HGNC Symbol;Acc:HGNC:9051]	231	0.3140313923358917	0.13164562	No	
+row_8	GALNT3	polypeptide N-acetylgalactosaminyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:4125]	237	0.3110065460205078	0.15578812	No	
+row_9	SOX9	SRY-box transcription factor 9 [Source:HGNC Symbol;Acc:HGNC:11204]	278	0.280718058347702	0.130137	No	
+row_10	KCNN4	potassium calcium-activated channel subfamily N member 4 [Source:HGNC Symbol;Acc:HGNC:6293]	312	0.26010599732398987	0.11180109	No	
+row_11	TSPAN13	tetraspanin 13 [Source:HGNC Symbol;Acc:HGNC:21643]	448	-0.2939528226852417	-0.039543565	No	
+row_12	IRF8	interferon regulatory factor 8 [Source:HGNC Symbol;Acc:HGNC:5358]	451	-0.2959664762020111	-0.01288113	No	
+row_13	TMEM176A	transmembrane protein 176A [Source:HGNC Symbol;Acc:HGNC:24930]	472	-0.30584636330604553	-0.009303573	No	
+row_14	TMEM176B	transmembrane protein 176B [Source:HGNC Symbol;Acc:HGNC:29596]	564	-0.37580376863479614	-0.09371162	No	
+row_15	KLF4	Kruppel like factor 4 [Source:HGNC Symbol;Acc:HGNC:6348]	586	-0.4015501141548157	-0.081984796	No	
+row_16	EPB41L3	erythrocyte membrane protein band 4.1 like 3 [Source:HGNC Symbol;Acc:HGNC:3380]	639	-0.48985785245895386	-0.10294875	No	
+row_17	GLRX	glutaredoxin [Source:HGNC Symbol;Acc:HGNC:4330]	651	-0.5145806074142456	-0.06664934	No	
+row_18	ACE	angiotensin I converting enzyme [Source:HGNC Symbol;Acc:HGNC:2707]	655	-0.5219672322273254	-0.018922588	No	
+row_19	PSMB8	proteasome 20S subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:9545]	693	-0.6697738170623779	-0.0019997745	No	
+row_20	PIGR	polymeric immunoglobulin receptor [Source:HGNC Symbol;Acc:HGNC:8968]	737	-1.0182609558105469	0.04144373	No	

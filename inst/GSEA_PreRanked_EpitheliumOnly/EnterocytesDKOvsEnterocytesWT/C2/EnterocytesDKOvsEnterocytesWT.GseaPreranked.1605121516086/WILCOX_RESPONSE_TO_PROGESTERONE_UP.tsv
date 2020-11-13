@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SGK1	serum/glucocorticoid regulated kinase 1 [Source:HGNC Symbol;Acc:HGNC:10810]	5	1.3375345468521118	0.13971406	Yes	
+row_1	HMGCS1	3-hydroxy-3-methylglutaryl-CoA synthase 1 [Source:HGNC Symbol;Acc:HGNC:5007]	7	1.1506723165512085	0.26327458	Yes	
+row_2	MSMO1	methylsterol monooxygenase 1 [Source:HGNC Symbol;Acc:HGNC:10545]	12	1.0861291885375977	0.3767891	Yes	
+row_3	INSIG1	insulin induced gene 1 [Source:HGNC Symbol;Acc:HGNC:6083]	22	0.7930747270584106	0.45347863	Yes	
+row_4	SCD	stearoyl-CoA desaturase [Source:HGNC Symbol;Acc:HGNC:10571]	36	0.6586044430732727	0.511532	Yes	
+row_5	IDI1	isopentenyl-diphosphate delta isomerase 1 [Source:HGNC Symbol;Acc:HGNC:5387]	46	0.5843395590782166	0.5656224	Yes	
+row_6	CYP51A1	cytochrome P450 family 51 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2649]	47	0.5835601687431335	0.6288027	Yes	
+row_7	LDLR	low density lipoprotein receptor [Source:HGNC Symbol;Acc:HGNC:6547]	76	0.4635609984397888	0.6504488	Yes	
+row_8	FDPS	farnesyl diphosphate synthase [Source:HGNC Symbol;Acc:HGNC:3631]	128	0.3757230341434479	0.6391395	Yes	
+row_9	HMGCR	3-hydroxy-3-methylglutaryl-CoA reductase [Source:HGNC Symbol;Acc:HGNC:5006]	140	0.3645966649055481	0.66740024	Yes	
+row_10	AREG	amphiregulin [Source:HGNC Symbol;Acc:HGNC:651]	163	0.32985934615135193	0.680687	Yes	
+row_11	KLF6	Kruppel like factor 6 [Source:HGNC Symbol;Acc:HGNC:2235]	166	0.32632797956466675	0.7139788	Yes	
+row_12	FDFT1	farnesyl-diphosphate farnesyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:3629]	188	0.2998398542404175	0.7250349	Yes	
+row_13	CYB5B	cytochrome b5 type B [Source:HGNC Symbol;Acc:HGNC:24374]	332	-0.2708953619003296	0.6085943	No	
+row_14	ELOVL6	ELOVL fatty acid elongase 6 [Source:HGNC Symbol;Acc:HGNC:15829]	438	-0.3026563823223114	0.5343284	No	
+row_15	EBP	EBP cholestenol delta-isomerase [Source:HGNC Symbol;Acc:HGNC:3133]	455	-0.3090462386608124	0.551478	No	

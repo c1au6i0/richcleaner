@@ -1,0 +1,39 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANXA2	annexin A2 [Source:HGNC Symbol;Acc:HGNC:537]	6	0.6924484968185425	0.029798824	Yes	
+row_1	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	10	0.6586881875991821	0.06526973	Yes	
+row_2	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	11	0.6584210395812988	0.10861778	Yes	
+row_3	AREG	amphiregulin [Source:HGNC Symbol;Acc:HGNC:651]	14	0.6114703416824341	0.14361162	Yes	
+row_4	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	19	0.5771936774253845	0.17108564	Yes	
+row_5	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	25	0.5315682888031006	0.19292428	Yes	
+row_6	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	34	0.47600749135017395	0.20321025	Yes	
+row_7	HSPA9	heat shock protein family A (Hsp70) member 9 [Source:HGNC Symbol;Acc:HGNC:5244]	37	0.4671379327774048	0.22870176	Yes	
+row_8	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	41	0.4465313255786896	0.250205	Yes	
+row_9	RTN4	reticulon 4 [Source:HGNC Symbol;Acc:HGNC:14085]	43	0.4448782503604889	0.27686262	Yes	
+row_10	CFTR	CF transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884]	48	0.4273115396499634	0.29446894	Yes	
+row_11	S100A10	S100 calcium binding protein A10 [Source:HGNC Symbol;Acc:HGNC:10487]	53	0.42264324426651	0.31176794	Yes	
+row_12	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	69	0.39545300602912903	0.29832944	Yes	
+row_13	LMNA	lamin A/C [Source:HGNC Symbol;Acc:HGNC:6636]	70	0.39462971687316895	0.32431042	Yes	
+row_14	ATP5MC3	ATP synthase membrane subunit c locus 3 [Source:HGNC Symbol;Acc:HGNC:843]	71	0.3889755308628082	0.34991917	Yes	
+row_15	ATP5ME	ATP synthase membrane subunit e [Source:HGNC Symbol;Acc:HGNC:846]	99	0.35740792751312256	0.30239695	No	
+row_16	REEP3	receptor accessory protein 3 [Source:HGNC Symbol;Acc:HGNC:23711]	104	0.35198378562927246	0.315044	No	
+row_17	ATP5F1A	ATP synthase F1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:823]	122	0.3345460593700409	0.29233244	No	
+row_18	KCNN4	potassium calcium-activated channel subfamily N member 4 [Source:HGNC Symbol;Acc:HGNC:6293]	125	0.3308022916316986	0.3088481	No	
+row_19	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma [Source:HGNC Symbol;Acc:HGNC:12852]	130	0.32716527581214905	0.31986117	No	
+row_20	PPIA	peptidylprolyl isomerase A [Source:HGNC Symbol;Acc:HGNC:9253]	148	0.3159968852996826	0.29592842	No	
+row_21	ATP5F1B	ATP synthase F1 subunit beta [Source:HGNC Symbol;Acc:HGNC:830]	160	0.3083372414112091	0.28728086	No	
+row_22	GCLC	glutamate-cysteine ligase catalytic subunit [Source:HGNC Symbol;Acc:HGNC:4311]	173	0.30015799403190613	0.27546322	No	
+row_23	BTC	betacellulin [Source:HGNC Symbol;Acc:HGNC:1121]	181	0.2933272421360016	0.27635378	No	
+row_24	TFRC	transferrin receptor [Source:HGNC Symbol;Acc:HGNC:11763]	186	0.2916891276836395	0.2850312	No	
+row_25	HSPA8	heat shock protein family A (Hsp70) member 8 [Source:HGNC Symbol;Acc:HGNC:5241]	193	0.28897470235824585	0.28826678	No	
+row_26	PLSCR1	phospholipid scramblase 1 [Source:HGNC Symbol;Acc:HGNC:9092]	201	0.2854034900665283	0.28863564	No	
+row_27	ANXA7	annexin A7 [Source:HGNC Symbol;Acc:HGNC:545]	209	0.2797698378562927	0.2886336	No	
+row_28	BOK	BCL2 family apoptosis regulator BOK [Source:HGNC Symbol;Acc:HGNC:1087]	238	0.26827067136764526	0.23261139	No	
+row_29	TOMM22	translocase of outer mitochondrial membrane 22 [Source:HGNC Symbol;Acc:HGNC:18002]	242	0.26686757802963257	0.24228624	No	
+row_30	ATP5MF	ATP synthase membrane subunit f [Source:HGNC Symbol;Acc:HGNC:848]	245	0.2659178078174591	0.25453013	No	
+row_31	TOMM20	translocase of outer mitochondrial membrane 20 [Source:HGNC Symbol;Acc:HGNC:20947]	267	0.2590065896511078	0.21631904	No	
+row_32	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	306	-0.269396036863327	0.1340551	No	
+row_33	ANO7	anoctamin 7 [Source:HGNC Symbol;Acc:HGNC:31677]	316	-0.2829039394855499	0.12899625	No	
+row_34	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	351	-0.373076468706131	0.06408457	No	
+row_35	FER1L6	fer-1 like family member 6 [Source:HGNC Symbol;Acc:HGNC:28065]	367	-0.4265522062778473	0.05269353	No	
+row_36	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	375	-0.46610143780708313	0.06495891	No	
+row_37	CD24	CD24 molecule [Source:HGNC Symbol;Acc:HGNC:1645]	387	-0.6521586179733276	0.07894729	No	

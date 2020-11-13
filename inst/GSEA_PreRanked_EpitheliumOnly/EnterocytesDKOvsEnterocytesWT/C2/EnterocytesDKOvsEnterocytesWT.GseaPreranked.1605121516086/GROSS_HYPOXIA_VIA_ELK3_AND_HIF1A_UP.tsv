@@ -1,0 +1,25 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SGK1	serum/glucocorticoid regulated kinase 1 [Source:HGNC Symbol;Acc:HGNC:10810]	5	1.3375345468521118	0.122081466	Yes	
+row_1	FAM162A	family with sequence similarity 162 member A [Source:HGNC Symbol;Acc:HGNC:17865]	37	0.6547834277153015	0.15250127	Yes	
+row_2	WSB1	WD repeat and SOCS box containing 1 [Source:HGNC Symbol;Acc:HGNC:19221]	43	0.5906821489334106	0.20354553	Yes	
+row_3	ATF3	activating transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:785]	51	0.578048825263977	0.25133267	Yes	
+row_4	EGR1	early growth response 1 [Source:HGNC Symbol;Acc:HGNC:3238]	55	0.5612092614173889	0.3016291	Yes	
+row_5	VEGFA	vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	65	0.5057293176651001	0.34048203	Yes	
+row_6	HIGD1A	HIG1 hypoxia inducible domain family member 1A [Source:HGNC Symbol;Acc:HGNC:29527]	78	0.45466217398643494	0.37139446	Yes	
+row_7	NOCT	nocturnin [Source:HGNC Symbol;Acc:HGNC:14254]	82	0.4473187029361725	0.41085812	Yes	
+row_8	PGK1	phosphoglycerate kinase 1 [Source:HGNC Symbol;Acc:HGNC:8896]	92	0.43054434657096863	0.4425598	Yes	
+row_9	MAPK6	mitogen-activated protein kinase 6 [Source:HGNC Symbol;Acc:HGNC:6879]	101	0.4183421730995178	0.47412863	Yes	
+row_10	HBEGF	heparin binding EGF like growth factor [Source:HGNC Symbol;Acc:HGNC:3059]	120	0.3883298337459564	0.4925653	Yes	
+row_11	ERRFI1	ERBB receptor feedback inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:18185]	121	0.38825806975364685	0.52949464	Yes	
+row_12	SAT1	spermidine/spermine N1-acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10540]	127	0.3799961805343628	0.5604994	Yes	
+row_13	NDRG1	N-myc downstream regulated 1 [Source:HGNC Symbol;Acc:HGNC:7679]	133	0.37080249190330505	0.59062976	Yes	
+row_14	BNIP3	BCL2 interacting protein 3 [Source:HGNC Symbol;Acc:HGNC:1084]	153	0.34533846378326416	0.60394955	Yes	
+row_15	KLF6	Kruppel like factor 6 [Source:HGNC Symbol;Acc:HGNC:2235]	166	0.32632797956466675	0.6226554	Yes	
+row_16	PNRC1	proline rich nuclear receptor coactivator 1 [Source:HGNC Symbol;Acc:HGNC:17278]	238	0.25681400299072266	0.5741122	No	
+row_17	ZFP36	ZFP36 ring finger protein [Source:HGNC Symbol;Acc:HGNC:12862]	240	0.25401318073272705	0.597245	No	
+row_18	PRDX5	peroxiredoxin 5 [Source:HGNC Symbol;Acc:HGNC:9355]	293	-0.26183438301086426	0.5687065	No	
+row_19	SLC37A4	solute carrier family 37 member 4 [Source:HGNC Symbol;Acc:HGNC:4061]	319	-0.26885947585105896	0.5685855	No	
+row_20	TPI1	triosephosphate isomerase 1 [Source:HGNC Symbol;Acc:HGNC:12009]	344	-0.27387842535972595	0.5699696	No	
+row_21	PGAM1	phosphoglycerate mutase 1 [Source:HGNC Symbol;Acc:HGNC:8888]	410	-0.29495251178741455	0.53122044	No	
+row_22	ME2	malic enzyme 2 [Source:HGNC Symbol;Acc:HGNC:6984]	523	-0.338260293006897	0.4482863	No	
+row_23	XPNPEP1	X-prolyl aminopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:12822]	598	-0.3870164453983307	0.4090441	No	

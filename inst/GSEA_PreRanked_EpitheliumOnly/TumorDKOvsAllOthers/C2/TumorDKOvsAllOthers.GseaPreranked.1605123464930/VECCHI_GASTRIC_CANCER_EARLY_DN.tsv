@@ -1,0 +1,28 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	3	1.3506386280059814	0.06949224	No	
+row_1	GSTA1	glutathione S-transferase alpha 1 [Source:HGNC Symbol;Acc:HGNC:4626]	13	0.9897312521934509	0.111248665	No	
+row_2	GSTA3	glutathione S-transferase alpha 3 [Source:HGNC Symbol;Acc:HGNC:4628]	205	0.33760884404182434	-0.12778264	No	
+row_3	MFSD4A	major facilitator superfamily domain containing 4A [Source:HGNC Symbol;Acc:HGNC:25433]	259	0.2949984073638916	-0.18315007	No	
+row_4	CD302	CD302 molecule [Source:HGNC Symbol;Acc:HGNC:30843]	350	-0.253010094165802	-0.29066876	No	
+row_5	ELAPOR1	endosome-lysosome associated apoptosis and autophagy regulator 1 [Source:HGNC Symbol;Acc:HGNC:29618]	359	-0.2559267282485962	-0.28751653	No	
+row_6	ADH1B	alcohol dehydrogenase 1B (class I), beta polypeptide [Source:HGNC Symbol;Acc:HGNC:250]	462	-0.30166226625442505	-0.40855885	No	
+row_7	ALDH1A1	aldehyde dehydrogenase 1 family member A1 [Source:HGNC Symbol;Acc:HGNC:402]	517	-0.33406004309654236	-0.46314728	No	
+row_8	SLC2A2	solute carrier family 2 member 2 [Source:HGNC Symbol;Acc:HGNC:11006]	518	-0.3343863785266876	-0.44494164	No	
+row_9	FMO5	flavin containing dimethylaniline monoxygenase 5 [Source:HGNC Symbol;Acc:HGNC:3773]	579	-0.391428679227829	-0.5044929	Yes	
+row_10	CYP3A4	cytochrome P450 family 3 subfamily A member 4 [Source:HGNC Symbol;Acc:HGNC:2637]	592	-0.4104403257369995	-0.49831903	Yes	
+row_11	ASPA	aspartoacylase [Source:HGNC Symbol;Acc:HGNC:756]	596	-0.41442689299583435	-0.4797987	Yes	
+row_12	ADA	adenosine deaminase [Source:HGNC Symbol;Acc:HGNC:186]	608	-0.44150298833847046	-0.47058594	Yes	
+row_13	HPGD	15-hydroxyprostaglandin dehydrogenase [Source:HGNC Symbol;Acc:HGNC:5154]	621	-0.4598962366580963	-0.46171945	Yes	
+row_14	SLC15A1	solute carrier family 15 member 1 [Source:HGNC Symbol;Acc:HGNC:10920]	658	-0.5236736536026001	-0.4817256	Yes	
+row_15	MAF	MAF bZIP transcription factor [Source:HGNC Symbol;Acc:HGNC:6776]	669	-0.5618994832038879	-0.46461013	Yes	
+row_16	RBP2	retinol binding protein 2 [Source:HGNC Symbol;Acc:HGNC:9920]	673	-0.5851491093635559	-0.43679488	Yes	
+row_17	MAOA	monoamine oxidase A [Source:HGNC Symbol;Acc:HGNC:6833]	694	-0.6726738214492798	-0.42712542	Yes	
+row_18	SULT1B1	sulfotransferase family 1B member 1 [Source:HGNC Symbol;Acc:HGNC:17845]	706	-0.7295291423797607	-0.40223107	Yes	
+row_19	MEP1B	meprin A subunit beta [Source:HGNC Symbol;Acc:HGNC:7020]	707	-0.7388652563095093	-0.36200365	Yes	
+row_20	MTTP	microsomal triglyceride transfer protein [Source:HGNC Symbol;Acc:HGNC:7467]	720	-0.8416233658790588	-0.33235407	Yes	
+row_21	CHGA	chromogranin A [Source:HGNC Symbol;Acc:HGNC:1929]	727	-0.8985058665275574	-0.29152125	Yes	
+row_22	ACE2	angiotensin I converting enzyme 2 [Source:HGNC Symbol;Acc:HGNC:13557]	740	-1.0326404571533203	-0.25147176	Yes	
+row_23	SLC51A	solute carrier family 51 subunit alpha [Source:HGNC Symbol;Acc:HGNC:29955]	741	-1.0736640691757202	-0.19301625	Yes	
+row_24	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	747	-1.2770800590515137	-0.13022432	Yes	
+row_25	APOC3	apolipoprotein C3 [Source:HGNC Symbol;Acc:HGNC:610]	748	-1.315944790840149	-0.058577847	Yes	
+row_26	SELENOP	selenoprotein P [Source:HGNC Symbol;Acc:HGNC:10751]	754	-1.5462311506271362	0.018867996	Yes	
