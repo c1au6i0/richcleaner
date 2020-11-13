@@ -7,7 +7,7 @@
 rich_wider(dat, fdr_threshold, gs, value = "n_logp_sign")
 }
 \arguments{
-\item{dat}{Dataframe as returned by script.}
+\item{dat}{Dataframe as returned by \code{\link{rich_aggregate}}.}
 
 \item{fdr_threshold}{Minimum `FDR.q.val` to keep.}
 
@@ -17,9 +17,9 @@ rich_wider(dat, fdr_threshold, gs, value = "n_logp_sign")
 Defaut is "n_logp_sign".}
 }
 \description{
-Given a dataframe  with pathway,  gs, contrasts, FDR.q.val and NES, it calculates
+Given a dataframe generate by \code{\link{rich_aggregate}}, filters it to get a specific `gs`, it calculates
 negative `log10(p.norm) * sign of NES`, filters out all `FDR.q.val >  fdr_threshold` and
 returns a wider datagrame with `pathways` as rows, `contrasts` as
-column and one of the columns as the value. When a combination of contrast-pathway is not presence a 0 is substituted
-to NA.
+column and one of the columns as the `value`. When a combination of contrast-pathway is not presence a 0 is substituted
+to NA when pivoting.
 }

@@ -4,7 +4,15 @@
 \alias{rich_pheatmap}
 \title{rich_pheatmap}
 \usage{
-rich_pheatmap(dat, fdr_threshold, gs, value = "n_logp_sign", ...)
+rich_pheatmap(
+  dat,
+  fdr_threshold,
+  gs,
+  value = "n_logp_sign",
+  col = c("#053061", "#2166AC", "#4393C3", "#92C5DE", "#D1E5F0", "#F7F7F7", "#FDDBC7",
+    "#F4A582", "#D6604D", "#B2182B", "#67001F"),
+  ...
+)
 }
 \arguments{
 \item{dat}{Dataframe as returned by script.}
@@ -16,9 +24,9 @@ rich_pheatmap(dat, fdr_threshold, gs, value = "n_logp_sign", ...)
 \item{value}{Column from which to take the value for pivit wider. One of c("fdr_q_val", "nes", "nom_p_val", "n_logp_sign").
 Defaut is "n_logp_sign".}
 
-\item{...}{\link[pheatmap]{pheatmap} arguments .}
-
 \item{col}{Palette of heatmap. Default is `rev(RColorBrewer::brewer.pal(11, "RdBu"))`.}
+
+\item{...}{\link[pheatmap]{pheatmap} arguments .}
 }
 \description{
 Just a wrapper that runs \code{\link{rich_wider}} and produces a heatmap of the results using `{pheatmap}`.

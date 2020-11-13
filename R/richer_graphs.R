@@ -14,12 +14,13 @@ rich_pheatmap <- function(dat,
                           fdr_threshold,
                           gs,
                           value = "n_logp_sign",
+                          col = c("#053061", "#2166AC", "#4393C3", "#92C5DE", "#D1E5F0", "#F7F7F7",
+                                  "#FDDBC7", "#F4A582", "#D6604D", "#B2182B", "#67001F"),
                           ...){
 
   dat_wider<- rich_wider(dat,fdr_threshold = fdr_threshold, gs = gs, value = value)
   pheatmap::pheatmap(as.matrix(dat_wider),
-                     col = c("#053061", "#2166AC", "#4393C3", "#92C5DE", "#D1E5F0", "#F7F7F7",
-                             "#FDDBC7", "#F4A582", "#D6604D", "#B2182B", "#67001F"),
+                     col = col,
                      main = gs,
                      ...)
 
