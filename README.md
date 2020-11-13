@@ -81,7 +81,8 @@ names(rich_results)
     #> [11] "leading_edge"
 
 Some packages like `{pheatmaps}` takes as an input a matrix, so it is
-convenient to pivot the dataframe in a wider format with `rich_wider`.
+convenient to select the results of a particular gene set database and
+to pivot the dataframe in a wider format with `rich_wider`.
 
 ``` r
 rich_results_wider <- rich_wider(rich_results, fdr_threshold = 0.001, gs = "GOBPs", value = "n_logp_sign")

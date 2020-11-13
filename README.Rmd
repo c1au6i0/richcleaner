@@ -58,7 +58,7 @@ c("contrast", "gs", "description", "size", "es", "nes", "nom_p_val",
 ```
 
 
-Some packages like `{pheatmaps}` takes as an input a matrix, so it is convenient to pivot the dataframe in a wider format with `rich_wider`.
+Some packages like `{pheatmaps}` takes as an input a matrix, so it is convenient to select the results of a particular gene set database and to pivot the dataframe in a wider format with `rich_wider`.
 
 ``` r
 rich_results_wider <- rich_wider(rich_results, fdr_threshold = 0.001, gs = "GOBPs", value = "n_logp_sign")
