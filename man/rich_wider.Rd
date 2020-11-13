@@ -9,17 +9,17 @@ rich_wider(dat, fdr_threshold, gs, value = "n_logp_sign")
 \arguments{
 \item{dat}{Dataframe as returned by script.}
 
-\item{fdr_threshold}{Minimum \code{FDR.q.val} to keep.}
+\item{fdr_threshold}{Minimum `FDR.q.val` to keep.}
 
 \item{gs}{Gene Set.}
 
-\item{value}{Column from which to take the value for pivit wider. One of c("fdr_q_val", "nes", "p_norm", "n_logp_sign").
+\item{value}{Column from which to take the value for pivit wider. One of c("fdr_q_val", "nes", "nom_p_val", "n_logp_sign").
 Defaut is "n_logp_sign".}
 }
 \description{
-Given a dataframe  with pathway, one gs, contrasts, FDR.q.val and NES, it calculates
-negative \verb{log10(p.norm) * sign of NES}, filters out all \code{FDR.q.val >  fdr_threshold} and
-returns a wider datagrame with \code{pathways} as rows, \code{contrasts} as
+Given a dataframe  with pathway,  gs, contrasts, FDR.q.val and NES, it calculates
+negative `log10(p.norm) * sign of NES`, filters out all `FDR.q.val >  fdr_threshold` and
+returns a wider datagrame with `pathways` as rows, `contrasts` as
 column and one of the columns as the value. When a combination of contrast-pathway is not presence a 0 is substituted
 to NA.
 }

@@ -9,13 +9,17 @@ rich_pheatmap(dat, fdr_threshold, gs, value = "n_logp_sign", ...)
 \arguments{
 \item{dat}{Dataframe as returned by script.}
 
-\item{fdr_threshold}{Minimum \code{FDR.q.val} to keep.}
+\item{fdr_threshold}{Minimum `FDR.q.val` to keep.}
 
 \item{gs}{Gene Set.}
 
-\item{col}{Palette of heatmap. Default is \code{rev(RColorBrewer::brewer.pal(11, "RdBu"))}.
-#' @param ... \link[pheatmap]{pheatmap} arguments .}
+\item{value}{Column from which to take the value for pivit wider. One of c("fdr_q_val", "nes", "nom_p_val", "n_logp_sign").
+Defaut is "n_logp_sign".}
+
+\item{...}{\link[pheatmap]{pheatmap} arguments .}
+
+\item{col}{Palette of heatmap. Default is `rev(RColorBrewer::brewer.pal(11, "RdBu"))`.}
 }
 \description{
-Just a wrapper that runs \code{\link{rich_wider}} and produces a heatmap of the results using \code{{pheatmap}}.
+Just a wrapper that runs \code{\link{rich_wider}} and produces a heatmap of the results using `{pheatmap}`.
 }

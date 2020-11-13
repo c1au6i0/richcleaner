@@ -6,7 +6,9 @@
 #' @param fdr_threshold Minimum `FDR.q.val` to keep.
 #' @param gs Gene Set.
 #' @param col Palette of heatmap. Default is `rev(RColorBrewer::brewer.pal(11, "RdBu"))`.
-#' #' @param ... \link[pheatmap]{pheatmap} arguments .
+#' @param value Column from which to take the value for pivit wider. One of c("fdr_q_val", "nes", "nom_p_val", "n_logp_sign").
+#'     Defaut is "n_logp_sign".
+#' @param ... \link[pheatmap]{pheatmap} arguments .
 #' @export
 rich_pheatmap <- function(dat,
                           fdr_threshold,
