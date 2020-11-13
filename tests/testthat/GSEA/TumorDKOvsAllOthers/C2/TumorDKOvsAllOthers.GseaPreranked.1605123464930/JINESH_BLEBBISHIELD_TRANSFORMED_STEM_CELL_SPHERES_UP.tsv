@@ -1,0 +1,28 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	9	1.036751389503479	0.064960115	Yes	
+row_1	EMP1	epithelial membrane protein 1 [Source:HGNC Symbol;Acc:HGNC:3333]	16	0.8945969939231873	0.12339322	Yes	
+row_2	ANXA10	annexin A10 [Source:HGNC Symbol;Acc:HGNC:534]	19	0.8168424367904663	0.18143557	Yes	
+row_3	ABHD2	abhydrolase domain containing 2, acylglycerol lipase [Source:HGNC Symbol;Acc:HGNC:18717]	22	0.7936760187149048	0.23775536	Yes	
+row_4	ANXA2	annexin A2 [Source:HGNC Symbol;Acc:HGNC:537]	28	0.7271065711975098	0.2850821	Yes	
+row_5	CD44	CD44 molecule (Indian blood group) [Source:HGNC Symbol;Acc:HGNC:1681]	58	0.5619633793830872	0.28778434	Yes	
+row_6	GCLC	glutamate-cysteine ligase catalytic subunit [Source:HGNC Symbol;Acc:HGNC:4311]	60	0.5550163388252258	0.32770586	Yes	
+row_7	SPRR1A	small proline rich protein 1A [Source:HGNC Symbol;Acc:HGNC:11259]	64	0.5398656129837036	0.3638054	Yes	
+row_8	AHNAK	AHNAK nucleoprotein [Source:HGNC Symbol;Acc:HGNC:347]	68	0.524288535118103	0.3987467	Yes	
+row_9	LAMC2	laminin subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:6493]	69	0.5228712558746338	0.4376257	Yes	
+row_10	PGD	phosphogluconate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:8891]	92	0.4776814877986908	0.44349498	Yes	
+row_11	UGDH	UDP-glucose 6-dehydrogenase [Source:HGNC Symbol;Acc:HGNC:12525]	124	0.43833261728286743	0.434309	Yes	
+row_12	AZIN1	antizyme inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:16432]	127	0.4354260265827179	0.46399048	Yes	
+row_13	PLEC	plectin [Source:HGNC Symbol;Acc:HGNC:9069]	139	0.4125789701938629	0.4798437	Yes	
+row_14	AKR1B10	aldo-keto reductase family 1 member B10 [Source:HGNC Symbol;Acc:HGNC:382]	151	0.39671435952186584	0.49451733	Yes	
+row_15	ATP2A2	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2 [Source:HGNC Symbol;Acc:HGNC:812]	178	0.3644122779369354	0.48657343	No	
+row_16	KLF6	Kruppel like factor 6 [Source:HGNC Symbol;Acc:HGNC:2235]	196	0.34194743633270264	0.48908848	No	
+row_17	MORF4L2	mortality factor 4 like 2 [Source:HGNC Symbol;Acc:HGNC:16849]	245	0.3069269061088562	0.44722053	No	
+row_18	MT1A	metallothionein 1A [Source:HGNC Symbol;Acc:HGNC:7393]	267	0.2897450625896454	0.4404632	No	
+row_19	KRT23	keratin 23 [Source:HGNC Symbol;Acc:HGNC:6438]	299	0.2679624855518341	0.41860902	No	
+row_20	EFHD2	EF-hand domain family member D2 [Source:HGNC Symbol;Acc:HGNC:28670]	308	0.26236197352409363	0.42733574	No	
+row_21	THBS1	thrombospondin 1 [Source:HGNC Symbol;Acc:HGNC:11785]	319	0.2585146427154541	0.43308097	No	
+row_22	GK	glycerol kinase [Source:HGNC Symbol;Acc:HGNC:4289]	409	-0.27869826555252075	0.33385798	No	
+row_23	FTH1	ferritin heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:3976]	474	-0.3063566982746124	0.2703843	No	
+row_24	AGPAT2	1-acylglycerol-3-phosphate O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:325]	513	-0.33057165145874023	0.24375163	No	
+row_25	ALDH1A1	aldehyde dehydrogenase 1 family member A1 [Source:HGNC Symbol;Acc:HGNC:402]	517	-0.33406004309654236	0.26454812	No	
+row_26	MMP7	matrix metallopeptidase 7 [Source:HGNC Symbol;Acc:HGNC:7174]	732	-0.973405122756958	0.04851771	No	

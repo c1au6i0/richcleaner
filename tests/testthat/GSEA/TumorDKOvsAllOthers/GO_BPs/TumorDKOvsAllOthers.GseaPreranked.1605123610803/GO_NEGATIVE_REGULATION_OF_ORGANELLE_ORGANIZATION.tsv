@@ -1,0 +1,24 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TMSB10	thymosin beta 10 [Source:HGNC Symbol;Acc:HGNC:11879]	1	1.5585063695907593	0.12051274	Yes	
+row_1	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	3	1.3506386280059814	0.22477315	Yes	
+row_2	TMSB4X	thymosin beta 4 X-linked [Source:HGNC Symbol;Acc:HGNC:11881]	12	1.016165018081665	0.29349908	Yes	
+row_3	CAPG	capping actin protein, gelsolin like [Source:HGNC Symbol;Acc:HGNC:1474]	37	0.6490554213523865	0.31207448	Yes	
+row_4	LMNA	lamin A/C [Source:HGNC Symbol;Acc:HGNC:6636]	43	0.6165744662284851	0.3535795	Yes	
+row_5	TSPO	translocator protein [Source:HGNC Symbol;Acc:HGNC:1158]	51	0.5812650322914124	0.38964286	Yes	
+row_6	GCLC	glutamate-cysteine ligase catalytic subunit [Source:HGNC Symbol;Acc:HGNC:4311]	60	0.5550163388252258	0.42231345	Yes	
+row_7	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	66	0.5342736840248108	0.4573837	Yes	
+row_8	INSIG1	insulin induced gene 1 [Source:HGNC Symbol;Acc:HGNC:6083]	145	0.4066869914531708	0.38462326	No	
+row_9	HIGD1A	HIG1 hypoxia inducible domain family member 1A [Source:HGNC Symbol;Acc:HGNC:29527]	154	0.3945419192314148	0.404747	No	
+row_10	BOK	BCL2 family apoptosis regulator BOK [Source:HGNC Symbol;Acc:HGNC:1087]	186	0.3521551489830017	0.3907256	No	
+row_11	MYADM	myeloid associated differentiation marker [Source:HGNC Symbol;Acc:HGNC:7544]	220	0.3258872926235199	0.3719695	No	
+row_12	CAPZA1	capping actin protein of muscle Z-line subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:1488]	243	0.3072003126144409	0.3664976	No	
+row_13	F11R	F11 receptor [Source:HGNC Symbol;Acc:HGNC:14685]	269	0.2896535098552704	0.35563233	No	
+row_14	TRIP12	thyroid hormone receptor interactor 12 [Source:HGNC Symbol;Acc:HGNC:12306]	334	0.2537916600704193	0.28968439	No	
+row_15	STMN1	stathmin 1 [Source:HGNC Symbol;Acc:HGNC:6510]	521	-0.33850619196891785	0.06682104	No	
+row_16	ACAA2	acetyl-CoA acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:83]	555	-0.37108758091926575	0.05159893	No	
+row_17	NUPR1	nuclear protein 1, transcriptional regulator [Source:HGNC Symbol;Acc:HGNC:29990]	563	-0.37480634450912476	0.07152012	No	
+row_18	H3-3A	H3.3 histone A [Source:HGNC Symbol;Acc:HGNC:4764]	614	-0.4516255557537079	0.039806742	No	
+row_19	VIL1	villin 1 [Source:HGNC Symbol;Acc:HGNC:12690]	624	-0.4687521159648895	0.06439221	No	
+row_20	ESPN	espin [Source:HGNC Symbol;Acc:HGNC:13281]	645	-0.5048045516014099	0.077051155	No	
+row_21	SCIN	scinderin [Source:HGNC Symbol;Acc:HGNC:21695]	648	-0.5112093091011047	0.11433955	No	
+row_22	SLC25A5	solute carrier family 25 member 5 [Source:HGNC Symbol;Acc:HGNC:10991]	672	-0.5778260231018066	0.1286863	No	

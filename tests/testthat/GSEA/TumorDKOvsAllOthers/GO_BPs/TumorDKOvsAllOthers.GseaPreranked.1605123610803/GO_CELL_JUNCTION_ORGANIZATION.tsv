@@ -1,0 +1,47 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	7	1.0671534538269043	0.0459005	Yes	
+row_1	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	27	0.7286320924758911	0.0575717	Yes	
+row_2	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	38	0.6448140144348145	0.077325396	Yes	
+row_3	CLDN2	claudin 2 [Source:HGNC Symbol;Acc:HGNC:2041]	45	0.6020601391792297	0.10038477	Yes	
+row_4	CLDN4	claudin 4 [Source:HGNC Symbol;Acc:HGNC:2046]	56	0.5677968263626099	0.116127044	Yes	
+row_5	DSP	desmoplakin [Source:HGNC Symbol;Acc:HGNC:3052]	57	0.5623799562454224	0.14541845	Yes	
+row_6	LAMC2	laminin subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:6493]	69	0.5228712558746338	0.15743765	Yes	
+row_7	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	72	0.5145708322525024	0.18147267	Yes	
+row_8	DSG2	desmoglein 2 [Source:HGNC Symbol;Acc:HGNC:3049]	74	0.5113564133644104	0.2067234	Yes	
+row_9	ACTN1	actinin alpha 1 [Source:HGNC Symbol;Acc:HGNC:163]	84	0.49115392565727234	0.21985689	Yes	
+row_10	ACTR2	actin related protein 2 [Source:HGNC Symbol;Acc:HGNC:169]	91	0.48093873262405396	0.23660769	Yes	
+row_11	APP	amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620]	97	0.4662449061870575	0.2539763	Yes	
+row_12	ITGA6	integrin subunit alpha 6 [Source:HGNC Symbol;Acc:HGNC:6142]	106	0.454662024974823	0.26659223	Yes	
+row_13	PLEC	plectin [Source:HGNC Symbol;Acc:HGNC:9069]	139	0.4125789701938629	0.24382125	Yes	
+row_14	WDR1	WD repeat domain 1 [Source:HGNC Symbol;Acc:HGNC:12754]	144	0.4075033962726593	0.25951344	Yes	
+row_15	ARF6	ADP ribosylation factor 6 [Source:HGNC Symbol;Acc:HGNC:659]	162	0.38350343704223633	0.25597498	Yes	
+row_16	JUP	junction plakoglobin [Source:HGNC Symbol;Acc:HGNC:6207]	164	0.3797909915447235	0.27437314	Yes	
+row_17	ROCK2	Rho associated coiled-coil containing protein kinase 2 [Source:HGNC Symbol;Acc:HGNC:10252]	192	0.34392938017845154	0.2549422	Yes	
+row_18	MYO1C	myosin IC [Source:HGNC Symbol;Acc:HGNC:7597]	202	0.3391028642654419	0.26015615	Yes	
+row_19	CTNND1	catenin delta 1 [Source:HGNC Symbol;Acc:HGNC:2515]	206	0.33686381578445435	0.27355224	Yes	
+row_20	CD9	CD9 molecule [Source:HGNC Symbol;Acc:HGNC:1709]	211	0.3329448997974396	0.28536105	Yes	
+row_21	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	232	0.3139440417289734	0.27405024	Yes	
+row_22	ABHD17C	abhydrolase domain containing 17C, depalmitoylase [Source:HGNC Symbol;Acc:HGNC:26925]	240	0.30795812606811523	0.28040826	Yes	
+row_23	CAPZA1	capping actin protein of muscle Z-line subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:1488]	243	0.3072003126144409	0.29364246	Yes	
+row_24	CTNNA1	catenin alpha 1 [Source:HGNC Symbol;Acc:HGNC:2509]	258	0.2955130636692047	0.2896704	Yes	
+row_25	F11R	F11 receptor [Source:HGNC Symbol;Acc:HGNC:14685]	269	0.2896535098552704	0.29092565	Yes	
+row_26	PDCD6IP	programmed cell death 6 interacting protein [Source:HGNC Symbol;Acc:HGNC:8766]	271	0.28747543692588806	0.3045156	Yes	
+row_27	EPHA2	EPH receptor A2 [Source:HGNC Symbol;Acc:HGNC:3386]	274	0.28151094913482666	0.31641176	Yes	
+row_28	SLK	STE20 like kinase [Source:HGNC Symbol;Acc:HGNC:11088]	279	0.2805902063846588	0.32549372	Yes	
+row_29	ITGA3	integrin subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:6139]	286	0.2755010724067688	0.33154437	Yes	
+row_30	ADAM10	ADAM metallopeptidase domain 10 [Source:HGNC Symbol;Acc:HGNC:188]	293	0.270868718624115	0.33735374	Yes	
+row_31	TJP2	tight junction protein 2 [Source:HGNC Symbol;Acc:HGNC:11828]	295	0.2702713906764984	0.35004762	Yes	
+row_32	TUBB	tubulin beta class I [Source:HGNC Symbol;Acc:HGNC:20778]	305	0.2653183043003082	0.3514185	Yes	
+row_33	ITGB4	integrin subunit beta 4 [Source:HGNC Symbol;Acc:HGNC:6158]	317	0.2586687207221985	0.34967682	Yes	
+row_34	THBS1	thrombospondin 1 [Source:HGNC Symbol;Acc:HGNC:11785]	319	0.2585146427154541	0.36175835	Yes	
+row_35	FLNA	filamin A [Source:HGNC Symbol;Acc:HGNC:3754]	320	0.2576660215854645	0.3751788	Yes	
+row_36	IQGAP1	IQ motif containing GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:6110]	336	0.25188177824020386	0.36755112	Yes	
+row_37	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	340	0.2504592537879944	0.37644684	Yes	
+row_38	CLDN7	claudin 7 [Source:HGNC Symbol;Acc:HGNC:2049]	343	-0.2506396770477295	0.38673508	Yes	
+row_39	ANG	angiogenin [Source:HGNC Symbol;Acc:HGNC:483]	386	-0.26653802394866943	0.34252635	No	
+row_40	CLDN3	claudin 3 [Source:HGNC Symbol;Acc:HGNC:2045]	567	-0.37662452459335327	0.11318006	No	
+row_41	CHCHD10	coiled-coil-helix-coiled-coil-helix domain containing 10 [Source:HGNC Symbol;Acc:HGNC:15559]	607	-0.4350408911705017	0.08189713	No	
+row_42	EPB41L3	erythrocyte membrane protein band 4.1 like 3 [Source:HGNC Symbol;Acc:HGNC:3380]	639	-0.48985785245895386	0.06453433	No	
+row_43	ACE	angiotensin I converting enzyme [Source:HGNC Symbol;Acc:HGNC:2707]	655	-0.5219672322273254	0.070973955	No	
+row_44	CLDN15	claudin 15 [Source:HGNC Symbol;Acc:HGNC:2036]	666	-0.5523349642753601	0.08591091	No	
+row_45	ACE2	angiotensin I converting enzyme 2 [Source:HGNC Symbol;Acc:HGNC:13557]	740	-1.0326404571533203	0.038727496	No	

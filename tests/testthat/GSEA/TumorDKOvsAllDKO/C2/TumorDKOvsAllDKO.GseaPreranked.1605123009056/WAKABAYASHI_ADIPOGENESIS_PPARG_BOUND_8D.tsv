@@ -1,0 +1,22 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LGALS3	galectin 3 [Source:HGNC Symbol;Acc:HGNC:6563]	1	0.9599125385284424	0.10477602	Yes	
+row_1	KRT19	keratin 19 [Source:HGNC Symbol;Acc:HGNC:6436]	15	0.6018701791763306	0.13930489	Yes	
+row_2	F3	coagulation factor III, tissue factor [Source:HGNC Symbol;Acc:HGNC:3541]	24	0.5324541330337524	0.1786692	Yes	
+row_3	TSPO	translocator protein [Source:HGNC Symbol;Acc:HGNC:1158]	26	0.5166745781898499	0.23390198	Yes	
+row_4	HSPE1	heat shock protein family E (Hsp10) member 1 [Source:HGNC Symbol;Acc:HGNC:5269]	35	0.4756585955619812	0.2669179	Yes	
+row_5	HSPA9	heat shock protein family A (Hsp70) member 9 [Source:HGNC Symbol;Acc:HGNC:5244]	37	0.4671379327774048	0.3166137	Yes	
+row_6	AHNAK	AHNAK nucleoprotein [Source:HGNC Symbol;Acc:HGNC:347]	38	0.46660831570625305	0.36876917	Yes	
+row_7	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	41	0.4465313255786896	0.41364276	Yes	
+row_8	HSPD1	heat shock protein family D (Hsp60) member 1 [Source:HGNC Symbol;Acc:HGNC:5261]	45	0.4432012140750885	0.4556252	Yes	
+row_9	ATP5ME	ATP synthase membrane subunit e [Source:HGNC Symbol;Acc:HGNC:846]	99	0.35740792751312256	0.36207348	No	
+row_10	ZFP36L2	ZFP36 ring finger protein like 2 [Source:HGNC Symbol;Acc:HGNC:1108]	106	0.35035356879234314	0.38612115	No	
+row_11	TXNRD1	thioredoxin reductase 1 [Source:HGNC Symbol;Acc:HGNC:12437]	163	0.3064437806606293	0.2793162	No	
+row_12	HSPA8	heat shock protein family A (Hsp70) member 8 [Source:HGNC Symbol;Acc:HGNC:5241]	193	0.28897470235824585	0.2385687	No	
+row_13	PLSCR1	phospholipid scramblase 1 [Source:HGNC Symbol;Acc:HGNC:9092]	201	0.2854034900665283	0.25283763	No	
+row_14	ABHD2	abhydrolase domain containing 2, acylglycerol lipase [Source:HGNC Symbol;Acc:HGNC:18717]	210	0.2793167531490326	0.2639073	No	
+row_15	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	306	-0.269396036863327	0.05472456	No	
+row_16	TMEM176B	transmembrane protein 176B [Source:HGNC Symbol;Acc:HGNC:29596]	320	-0.2921469211578369	0.054633897	No	
+row_17	GALNT7	polypeptide N-acetylgalactosaminyltransferase 7 [Source:HGNC Symbol;Acc:HGNC:4129]	322	-0.2966322600841522	0.08527129	No	
+row_18	EGR1	early growth response 1 [Source:HGNC Symbol;Acc:HGNC:3238]	355	-0.3854314982891083	0.047748636	No	
+row_19	CCL23	C-C motif chemokine ligand 23 [Source:HGNC Symbol;Acc:HGNC:10622]	369	-0.4310687482357025	0.063186064	No	
+row_20	CPE	carboxypeptidase E [Source:HGNC Symbol;Acc:HGNC:2303]	378	-0.4938620328903198	0.09823671	No	

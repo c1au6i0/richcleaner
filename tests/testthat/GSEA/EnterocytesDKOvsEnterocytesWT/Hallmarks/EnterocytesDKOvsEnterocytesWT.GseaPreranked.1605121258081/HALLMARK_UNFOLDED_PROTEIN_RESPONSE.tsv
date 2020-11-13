@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ATF3	activating transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:785]	51	0.578048825263977	0.05213262	Yes	
+row_1	VEGFA	vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	65	0.5057293176651001	0.12994194	Yes	
+row_2	HERPUD1	homocysteine inducible ER protein with ubiquitin like domain 1 [Source:HGNC Symbol;Acc:HGNC:13744]	86	0.43801143765449524	0.18843155	Yes	
+row_3	EIF4EBP1	eukaryotic translation initiation factor 4E binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3288]	183	0.3044561445713043	0.14548379	Yes	
+row_4	NABP1	nucleic acid binding protein 1 [Source:HGNC Symbol;Acc:HGNC:26232]	194	0.29346030950546265	0.18813282	Yes	
+row_5	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	212	0.27820849418640137	0.22090773	Yes	
+row_6	SPCS1	signal peptidase complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:23401]	272	-0.2563110291957855	0.20697053	Yes	
+row_7	CEBPG	CCAAT enhancer binding protein gamma [Source:HGNC Symbol;Acc:HGNC:1837]	279	-0.2572067975997925	0.24716607	Yes	
+row_8	CEBPB	CCAAT enhancer binding protein beta [Source:HGNC Symbol;Acc:HGNC:1834]	306	-0.2650432586669922	0.26840585	Yes	
+row_9	HSPA5	heat shock protein family A (Hsp70) member 5 [Source:HGNC Symbol;Acc:HGNC:5238]	439	-0.3030836582183838	0.18855113	Yes	
+row_10	SEC11A	SEC11 homolog A, signal peptidase complex subunit [Source:HGNC Symbol;Acc:HGNC:17718]	497	-0.3258996605873108	0.18917878	Yes	
+row_11	SEC31A	SEC31 homolog A, COPII coat complex component [Source:HGNC Symbol;Acc:HGNC:17052]	508	-0.3332540988922119	0.23899198	Yes	
+row_12	BANF1	BAF nuclear assembly factor 1 [Source:HGNC Symbol;Acc:HGNC:17397]	511	-0.33377987146377563	0.29704648	Yes	
+row_13	ALDH18A1	aldehyde dehydrogenase 18 family member A1 [Source:HGNC Symbol;Acc:HGNC:9722]	637	-0.40573641657829285	0.24280088	No	
+row_14	YIF1A	Yip1 interacting factor homolog A, membrane trafficking protein [Source:HGNC Symbol;Acc:HGNC:16688]	887	-0.6763302683830261	0.110998	No	

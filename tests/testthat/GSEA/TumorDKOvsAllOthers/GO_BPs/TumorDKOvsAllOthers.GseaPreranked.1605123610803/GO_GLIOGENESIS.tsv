@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	3	1.3506386280059814	0.1388862	Yes	
+row_1	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	9	1.036751389503479	0.24190868	Yes	
+row_2	AREG	amphiregulin [Source:HGNC Symbol;Acc:HGNC:651]	11	1.0183526277542114	0.348304	Yes	
+row_3	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	27	0.7286320924758911	0.4054346	Yes	
+row_4	RTN4	reticulon 4 [Source:HGNC Symbol;Acc:HGNC:14085]	39	0.6444033980369568	0.45897436	Yes	
+row_5	TSPO	translocator protein [Source:HGNC Symbol;Acc:HGNC:1158]	51	0.5812650322914124	0.50583506	Yes	
+row_6	IL33	interleukin 33 [Source:HGNC Symbol;Acc:HGNC:16028]	76	0.50267493724823	0.527095	Yes	
+row_7	APP	amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620]	97	0.4662449061870575	0.54982036	Yes	
+row_8	SOD1	superoxide dismutase 1 [Source:HGNC Symbol;Acc:HGNC:11179]	120	0.44357559084892273	0.56748813	Yes	
+row_9	WDR1	WD repeat domain 1 [Source:HGNC Symbol;Acc:HGNC:12754]	144	0.4075033962726593	0.58001024	Yes	
+row_10	BOK	BCL2 family apoptosis regulator BOK [Source:HGNC Symbol;Acc:HGNC:1087]	186	0.3521551489830017	0.5627413	Yes	
+row_11	CD9	CD9 molecule [Source:HGNC Symbol;Acc:HGNC:1709]	211	0.3329448997974396	0.56604654	Yes	
+row_12	B4GALT6	beta-1,4-galactosyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:929]	225	0.3206464946269989	0.58267844	Yes	
+row_13	HES1	hes family bHLH transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:5192]	236	0.31269019842147827	0.6024581	Yes	
+row_14	SOX9	SRY-box transcription factor 9 [Source:HGNC Symbol;Acc:HGNC:11204]	278	0.280718058347702	0.57763225	No	
+row_15	HEXB	hexosaminidase subunit beta [Source:HGNC Symbol;Acc:HGNC:4879]	368	-0.2596285939216614	0.48674566	No	
+row_16	ASPA	aspartoacylase [Source:HGNC Symbol;Acc:HGNC:756]	596	-0.41442689299583435	0.22872357	No	

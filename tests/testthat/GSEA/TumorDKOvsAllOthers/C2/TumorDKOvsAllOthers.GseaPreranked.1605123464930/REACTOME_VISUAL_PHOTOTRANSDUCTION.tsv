@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SDC1	syndecan 1 [Source:HGNC Symbol;Acc:HGNC:10658]	112	0.44650328159332275	-0.09909365	No	
+row_1	AKR1B10	aldo-keto reductase family 1 member B10 [Source:HGNC Symbol;Acc:HGNC:382]	151	0.39671435952186584	-0.10555789	No	
+row_2	METAP2	methionyl aminopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:16672]	156	0.39395591616630554	-0.067234755	No	
+row_3	RDH10	retinol dehydrogenase 10 [Source:HGNC Symbol;Acc:HGNC:19975]	208	0.33457833528518677	-0.09782155	No	
+row_4	RBP1	retinol binding protein 1 [Source:HGNC Symbol;Acc:HGNC:9919]	218	0.326877236366272	-0.07355827	No	
+row_5	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	340	0.2504592537879944	-0.20629892	No	
+row_6	PLB1	phospholipase B1 [Source:HGNC Symbol;Acc:HGNC:30041]	391	-0.26874682307243347	-0.24284987	No	
+row_7	CYP4V2	cytochrome P450 family 4 subfamily V member 2 [Source:HGNC Symbol;Acc:HGNC:23198]	609	-0.443386435508728	-0.48154598	No	
+row_8	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	668	-0.5597564578056335	-0.4964795	Yes	
+row_9	RBP2	retinol binding protein 2 [Source:HGNC Symbol;Acc:HGNC:9920]	673	-0.5851491093635559	-0.43698293	Yes	
+row_10	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	683	-0.6200270056724548	-0.38025516	Yes	
+row_11	APOA4	apolipoprotein A4 [Source:HGNC Symbol;Acc:HGNC:602]	692	-0.6682462692260742	-0.31686112	Yes	
+row_12	CLPS	colipase [Source:HGNC Symbol;Acc:HGNC:2085]	743	-1.1424281597137451	-0.2566573	Yes	
+row_13	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	747	-1.2770800590515137	-0.11920743	Yes	
+row_14	APOC3	apolipoprotein C3 [Source:HGNC Symbol;Acc:HGNC:610]	748	-1.315944790840149	0.026525278	Yes	

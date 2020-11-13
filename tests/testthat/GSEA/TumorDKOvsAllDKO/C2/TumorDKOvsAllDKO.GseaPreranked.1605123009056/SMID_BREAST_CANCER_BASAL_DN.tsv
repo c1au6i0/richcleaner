@@ -1,0 +1,36 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AREG	amphiregulin [Source:HGNC Symbol;Acc:HGNC:651]	14	0.6114703416824341	-0.005575857	No	
+row_1	KRT19	keratin 19 [Source:HGNC Symbol;Acc:HGNC:6436]	15	0.6018701791763306	0.024915457	No	
+row_2	KRT8	keratin 8 [Source:HGNC Symbol;Acc:HGNC:6446]	30	0.489909291267395	0.013181202	No	
+row_3	AHNAK	AHNAK nucleoprotein [Source:HGNC Symbol;Acc:HGNC:347]	38	0.46660831570625305	0.01854326	No	
+row_4	IL33	interleukin 33 [Source:HGNC Symbol;Acc:HGNC:16028]	55	0.4194910228252411	-0.0019803834	No	
+row_5	UGDH	UDP-glucose 6-dehydrogenase [Source:HGNC Symbol;Acc:HGNC:12525]	58	0.4147617816925049	0.01380991	No	
+row_6	GPRC5A	G protein-coupled receptor class C group 5 member A [Source:HGNC Symbol;Acc:HGNC:9836]	61	0.4008501470088959	0.028895428	No	
+row_7	SCD	stearoyl-CoA desaturase [Source:HGNC Symbol;Acc:HGNC:10571]	84	0.3732236325740814	-0.009637963	No	
+row_8	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	179	0.2961597442626953	-0.24006504	No	
+row_9	BLVRB	biliverdin reductase B [Source:HGNC Symbol;Acc:HGNC:1063]	262	0.2613549530506134	-0.44092378	No	
+row_10	RAB27B	RAB27B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9767]	296	-0.25578588247299194	-0.5141273	Yes	
+row_11	NPDC1	neural proliferation, differentiation and control 1 [Source:HGNC Symbol;Acc:HGNC:7899]	298	-0.2606825828552246	-0.5035318	Yes	
+row_12	PLA2G10	phospholipase A2 group X [Source:HGNC Symbol;Acc:HGNC:9029]	303	-0.2659264802932739	-0.5005036	Yes	
+row_13	PDCD4	programmed cell death 4 [Source:HGNC Symbol;Acc:HGNC:8763]	308	-0.27207037806510925	-0.49716413	Yes	
+row_14	ELAPOR1	endosome-lysosome associated apoptosis and autophagy regulator 1 [Source:HGNC Symbol;Acc:HGNC:29618]	315	-0.2803494334220886	-0.49862716	Yes	
+row_15	ASPH	aspartate beta-hydroxylase [Source:HGNC Symbol;Acc:HGNC:757]	317	-0.28429335355758667	-0.48683554	Yes	
+row_16	GALNT7	polypeptide N-acetylgalactosaminyltransferase 7 [Source:HGNC Symbol;Acc:HGNC:4129]	322	-0.2966322600841522	-0.48225173	Yes	
+row_17	RNASE4	ribonuclease A family member 4 [Source:HGNC Symbol;Acc:HGNC:10047]	323	-0.2975098490715027	-0.46717963	Yes	
+row_18	GALNT6	polypeptide N-acetylgalactosaminyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:4128]	327	-0.3009383976459503	-0.4597667	Yes	
+row_19	CRIP1	cysteine rich protein 1 [Source:HGNC Symbol;Acc:HGNC:2360]	334	-0.31657421588897705	-0.45939454	Yes	
+row_20	CREB3L1	cAMP responsive element binding protein 3 like 1 [Source:HGNC Symbol;Acc:HGNC:18856]	340	-0.34399959444999695	-0.455022	Yes	
+row_21	CST3	cystatin C [Source:HGNC Symbol;Acc:HGNC:2475]	343	-0.3492322862148285	-0.44255152	Yes	
+row_22	BCAS1	brain enriched myelin associated protein 1 [Source:HGNC Symbol;Acc:HGNC:974]	344	-0.35033687949180603	-0.4248031	Yes	
+row_23	REEP5	receptor accessory protein 5 [Source:HGNC Symbol;Acc:HGNC:30077]	352	-0.37442731857299805	-0.42411104	Yes	
+row_24	MCF2L	MCF.2 cell line derived transforming sequence like [Source:HGNC Symbol;Acc:HGNC:14576]	354	-0.3846997320652008	-0.40723273	Yes	
+row_25	SYTL2	synaptotagmin like 2 [Source:HGNC Symbol;Acc:HGNC:15585]	361	-0.40621644258499146	-0.40231922	Yes	
+row_26	FOSB	FosB proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:3797]	362	-0.4105475842952728	-0.3815205	Yes	
+row_27	CAMK2N1	calcium/calmodulin dependent protein kinase II inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:24190]	366	-0.4241335690021515	-0.3678664	Yes	
+row_28	TSPAN13	tetraspanin 13 [Source:HGNC Symbol;Acc:HGNC:21643]	370	-0.44322407245635986	-0.35324514	Yes	
+row_29	CPE	carboxypeptidase E [Source:HGNC Symbol;Acc:HGNC:2303]	378	-0.4938620328903198	-0.34650236	Yes	
+row_30	SPDEF	SAM pointed domain containing ETS transcription factor [Source:HGNC Symbol;Acc:HGNC:17257]	380	-0.5430809259414673	-0.32160035	Yes	
+row_31	ATP2A3	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 3 [Source:HGNC Symbol;Acc:HGNC:813]	386	-0.6199068427085876	-0.3032501	Yes	
+row_32	SELENOP	selenoprotein P [Source:HGNC Symbol;Acc:HGNC:10751]	397	-0.9995927810668945	-0.27871943	Yes	
+row_33	AGR2	anterior gradient 2, protein disulphide isomerase family member [Source:HGNC Symbol;Acc:HGNC:328]	411	-2.510745048522949	-0.18546528	Yes	
+row_34	TFF3	trefoil factor 3 [Source:HGNC Symbol;Acc:HGNC:11757]	415	-3.9186036586761475	0.0052220155	Yes	

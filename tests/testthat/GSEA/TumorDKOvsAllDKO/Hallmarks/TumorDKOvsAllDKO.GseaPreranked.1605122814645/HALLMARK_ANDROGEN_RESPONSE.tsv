@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KRT19	keratin 19 [Source:HGNC Symbol;Acc:HGNC:6436]	15	0.6018701791763306	0.054600395	Yes	
+row_1	GSR	glutathione-disulfide reductase [Source:HGNC Symbol;Acc:HGNC:4623]	20	0.5758184194564819	0.13252163	Yes	
+row_2	PMEPA1	prostate transmembrane protein, androgen induced 1 [Source:HGNC Symbol;Acc:HGNC:14107]	29	0.49336227774620056	0.1879378	Yes	
+row_3	KRT8	keratin 8 [Source:HGNC Symbol;Acc:HGNC:6446]	30	0.489909291267395	0.2626783	Yes	
+row_4	SAT1	spermidine/spermine N1-acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10540]	40	0.45204922556877136	0.30931038	Yes	
+row_5	DBI	diazepam binding inhibitor, acyl-CoA binding protein [Source:HGNC Symbol;Acc:HGNC:2690]	83	0.37401294708251953	0.26215136	Yes	
+row_6	SCD	stearoyl-CoA desaturase [Source:HGNC Symbol;Acc:HGNC:10571]	84	0.3732236325740814	0.3190903	Yes	
+row_7	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	179	0.2961597442626953	0.1310218	No	
+row_8	IDI1	isopentenyl-diphosphate delta isomerase 1 [Source:HGNC Symbol;Acc:HGNC:5387]	190	0.2894488275051117	0.15036617	No	
+row_9	ABHD2	abhydrolase domain containing 2, acylglycerol lipase [Source:HGNC Symbol;Acc:HGNC:18717]	210	0.2793167531490326	0.1458323	No	
+row_10	PA2G4	proliferation-associated 2G4 [Source:HGNC Symbol;Acc:HGNC:8550]	248	0.26464980840682983	0.09439583	No	
+row_11	ACTN1	actinin alpha 1 [Source:HGNC Symbol;Acc:HGNC:163]	278	0.25406816601753235	0.06119615	No	
+row_12	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	305	-0.26824018359184265	0.037602708	No	
+row_13	SPDEF	SAM pointed domain containing ETS transcription factor [Source:HGNC Symbol;Acc:HGNC:17257]	380	-0.5430809259414673	-0.063167766	No	
+row_14	SELENOP	selenoprotein P [Source:HGNC Symbol;Acc:HGNC:10751]	397	-0.9995927810668945	0.04962776	No	

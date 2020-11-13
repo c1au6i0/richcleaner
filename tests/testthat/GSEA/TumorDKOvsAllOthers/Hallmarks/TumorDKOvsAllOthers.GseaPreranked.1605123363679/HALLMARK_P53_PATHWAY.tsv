@@ -1,0 +1,28 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FAM162A	family with sequence similarity 162 member A [Source:HGNC Symbol;Acc:HGNC:17865]	17	0.8848053216934204	0.056545734	Yes	
+row_1	RPL36	ribosomal protein L36 [Source:HGNC Symbol;Acc:HGNC:13631]	44	0.6095325946807861	0.0762422	Yes	
+row_2	SAT1	spermidine/spermine N1-acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10540]	59	0.5569945573806763	0.10739318	Yes	
+row_3	GPX2	glutathione peroxidase 2 [Source:HGNC Symbol;Acc:HGNC:4554]	65	0.539860725402832	0.1491349	Yes	
+row_4	H2AJ	H2A.J histone [Source:HGNC Symbol;Acc:HGNC:14456]	93	0.47642210125923157	0.15553015	Yes	
+row_5	APP	amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620]	97	0.4662449061870575	0.19335648	Yes	
+row_6	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	110	0.44804179668426514	0.21741877	Yes	
+row_7	SDC1	syndecan 1 [Source:HGNC Symbol;Acc:HGNC:10658]	112	0.44650328159332275	0.25616768	Yes	
+row_8	CTSD	cathepsin D [Source:HGNC Symbol;Acc:HGNC:2529]	123	0.43882083892822266	0.28209734	Yes	
+row_9	RPS27L	ribosomal protein S27 like [Source:HGNC Symbol;Acc:HGNC:18476]	169	0.3717173933982849	0.2548312	No	
+row_10	EPHA2	EPH receptor A2 [Source:HGNC Symbol;Acc:HGNC:3386]	274	0.28151094913482666	0.13994956	No	
+row_11	SERPINB5	serpin family B member 5 [Source:HGNC Symbol;Acc:HGNC:8949]	300	0.26674750447273254	0.13021114	No	
+row_12	ITGB4	integrin subunit beta 4 [Source:HGNC Symbol;Acc:HGNC:6158]	317	0.2586687207221985	0.13187663	No	
+row_13	IER3	immediate early response 3 [Source:HGNC Symbol;Acc:HGNC:5392]	318	0.25861456990242004	0.15510058	No	
+row_14	FOS	Fos proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:3796]	400	-0.2729761004447937	0.070449814	No	
+row_15	RACK1	receptor for activated C kinase 1 [Source:HGNC Symbol;Acc:HGNC:4399]	403	-0.275566965341568	0.0925007	No	
+row_16	BTG2	BTG anti-proliferation factor 2 [Source:HGNC Symbol;Acc:HGNC:1131]	456	-0.2984066605567932	0.049217187	No	
+row_17	RPS12	ribosomal protein S12 [Source:HGNC Symbol;Acc:HGNC:10385]	463	-0.30241158604621887	0.068287924	No	
+row_18	SLC3A2	solute carrier family 3 member 2 [Source:HGNC Symbol;Acc:HGNC:11026]	468	-0.3037409484386444	0.09017346	No	
+row_19	TCN2	transcobalamin 2 [Source:HGNC Symbol;Acc:HGNC:11653]	537	-0.3572232723236084	0.030608417	No	
+row_20	NUPR1	nuclear protein 1, transcriptional regulator [Source:HGNC Symbol;Acc:HGNC:29990]	563	-0.37480634450912476	0.030573843	No	
+row_21	KLF4	Kruppel like factor 4 [Source:HGNC Symbol;Acc:HGNC:6348]	586	-0.4015501141548157	0.036984023	No	
+row_22	CASP1	caspase 1 [Source:HGNC Symbol;Acc:HGNC:1499]	601	-0.4244210422039032	0.056229714	No	
+row_23	VDR	vitamin D receptor [Source:HGNC Symbol;Acc:HGNC:12679]	602	-0.4275470972061157	0.09462405	No	
+row_24	ADA	adenosine deaminase [Source:HGNC Symbol;Acc:HGNC:186]	608	-0.44150298833847046	0.12753311	No	
+row_25	UPP1	uridine phosphorylase 1 [Source:HGNC Symbol;Acc:HGNC:12576]	629	-0.47486522793769836	0.14322251	No	
+row_26	JUN	Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]	630	-0.47617611289024353	0.1859838	No	

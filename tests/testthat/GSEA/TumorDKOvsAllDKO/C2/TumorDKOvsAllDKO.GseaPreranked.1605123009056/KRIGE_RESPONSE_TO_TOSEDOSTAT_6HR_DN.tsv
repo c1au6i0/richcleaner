@@ -1,0 +1,48 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FAM162A	family with sequence similarity 162 member A [Source:HGNC Symbol;Acc:HGNC:17865]	9	0.6761683225631714	0.017641496	Yes	
+row_1	PTMA	prothymosin alpha [Source:HGNC Symbol;Acc:HGNC:9623]	21	0.5571044683456421	0.022514101	Yes	
+row_2	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	34	0.47600749135017395	0.019665938	Yes	
+row_3	HSPE1	heat shock protein family E (Hsp10) member 1 [Source:HGNC Symbol;Acc:HGNC:5269]	35	0.4756585955619812	0.04914117	Yes	
+row_4	NCL	nucleolin [Source:HGNC Symbol;Acc:HGNC:7667]	36	0.4708935618400574	0.07832112	Yes	
+row_5	HSPD1	heat shock protein family D (Hsp60) member 1 [Source:HGNC Symbol;Acc:HGNC:5261]	45	0.4432012140750885	0.08422171	Yes	
+row_6	PGK1	phosphoglycerate kinase 1 [Source:HGNC Symbol;Acc:HGNC:8896]	57	0.4160909056663513	0.080356106	Yes	
+row_7	PRDX1	peroxiredoxin 1 [Source:HGNC Symbol;Acc:HGNC:9352]	59	0.4066278338432312	0.102858275	Yes	
+row_8	SLC39A4	solute carrier family 39 member 4 [Source:HGNC Symbol;Acc:HGNC:17129]	60	0.4016987681388855	0.12775041	Yes	
+row_9	ATP5MC3	ATP synthase membrane subunit c locus 3 [Source:HGNC Symbol;Acc:HGNC:843]	71	0.3889755308628082	0.12489996	Yes	
+row_10	TOMM5	translocase of outer mitochondrial membrane 5 [Source:HGNC Symbol;Acc:HGNC:31369]	74	0.38631072640419006	0.14344771	Yes	
+row_11	HNRNPA3	heterogeneous nuclear ribonucleoprotein A3 [Source:HGNC Symbol;Acc:HGNC:24941]	80	0.3783285617828369	0.15341459	Yes	
+row_12	SCD	stearoyl-CoA desaturase [Source:HGNC Symbol;Acc:HGNC:10571]	84	0.3732236325740814	0.16845596	Yes	
+row_13	BZW1	basic leucine zipper and W2 domains 1 [Source:HGNC Symbol;Acc:HGNC:18380]	86	0.37125203013420105	0.18876599	Yes	
+row_14	ALYREF	Aly/REF export factor [Source:HGNC Symbol;Acc:HGNC:19071]	93	0.3627529740333557	0.19507226	Yes	
+row_15	ATP5ME	ATP synthase membrane subunit e [Source:HGNC Symbol;Acc:HGNC:846]	99	0.35740792751312256	0.20374274	Yes	
+row_16	ZFP36L2	ZFP36 ring finger protein like 2 [Source:HGNC Symbol;Acc:HGNC:1108]	106	0.35035356879234314	0.20928065	Yes	
+row_17	CAPG	capping actin protein, gelsolin like [Source:HGNC Symbol;Acc:HGNC:1474]	109	0.3461546301841736	0.22534005	Yes	
+row_18	HMGB1	high mobility group box 1 [Source:HGNC Symbol;Acc:HGNC:4983]	114	0.3430297374725342	0.23581497	Yes	
+row_19	NHP2	NHP2 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:14377]	116	0.3385803699493408	0.25410044	Yes	
+row_20	KITLG	KIT ligand [Source:HGNC Symbol;Acc:HGNC:6343]	133	0.3255648612976074	0.2311481	Yes	
+row_21	G3BP1	G3BP stress granule assembly factor 1 [Source:HGNC Symbol;Acc:HGNC:30292]	142	0.32015329599380493	0.22942375	Yes	
+row_22	COX5A	cytochrome c oxidase subunit 5A [Source:HGNC Symbol;Acc:HGNC:2267]	143	0.31979045271873474	0.24924026	Yes	
+row_23	RPS26	ribosomal protein S26 [Source:HGNC Symbol;Acc:HGNC:10414]	144	0.31924721598625183	0.26902312	Yes	
+row_24	RANBP1	RAN binding protein 1 [Source:HGNC Symbol;Acc:HGNC:9847]	145	0.31864601373672485	0.2887687	Yes	
+row_25	AGPS	alkylglycerone phosphate synthase [Source:HGNC Symbol;Acc:HGNC:327]	147	0.3166772127151489	0.3056969	Yes	
+row_26	VDAC1	voltage dependent anion channel 1 [Source:HGNC Symbol;Acc:HGNC:12669]	151	0.31429293751716614	0.3170865	Yes	
+row_27	MIF	macrophage migration inhibitory factor [Source:HGNC Symbol;Acc:HGNC:7097]	154	0.31344732642173767	0.33111912	Yes	
+row_28	SNRPF	small nuclear ribonucleoprotein polypeptide F [Source:HGNC Symbol;Acc:HGNC:11162]	155	0.3134442865848541	0.35054237	Yes	
+row_29	SERBP1	SERPINE1 mRNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:17860]	171	0.3018915355205536	0.32881847	No	
+row_30	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	179	0.2961597442626953	0.32830274	No	
+row_31	TFRC	transferrin receptor [Source:HGNC Symbol;Acc:HGNC:11763]	186	0.2916891276836395	0.3302054	No	
+row_32	RPL27A	ribosomal protein L27a [Source:HGNC Symbol;Acc:HGNC:10329]	211	0.27891993522644043	0.28279924	No	
+row_33	LSM7	LSM7 homolog, U6 small nuclear RNA and mRNA degradation associated [Source:HGNC Symbol;Acc:HGNC:20470]	233	0.2713121175765991	0.24300793	No	
+row_34	TOMM22	translocase of outer mitochondrial membrane 22 [Source:HGNC Symbol;Acc:HGNC:18002]	242	0.26686757802963257	0.23798163	No	
+row_35	ATP5MF	ATP synthase membrane subunit f [Source:HGNC Symbol;Acc:HGNC:848]	245	0.2659178078174591	0.24906898	No	
+row_36	PA2G4	proliferation-associated 2G4 [Source:HGNC Symbol;Acc:HGNC:8550]	248	0.26464980840682983	0.26007774	No	
+row_37	EIF3B	eukaryotic translation initiation factor 3 subunit B [Source:HGNC Symbol;Acc:HGNC:3280]	259	0.2616647183895111	0.2493382	No	
+row_38	TPM3	tropomyosin 3 [Source:HGNC Symbol;Acc:HGNC:12012]	268	0.25850945711135864	0.24379396	No	
+row_39	HDGF	heparin binding growth factor [Source:HGNC Symbol;Acc:HGNC:4856]	271	0.25654664635658264	0.2543006	No	
+row_40	MRPL12	mitochondrial ribosomal protein L12 [Source:HGNC Symbol;Acc:HGNC:10378]	276	0.25432267785072327	0.2592786	No	
+row_41	C1QBP	complement C1q binding protein [Source:HGNC Symbol;Acc:HGNC:1243]	284	0.251401424407959	0.2559893	No	
+row_42	NDUFC1	NADH:ubiquinone oxidoreductase subunit C1 [Source:HGNC Symbol;Acc:HGNC:7705]	286	0.2504986822605133	0.2688166	No	
+row_43	MRPL57	mitochondrial ribosomal protein L57 [Source:HGNC Symbol;Acc:HGNC:14514]	287	0.2502767741680145	0.28432554	No	
+row_44	CA8	carbonic anhydrase 8 [Source:HGNC Symbol;Acc:HGNC:1382]	302	-0.2651197612285614	0.26301843	No	
+row_45	KCTD12	potassium channel tetramerization domain containing 12 [Source:HGNC Symbol;Acc:HGNC:14678]	324	-0.29766416549682617	0.22486006	No	
+row_46	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	351	-0.373076468706131	0.17789769	No	

@@ -1,0 +1,54 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	10	0.6586881875991821	0.010449412	Yes	
+row_1	TSPO	translocator protein [Source:HGNC Symbol;Acc:HGNC:1158]	26	0.5166745781898499	-9.595738E-4	Yes	
+row_2	RPS2	ribosomal protein S2 [Source:HGNC Symbol;Acc:HGNC:10404]	28	0.5031736493110657	0.025211874	Yes	
+row_3	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	34	0.47600749135017395	0.038863517	Yes	
+row_4	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	41	0.4465313255786896	0.0480818	Yes	
+row_5	HSPD1	heat shock protein family D (Hsp60) member 1 [Source:HGNC Symbol;Acc:HGNC:5261]	45	0.4432012140750885	0.06532792	Yes	
+row_6	RPS21	ribosomal protein S21 [Source:HGNC Symbol;Acc:HGNC:10409]	56	0.416294127702713	0.061849944	Yes	
+row_7	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	69	0.39545300602912903	0.05169503	Yes	
+row_8	LMNA	lamin A/C [Source:HGNC Symbol;Acc:HGNC:6636]	70	0.39462971687316895	0.07436953	Yes	
+row_9	TOMM5	translocase of outer mitochondrial membrane 5 [Source:HGNC Symbol;Acc:HGNC:31369]	74	0.38631072640419006	0.088346854	Yes	
+row_10	RPLP2	ribosomal protein lateral stalk subunit P2 [Source:HGNC Symbol;Acc:HGNC:10377]	76	0.3807031512260437	0.107481435	Yes	
+row_11	RPLP1	ribosomal protein lateral stalk subunit P1 [Source:HGNC Symbol;Acc:HGNC:10372]	79	0.3791986107826233	0.12378985	Yes	
+row_12	RPL41	ribosomal protein L41 [Source:HGNC Symbol;Acc:HGNC:10354]	94	0.36180660128593445	0.106222235	Yes	
+row_13	RPS29	ribosomal protein S29 [Source:HGNC Symbol;Acc:HGNC:10419]	111	0.3452698588371277	0.08222501	Yes	
+row_14	RPS17	ribosomal protein S17 [Source:HGNC Symbol;Acc:HGNC:10397]	112	0.34438201785087585	0.10201239	Yes	
+row_15	RPS28	ribosomal protein S28 [Source:HGNC Symbol;Acc:HGNC:10418]	119	0.33629146218299866	0.10489655	Yes	
+row_16	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma [Source:HGNC Symbol;Acc:HGNC:12852]	130	0.32716527581214905	0.096297435	Yes	
+row_17	RPL36	ribosomal protein L36 [Source:HGNC Symbol;Acc:HGNC:13631]	137	0.32226240634918213	0.09837552	Yes	
+row_18	RPS26	ribosomal protein S26 [Source:HGNC Symbol;Acc:HGNC:10414]	144	0.31924721598625183	0.10028036	Yes	
+row_19	AGPS	alkylglycerone phosphate synthase [Source:HGNC Symbol;Acc:HGNC:327]	147	0.3166772127151489	0.11299644	Yes	
+row_20	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	149	0.31485334038734436	0.12834744	Yes	
+row_21	RPS25	ribosomal protein S25 [Source:HGNC Symbol;Acc:HGNC:10413]	153	0.31368330121040344	0.13815176	Yes	
+row_22	RPL35	ribosomal protein L35 [Source:HGNC Symbol;Acc:HGNC:10344]	159	0.309804230928421	0.14225376	Yes	
+row_23	RPS23	ribosomal protein S23 [Source:HGNC Symbol;Acc:HGNC:10410]	162	0.3068923354148865	0.15440762	Yes	
+row_24	RPS12	ribosomal protein S12 [Source:HGNC Symbol;Acc:HGNC:10385]	167	0.3053284287452698	0.16099216	Yes	
+row_25	JUP	junction plakoglobin [Source:HGNC Symbol;Acc:HGNC:6207]	170	0.3028024435043335	0.17291103	Yes	
+row_26	RPL31	ribosomal protein L31 [Source:HGNC Symbol;Acc:HGNC:10334]	172	0.30070000886917114	0.18744881	Yes	
+row_27	RPL39	ribosomal protein L39 [Source:HGNC Symbol;Acc:HGNC:10350]	175	0.2993217408657074	0.1991677	Yes	
+row_28	RPL37	ribosomal protein L37 [Source:HGNC Symbol;Acc:HGNC:10347]	184	0.29215899109840393	0.19403665	Yes	
+row_29	IDH1	isocitrate dehydrogenase (NADP(+)) 1 [Source:HGNC Symbol;Acc:HGNC:5382]	188	0.29080525040626526	0.20252647	Yes	
+row_30	HSPA8	heat shock protein family A (Hsp70) member 8 [Source:HGNC Symbol;Acc:HGNC:5241]	193	0.28897470235824585	0.20817137	Yes	
+row_31	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	194	0.2889412045478821	0.22477324	Yes	
+row_32	RPL32	ribosomal protein L32 [Source:HGNC Symbol;Acc:HGNC:10336]	195	0.288815438747406	0.2413679	Yes	
+row_33	RPL22	ribosomal protein L22 [Source:HGNC Symbol;Acc:HGNC:10315]	199	0.2871820330619812	0.24964952	Yes	
+row_34	RAN	RAN, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9846]	200	0.2866247892379761	0.26611832	Yes	
+row_35	RPS16	ribosomal protein S16 [Source:HGNC Symbol;Acc:HGNC:10396]	206	0.282927930355072	0.26867604	Yes	
+row_36	RPL27A	ribosomal protein L27a [Source:HGNC Symbol;Acc:HGNC:10329]	211	0.27891993522644043	0.27374324	Yes	
+row_37	RPS19	ribosomal protein S19 [Source:HGNC Symbol;Acc:HGNC:10402]	217	0.27697494626045227	0.27595893	Yes	
+row_38	RPL38	ribosomal protein L38 [Source:HGNC Symbol;Acc:HGNC:10349]	223	0.274064838886261	0.27800742	Yes	
+row_39	RPS15	ribosomal protein S15 [Source:HGNC Symbol;Acc:HGNC:10388]	227	0.2729322612285614	0.28547028	Yes	
+row_40	TOMM7	translocase of outer mitochondrial membrane 7 [Source:HGNC Symbol;Acc:HGNC:21648]	228	0.2726227939128876	0.30113456	Yes	
+row_41	RPL36A	ribosomal protein L36a [Source:HGNC Symbol;Acc:HGNC:10359]	232	0.27180859446525574	0.30853286	Yes	
+row_42	ELAVL1	ELAV like RNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3312]	239	0.2678306996822357	0.30748343	Yes	
+row_43	TOMM22	translocase of outer mitochondrial membrane 22 [Source:HGNC Symbol;Acc:HGNC:18002]	242	0.26686757802963257	0.31733754	Yes	
+row_44	RPS20	ribosomal protein S20 [Source:HGNC Symbol;Acc:HGNC:10405]	243	0.26653528213500977	0.33265203	Yes	
+row_45	RPL37A	ribosomal protein L37a [Source:HGNC Symbol;Acc:HGNC:10348]	250	0.2644857168197632	0.3314104	No	
+row_46	TOMM70	translocase of outer mitochondrial membrane 70 [Source:HGNC Symbol;Acc:HGNC:11985]	258	0.26172035932540894	0.32727018	No	
+row_47	TOMM20	translocase of outer mitochondrial membrane 20 [Source:HGNC Symbol;Acc:HGNC:20947]	267	0.2590065896511078	0.32023427	No	
+row_48	RPL13	ribosomal protein L13 [Source:HGNC Symbol;Acc:HGNC:10303]	280	0.2528022229671478	0.30188298	No	
+row_49	RPL35A	ribosomal protein L35a [Source:HGNC Symbol;Acc:HGNC:10345]	285	0.2508660852909088	0.30533826	No	
+row_50	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	306	-0.269396036863327	0.2660226	No	
+row_51	CDKN1A	cyclin dependent kinase inhibitor 1A [Source:HGNC Symbol;Acc:HGNC:1784]	309	-0.2748803496360779	0.27633712	No	
+row_52	HSPA5	heat shock protein family A (Hsp70) member 5 [Source:HGNC Symbol;Acc:HGNC:5238]	321	-0.2926256060600281	0.26301372	No	

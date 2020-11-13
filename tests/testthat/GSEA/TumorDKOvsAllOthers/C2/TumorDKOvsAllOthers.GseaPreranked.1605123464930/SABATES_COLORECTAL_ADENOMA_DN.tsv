@@ -1,0 +1,33 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	3	1.3506386280059814	0.050597098	No	
+row_1	MFSD4A	major facilitator superfamily domain containing 4A [Source:HGNC Symbol;Acc:HGNC:25433]	259	0.2949984073638916	-0.28346002	No	
+row_2	CDHR5	cadherin related family member 5 [Source:HGNC Symbol;Acc:HGNC:7521]	380	-0.26595377922058105	-0.43551767	No	
+row_3	MS4A8	membrane spanning 4-domains A8 [Source:HGNC Symbol;Acc:HGNC:13380]	420	-0.2838975787162781	-0.47694403	No	
+row_4	XPNPEP2	X-prolyl aminopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:12823]	447	-0.29356396198272705	-0.50034004	No	
+row_5	ADH1B	alcohol dehydrogenase 1B (class I), beta polypeptide [Source:HGNC Symbol;Acc:HGNC:250]	462	-0.30166226625442505	-0.5071261	No	
+row_6	SLC26A2	solute carrier family 26 member 2 [Source:HGNC Symbol;Acc:HGNC:10994]	477	-0.30740243196487427	-0.5136798	No	
+row_7	PDZK1	PDZ domain containing 1 [Source:HGNC Symbol;Acc:HGNC:8821]	500	-0.3211478888988495	-0.53053194	No	
+row_8	ABCG2	ATP binding cassette subfamily G member 2 (Junior blood group) [Source:HGNC Symbol;Acc:HGNC:74]	539	-0.35801976919174194	-0.5676013	No	
+row_9	TM6SF2	transmembrane 6 superfamily member 2 [Source:HGNC Symbol;Acc:HGNC:11861]	541	-0.3589519262313843	-0.5544295	No	
+row_10	DHRS11	dehydrogenase/reductase 11 [Source:HGNC Symbol;Acc:HGNC:28639]	561	-0.3737342655658722	-0.5650826	No	
+row_11	SECTM1	secreted and transmembrane 1 [Source:HGNC Symbol;Acc:HGNC:10707]	566	-0.37658950686454773	-0.5552674	No	
+row_12	CYP3A4	cytochrome P450 family 3 subfamily A member 4 [Source:HGNC Symbol;Acc:HGNC:2637]	592	-0.4104403257369995	-0.5725759	No	
+row_13	ASPA	aspartoacylase [Source:HGNC Symbol;Acc:HGNC:756]	596	-0.41442689299583435	-0.5598724	No	
+row_14	CA4	carbonic anhydrase 4 [Source:HGNC Symbol;Acc:HGNC:1375]	625	-0.4694886803627014	-0.57886153	Yes	
+row_15	CDA	cytidine deaminase [Source:HGNC Symbol;Acc:HGNC:1712]	626	-0.4705687165260315	-0.55981505	Yes	
+row_16	EPB41L3	erythrocyte membrane protein band 4.1 like 3 [Source:HGNC Symbol;Acc:HGNC:3380]	639	-0.48985785245895386	-0.55627006	Yes	
+row_17	SLC15A1	solute carrier family 15 member 1 [Source:HGNC Symbol;Acc:HGNC:10920]	658	-0.5236736536026001	-0.55949754	Yes	
+row_18	CES2	carboxylesterase 2 [Source:HGNC Symbol;Acc:HGNC:1864]	689	-0.6505717039108276	-0.5738709	Yes	
+row_19	MEP1B	meprin A subunit beta [Source:HGNC Symbol;Acc:HGNC:7020]	707	-0.7388652563095093	-0.5670315	Yes	
+row_20	SLC6A19	solute carrier family 6 member 19 [Source:HGNC Symbol;Acc:HGNC:27960]	711	-0.7623409628868103	-0.540246	Yes	
+row_21	NAALADL1	N-acetylated alpha-linked acidic dipeptidase like 1 [Source:HGNC Symbol;Acc:HGNC:23536]	712	-0.7748945355415344	-0.50888187	Yes	
+row_22	CCL23	C-C motif chemokine ligand 23 [Source:HGNC Symbol;Acc:HGNC:10622]	717	-0.814434289932251	-0.4813447	Yes	
+row_23	SLC51B	solute carrier family 51 subunit beta [Source:HGNC Symbol;Acc:HGNC:29956]	718	-0.826988160610199	-0.447872	Yes	
+row_24	CHGA	chromogranin A [Source:HGNC Symbol;Acc:HGNC:1929]	727	-0.8985058665275574	-0.42235944	Yes	
+row_25	LGALS2	galectin 2 [Source:HGNC Symbol;Acc:HGNC:6562]	733	-0.9835837483406067	-0.38933274	Yes	
+row_26	SLC51A	solute carrier family 51 subunit alpha [Source:HGNC Symbol;Acc:HGNC:29955]	741	-1.0736640691757202	-0.3553737	Yes	
+row_27	GUCA2A	guanylate cyclase activator 2A [Source:HGNC Symbol;Acc:HGNC:4682]	745	-1.1637457609176636	-0.31234118	Yes	
+row_28	GUCA2B	guanylate cyclase activator 2B [Source:HGNC Symbol;Acc:HGNC:4683]	751	-1.3612439632415771	-0.26402852	Yes	
+row_29	SI	sucrase-isomaltase [Source:HGNC Symbol;Acc:HGNC:10856]	752	-1.4225809574127197	-0.20644897	Yes	
+row_30	ANPEP	alanyl aminopeptidase, membrane [Source:HGNC Symbol;Acc:HGNC:500]	756	-1.8161946535110474	-0.13700831	Yes	
+row_31	ZG16	zymogen granule protein 16 [Source:HGNC Symbol;Acc:HGNC:30961]	767	-3.753728151321411	0.0013568588	Yes	

@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	11	0.6584210395812988	0.026668439	No	
+row_1	AREG	amphiregulin [Source:HGNC Symbol;Acc:HGNC:651]	14	0.6114703416824341	0.07187205	No	
+row_2	GPRC5A	G protein-coupled receptor class C group 5 member A [Source:HGNC Symbol;Acc:HGNC:9836]	61	0.4008501470088959	-0.00966108	No	
+row_3	GNB1	G protein subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:4396]	266	0.26012781262397766	-0.49577704	No	
+row_4	METAP2	methionyl aminopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:16672]	274	0.2553284168243408	-0.49223712	No	
+row_5	MCF2L	MCF.2 cell line derived transforming sequence like [Source:HGNC Symbol;Acc:HGNC:14576]	354	-0.3846997320652008	-0.65718514	Yes	
+row_6	CCL23	C-C motif chemokine ligand 23 [Source:HGNC Symbol;Acc:HGNC:10622]	369	-0.4310687482357025	-0.6566365	Yes	
+row_7	RAMP1	receptor activity modifying protein 1 [Source:HGNC Symbol;Acc:HGNC:9843]	371	-0.4466107189655304	-0.6224741	Yes	
+row_8	RGS2	regulator of G protein signaling 2 [Source:HGNC Symbol;Acc:HGNC:9998]	373	-0.4509578347206116	-0.58795494	Yes	
+row_9	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	375	-0.46610143780708313	-0.5521931	Yes	
+row_10	CPE	carboxypeptidase E [Source:HGNC Symbol;Acc:HGNC:2303]	378	-0.4938620328903198	-0.51664066	Yes	
+row_11	APOC3	apolipoprotein C3 [Source:HGNC Symbol;Acc:HGNC:610]	391	-0.8304588198661804	-0.478342	Yes	
+row_12	PCSK1N	proprotein convertase subtilisin/kexin type 1 inhibitor [Source:HGNC Symbol;Acc:HGNC:17301]	392	-0.8577544689178467	-0.40795258	Yes	
+row_13	CHGA	chromogranin A [Source:HGNC Symbol;Acc:HGNC:1929]	399	-1.2148116827011108	-0.32318756	Yes	
+row_14	CCK	cholecystokinin [Source:HGNC Symbol;Acc:HGNC:1569]	408	-1.8405084609985352	-0.19205149	Yes	
+row_15	SCT	secretin [Source:HGNC Symbol;Acc:HGNC:10607]	412	-2.582814931869507	0.012437856	Yes	

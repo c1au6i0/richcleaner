@@ -1,0 +1,34 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	H2AZ1	H2A.Z variant histone 1 [Source:HGNC Symbol;Acc:HGNC:4741]	45	1.0982520580291748	0.011567074	No	
+row_1	MIF	macrophage migration inhibitory factor [Source:HGNC Symbol;Acc:HGNC:7097]	57	1.0691020488739014	0.049326003	No	
+row_2	PRDX6	peroxiredoxin 6 [Source:HGNC Symbol;Acc:HGNC:16753]	143	0.7324610352516174	0.012623674	No	
+row_3	XIST	X inactive specific transcript [Source:HGNC Symbol;Acc:HGNC:12810]	209	0.5535086393356323	-0.015731141	No	
+row_4	HSP90AA1	heat shock protein 90 alpha family class A member 1 [Source:HGNC Symbol;Acc:HGNC:5253]	217	0.5470931529998779	0.002483898	No	
+row_5	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	232	0.5337080359458923	0.014460673	No	
+row_6	FASN	fatty acid synthase [Source:HGNC Symbol;Acc:HGNC:3594]	285	0.44585850834846497	-0.008090042	No	
+row_7	ODC1	ornithine decarboxylase 1 [Source:HGNC Symbol;Acc:HGNC:8109]	292	0.43809011578559875	0.0061770203	No	
+row_8	IDI1	isopentenyl-diphosphate delta isomerase 1 [Source:HGNC Symbol;Acc:HGNC:5387]	433	0.34290289878845215	-0.09194797	No	
+row_9	SUCLG2	succinate-CoA ligase GDP-forming subunit beta [Source:HGNC Symbol;Acc:HGNC:11450]	483	0.31816327571868896	-0.11764669	No	
+row_10	SMS	spermine synthase [Source:HGNC Symbol;Acc:HGNC:11123]	545	0.29234573245048523	-0.15416485	No	
+row_11	ME1	malic enzyme 1 [Source:HGNC Symbol;Acc:HGNC:6983]	559	0.28761300444602966	-0.15211728	No	
+row_12	ALDH9A1	aldehyde dehydrogenase 9 family member A1 [Source:HGNC Symbol;Acc:HGNC:412]	696	-0.25422900915145874	-0.25088006	No	
+row_13	HMGCS1	3-hydroxy-3-methylglutaryl-CoA synthase 1 [Source:HGNC Symbol;Acc:HGNC:5007]	721	-0.2626231014728546	-0.25880808	No	
+row_14	DHCR24	24-dehydrocholesterol reductase [Source:HGNC Symbol;Acc:HGNC:2859]	726	-0.26444530487060547	-0.2505015	No	
+row_15	RDH16	retinol dehydrogenase 16 [Source:HGNC Symbol;Acc:HGNC:29674]	824	-0.30542370676994324	-0.31552827	No	
+row_16	LDHA	lactate dehydrogenase A [Source:HGNC Symbol;Acc:HGNC:6535]	873	-0.3375251889228821	-0.3395745	No	
+row_17	S100A10	S100 calcium binding protein A10 [Source:HGNC Symbol;Acc:HGNC:10487]	905	-0.3578750193119049	-0.34900102	No	
+row_18	REEP6	receptor accessory protein 6 [Source:HGNC Symbol;Acc:HGNC:30078]	922	-0.37757280468940735	-0.34545183	No	
+row_19	MDH2	malate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:6971]	925	-0.3823358416557312	-0.33038625	No	
+row_20	ALDH1A1	aldehyde dehydrogenase 1 family member A1 [Source:HGNC Symbol;Acc:HGNC:402]	964	-0.40646785497665405	-0.343347	No	
+row_21	GPD1	glycerol-3-phosphate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:4455]	1051	-0.5062508583068848	-0.39072648	No	
+row_22	ACAA1	acetyl-CoA acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:82]	1055	-0.5114495158195496	-0.37083554	No	
+row_23	MDH1	malate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:6970]	1138	-0.7315943241119385	-0.4051524	Yes	
+row_24	HADH	hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	1140	-0.735589861869812	-0.37386686	Yes	
+row_25	VNN1	vanin 1 [Source:HGNC Symbol;Acc:HGNC:12705]	1147	-0.7573075890541077	-0.34567255	Yes	
+row_26	HSD17B11	hydroxysteroid 17-beta dehydrogenase 11 [Source:HGNC Symbol;Acc:HGNC:22960]	1166	-0.8061578273773193	-0.32503998	Yes	
+row_27	ACOX1	acyl-CoA oxidase 1 [Source:HGNC Symbol;Acc:HGNC:119]	1179	-0.8377947807312012	-0.2981806	Yes	
+row_28	HPGD	15-hydroxyprostaglandin dehydrogenase [Source:HGNC Symbol;Acc:HGNC:5154]	1181	-0.8437060117721558	-0.262178	Yes	
+row_29	MAOA	monoamine oxidase A [Source:HGNC Symbol;Acc:HGNC:6833]	1195	-0.9478849768638611	-0.2313232	Yes	
+row_30	ACSL5	acyl-CoA synthetase long chain family member 5 [Source:HGNC Symbol;Acc:HGNC:16526]	1199	-0.9737750887870789	-0.19126129	Yes	
+row_31	FABP1	fatty acid binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3555]	1259	-1.9348732233047485	-0.15450153	Yes	
+row_32	FABP2	fatty acid binding protein 2 [Source:HGNC Symbol;Acc:HGNC:3556]	1270	-3.7263708114624023	7.124618E-8	Yes	

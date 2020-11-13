@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GSTA1	glutathione S-transferase alpha 1 [Source:HGNC Symbol;Acc:HGNC:4626]	3	0.7680385112762451	0.03766062	No	
+row_1	AKR1B10	aldo-keto reductase family 1 member B10 [Source:HGNC Symbol;Acc:HGNC:382]	110	0.34612828493118286	-0.20568545	No	
+row_2	RBP2	retinol binding protein 2 [Source:HGNC Symbol;Acc:HGNC:9920]	178	0.2969084680080414	-0.35490835	No	
+row_3	PAPSS2	3'-phosphoadenosine 5'-phosphosulfate synthase 2 [Source:HGNC Symbol;Acc:HGNC:8604]	182	0.2927941381931305	-0.34516898	No	
+row_4	SLC51A	solute carrier family 51 subunit alpha [Source:HGNC Symbol;Acc:HGNC:29955]	294	-0.2553631663322449	-0.60628545	No	
+row_5	NPDC1	neural proliferation, differentiation and control 1 [Source:HGNC Symbol;Acc:HGNC:7899]	298	-0.2606825828552246	-0.59843266	No	
+row_6	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	328	-0.3010304570198059	-0.65288603	No	
+row_7	S100A13	S100 calcium binding protein A13 [Source:HGNC Symbol;Acc:HGNC:10490]	353	-0.3825710415840149	-0.6901109	No	
+row_8	SLC5A1	solute carrier family 5 member 1 [Source:HGNC Symbol;Acc:HGNC:11036]	364	-0.42177870869636536	-0.69020647	Yes	
+row_9	RGS2	regulator of G protein signaling 2 [Source:HGNC Symbol;Acc:HGNC:9998]	373	-0.4509578347206116	-0.6836126	Yes	
+row_10	ATP2A3	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 3 [Source:HGNC Symbol;Acc:HGNC:813]	386	-0.6199068427085876	-0.67704296	Yes	
+row_11	TPH1	tryptophan hydroxylase 1 [Source:HGNC Symbol;Acc:HGNC:12008]	388	-0.7331603765487671	-0.6364564	Yes	
+row_12	CCK	cholecystokinin [Source:HGNC Symbol;Acc:HGNC:1569]	408	-1.8405084609985352	-0.57558763	Yes	
+row_13	AGR2	anterior gradient 2, protein disulphide isomerase family member [Source:HGNC Symbol;Acc:HGNC:328]	411	-2.510745048522949	-0.43305308	Yes	
+row_14	FCGBP	Fc fragment of IgG binding protein [Source:HGNC Symbol;Acc:HGNC:13572]	413	-3.2637853622436523	-0.24378881	Yes	
+row_15	ZG16	zymogen granule protein 16 [Source:HGNC Symbol;Acc:HGNC:30961]	417	-4.276520729064941	-6.3329935E-8	Yes	

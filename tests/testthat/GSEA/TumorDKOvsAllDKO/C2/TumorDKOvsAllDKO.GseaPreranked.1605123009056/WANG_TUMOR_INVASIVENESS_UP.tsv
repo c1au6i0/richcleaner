@@ -1,0 +1,60 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANXA2	annexin A2 [Source:HGNC Symbol;Acc:HGNC:537]	6	0.6924484968185425	0.017459692	Yes	
+row_1	KRT19	keratin 19 [Source:HGNC Symbol;Acc:HGNC:6436]	15	0.6018701791763306	0.024878256	Yes	
+row_2	PLAC8	placenta associated 8 [Source:HGNC Symbol;Acc:HGNC:19254]	16	0.5947688817977905	0.05423049	Yes	
+row_3	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	25	0.5315682888031006	0.05817961	Yes	
+row_4	HSPE1	heat shock protein family E (Hsp10) member 1 [Source:HGNC Symbol;Acc:HGNC:5269]	35	0.4756585955619812	0.056584034	Yes	
+row_5	NCL	nucleolin [Source:HGNC Symbol;Acc:HGNC:7667]	36	0.4708935618400574	0.079822935	Yes	
+row_6	HSPD1	heat shock protein family D (Hsp60) member 1 [Source:HGNC Symbol;Acc:HGNC:5261]	45	0.4432012140750885	0.07941108	Yes	
+row_7	NPM1	nucleophosmin 1 [Source:HGNC Symbol;Acc:HGNC:7910]	46	0.4414442181587219	0.10119665	Yes	
+row_8	HMGB2	high mobility group box 2 [Source:HGNC Symbol;Acc:HGNC:5000]	54	0.4201262891292572	0.10243154	Yes	
+row_9	RPS21	ribosomal protein S21 [Source:HGNC Symbol;Acc:HGNC:10409]	56	0.416294127702713	0.12019041	Yes	
+row_10	S100A6	S100 calcium binding protein A6 [Source:HGNC Symbol;Acc:HGNC:10496]	66	0.3967401385307312	0.11470016	Yes	
+row_11	COX7C	cytochrome c oxidase subunit 7C [Source:HGNC Symbol;Acc:HGNC:2292]	67	0.39661723375320435	0.13427348	Yes	
+row_12	NUCKS1	nuclear casein kinase and cyclin dependent kinase substrate 1 [Source:HGNC Symbol;Acc:HGNC:29923]	72	0.3874936103820801	0.14225449	Yes	
+row_13	RPLP2	ribosomal protein lateral stalk subunit P2 [Source:HGNC Symbol;Acc:HGNC:10377]	76	0.3807031512260437	0.15268588	Yes	
+row_14	EIF4G2	eukaryotic translation initiation factor 4 gamma 2 [Source:HGNC Symbol;Acc:HGNC:3297]	81	0.37811771035194397	0.16020417	Yes	
+row_15	TUBB	tubulin beta class I [Source:HGNC Symbol;Acc:HGNC:20778]	82	0.3757162392139435	0.17874601	Yes	
+row_16	DBI	diazepam binding inhibitor, acyl-CoA binding protein [Source:HGNC Symbol;Acc:HGNC:2690]	83	0.37401294708251953	0.1972038	Yes	
+row_17	TMSB10	thymosin beta 10 [Source:HGNC Symbol;Acc:HGNC:11879]	88	0.3689432144165039	0.20426933	Yes	
+row_18	TKT	transketolase [Source:HGNC Symbol;Acc:HGNC:11834]	98	0.3579849600791931	0.19686648	Yes	
+row_19	ATP5ME	ATP synthase membrane subunit e [Source:HGNC Symbol;Acc:HGNC:846]	99	0.35740792751312256	0.2145048	Yes	
+row_20	COX8A	cytochrome c oxidase subunit 8A [Source:HGNC Symbol;Acc:HGNC:2294]	105	0.3509872555732727	0.21789867	Yes	
+row_21	YBX1	Y-box binding protein 1 [Source:HGNC Symbol;Acc:HGNC:8014]	108	0.3486289978027344	0.2295327	Yes	
+row_22	RPS29	ribosomal protein S29 [Source:HGNC Symbol;Acc:HGNC:10419]	111	0.3452698588371277	0.24100097	Yes	
+row_23	NHP2	NHP2 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:14377]	116	0.3385803699493408	0.24656807	Yes	
+row_24	ATP5F1A	ATP synthase F1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:823]	122	0.3345460593700409	0.24915056	Yes	
+row_25	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma [Source:HGNC Symbol;Acc:HGNC:12852]	130	0.32716527581214905	0.24579777	Yes	
+row_26	NAP1L1	nucleosome assembly protein 1 like 1 [Source:HGNC Symbol;Acc:HGNC:7637]	139	0.3218720853328705	0.23939826	Yes	
+row_27	AGPS	alkylglycerone phosphate synthase [Source:HGNC Symbol;Acc:HGNC:327]	147	0.3166772127151489	0.23552787	Yes	
+row_28	PPIA	peptidylprolyl isomerase A [Source:HGNC Symbol;Acc:HGNC:9253]	148	0.3159968852996826	0.25112253	Yes	
+row_29	RPL35	ribosomal protein L35 [Source:HGNC Symbol;Acc:HGNC:10344]	159	0.309804230928421	0.23855641	Yes	
+row_30	MT1A	metallothionein 1A [Source:HGNC Symbol;Acc:HGNC:7393]	166	0.3056003749370575	0.2369249	Yes	
+row_31	SERBP1	SERPINE1 mRNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:17860]	171	0.3018915355205536	0.24068138	Yes	
+row_32	COX7A2	cytochrome c oxidase subunit 7A2 [Source:HGNC Symbol;Acc:HGNC:2288]	176	0.29877668619155884	0.24428414	Yes	
+row_33	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	179	0.2961597442626953	0.2533288	Yes	
+row_34	SDHA	succinate dehydrogenase complex flavoprotein subunit A [Source:HGNC Symbol;Acc:HGNC:10680]	187	0.29082053899765015	0.24818236	Yes	
+row_35	HSPA8	heat shock protein family A (Hsp70) member 8 [Source:HGNC Symbol;Acc:HGNC:5241]	193	0.28897470235824585	0.24851587	Yes	
+row_36	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	194	0.2889412045478821	0.2627753	Yes	
+row_37	RPL32	ribosomal protein L32 [Source:HGNC Symbol;Acc:HGNC:10336]	195	0.288815438747406	0.27702853	Yes	
+row_38	RPS16	ribosomal protein S16 [Source:HGNC Symbol;Acc:HGNC:10396]	206	0.282927930355072	0.26313606	Yes	
+row_39	HNRNPAB	heterogeneous nuclear ribonucleoprotein A/B [Source:HGNC Symbol;Acc:HGNC:5034]	208	0.2813003957271576	0.27423292	Yes	
+row_40	ANXA7	annexin A7 [Source:HGNC Symbol;Acc:HGNC:545]	209	0.2797698378562927	0.28803974	Yes	
+row_41	RPL27A	ribosomal protein L27a [Source:HGNC Symbol;Acc:HGNC:10329]	211	0.27891993522644043	0.2990191	Yes	
+row_42	EIF2S2	eukaryotic translation initiation factor 2 subunit beta [Source:HGNC Symbol;Acc:HGNC:3266]	213	0.27782541513442993	0.30994445	Yes	
+row_43	VDAC2	voltage dependent anion channel 2 [Source:HGNC Symbol;Acc:HGNC:12672]	219	0.27646106481552124	0.3096604	Yes	
+row_44	RRAS2	RAS related 2 [Source:HGNC Symbol;Acc:HGNC:17271]	224	0.2735138535499573	0.31201643	Yes	
+row_45	GAPDH	glyceraldehyde-3-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4141]	234	0.2711993455886841	0.30033067	Yes	
+row_46	ELAVL1	ELAV like RNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3312]	239	0.2678306996822357	0.30240622	Yes	
+row_47	HNRNPU	heterogeneous nuclear ribonucleoprotein U [Source:HGNC Symbol;Acc:HGNC:5048]	240	0.2677850127220154	0.31562158	Yes	
+row_48	RPS20	ribosomal protein S20 [Source:HGNC Symbol;Acc:HGNC:10405]	243	0.26653528213500977	0.32320425	Yes	
+row_49	HIF1A	hypoxia inducible factor 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:4910]	244	0.2661416232585907	0.33633852	Yes	
+row_50	TUBA1B	tubulin alpha 1b [Source:HGNC Symbol;Acc:HGNC:18809]	256	0.26224032044410706	0.31863958	Yes	
+row_51	H2AZ1	H2A.Z variant histone 1 [Source:HGNC Symbol;Acc:HGNC:4741]	257	0.2617552578449249	0.33155736	Yes	
+row_52	EIF3B	eukaryotic translation initiation factor 3 subunit B [Source:HGNC Symbol;Acc:HGNC:3280]	259	0.2616647183895111	0.34168518	Yes	
+row_53	TOMM20	translocase of outer mitochondrial membrane 20 [Source:HGNC Symbol;Acc:HGNC:20947]	267	0.2590065896511078	0.33496872	No	
+row_54	CYCS	cytochrome c, somatic [Source:HGNC Symbol;Acc:HGNC:19986]	277	0.25429025292396545	0.32244846	No	
+row_55	TES	testin LIM domain protein [Source:HGNC Symbol;Acc:HGNC:14620]	282	0.25147128105163574	0.32371667	No	
+row_56	MRPL57	mitochondrial ribosomal protein L57 [Source:HGNC Symbol;Acc:HGNC:14514]	287	0.2502767741680145	0.32492593	No	
+row_57	HSPA5	heat shock protein family A (Hsp70) member 5 [Source:HGNC Symbol;Acc:HGNC:5238]	321	-0.2926256060600281	0.2474452	No	
+row_58	CD63	CD63 molecule [Source:HGNC Symbol;Acc:HGNC:1692]	342	-0.34809964895248413	0.20891383	No	

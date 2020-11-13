@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	44	0.5904099941253662	0.047195353	Yes	
+row_1	IGKC	immunoglobulin kappa constant [Source:HGNC Symbol;Acc:HGNC:5716]	48	0.5824788212776184	0.13490634	Yes	
+row_2	SDCBP	syndecan binding protein [Source:HGNC Symbol;Acc:HGNC:10662]	63	0.513802707195282	0.2007141	Yes	
+row_3	VEGFA	vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	65	0.5057293176651001	0.2785021	Yes	
+row_4	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	74	0.467189222574234	0.3431562	Yes	
+row_5	ARF6	ADP ribosylation factor 6 [Source:HGNC Symbol;Acc:HGNC:659]	75	0.46412602066993713	0.4154796	Yes	
+row_6	LDLR	low density lipoprotein receptor [Source:HGNC Symbol;Acc:HGNC:6547]	76	0.4635609984397888	0.48771498	Yes	
+row_7	APOC3	apolipoprotein C3 [Source:HGNC Symbol;Acc:HGNC:610]	80	0.45191723108291626	0.55508095	Yes	
+row_8	CXCL16	C-X-C motif chemokine ligand 16 [Source:HGNC Symbol;Acc:HGNC:16642]	141	0.3641728460788727	0.5507291	Yes	
+row_9	TFRC	transferrin receptor [Source:HGNC Symbol;Acc:HGNC:11763]	170	0.31801122426986694	0.57177067	Yes	
+row_10	JCHAIN	joining chain of multimeric IgA and IgM [Source:HGNC Symbol;Acc:HGNC:5713]	202	0.28869011998176575	0.58518815	Yes	
+row_11	WASL	WASP like actin nucleation promoting factor [Source:HGNC Symbol;Acc:HGNC:12735]	203	0.2884257733821869	0.63013273	Yes	
+row_12	ARF1	ADP ribosylation factor 1 [Source:HGNC Symbol;Acc:HGNC:652]	380	-0.28402501344680786	0.4951654	No	
+row_13	CD81	CD81 molecule [Source:HGNC Symbol;Acc:HGNC:1701]	624	-0.4003819525241852	0.3101016	No	
+row_14	CD36	CD36 molecule [Source:HGNC Symbol;Acc:HGNC:1663]	678	-0.43444788455963135	0.32382885	No	

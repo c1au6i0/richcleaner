@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RPL39	ribosomal protein L39 [Source:HGNC Symbol;Acc:HGNC:10350]	69	0.4788356423377991	-0.021807818	No	
+row_1	NOS2	nitric oxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:7873]	104	0.4139995872974396	-0.0145087	No	
+row_2	RPS19	ribosomal protein S19 [Source:HGNC Symbol;Acc:HGNC:10402]	106	0.4095083773136139	0.02597439	No	
+row_3	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	201	0.28939008712768555	-0.040517375	No	
+row_4	CCND2	cyclin D2 [Source:HGNC Symbol;Acc:HGNC:1583]	208	0.2824990153312683	-0.018003145	No	
+row_5	TAP2	transporter 2, ATP binding cassette subfamily B member [Source:HGNC Symbol;Acc:HGNC:44]	364	-0.27949535846710205	-0.14767915	No	
+row_6	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	505	-0.3293241262435913	-0.25701463	No	
+row_7	IFNGR2	interferon gamma receptor 2 [Source:HGNC Symbol;Acc:HGNC:5440]	608	-0.391225129365921	-0.32134068	No	
+row_8	TAP1	transporter 1, ATP binding cassette subfamily B member [Source:HGNC Symbol;Acc:HGNC:43]	663	-0.4264518618583679	-0.3331669	No	
+row_9	IRF8	interferon regulatory factor 8 [Source:HGNC Symbol;Acc:HGNC:5358]	667	-0.4286118745803833	-0.29278648	No	
+row_10	IL18	interleukin 18 [Source:HGNC Symbol;Acc:HGNC:5986]	847	-0.613774299621582	-0.41304913	Yes	
+row_11	HLA-DMA	major histocompatibility complex, class II, DM alpha [Source:HGNC Symbol;Acc:HGNC:4934]	909	-0.7261295914649963	-0.4016395	Yes	
+row_12	HLA-DMB	major histocompatibility complex, class II, DM beta [Source:HGNC Symbol;Acc:HGNC:4935]	914	-0.7368982434272766	-0.3310345	Yes	
+row_13	PSMB10	proteasome 20S subunit beta 10 [Source:HGNC Symbol;Acc:HGNC:9538]	927	-0.771859347820282	-0.2650413	Yes	
+row_14	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1 [Source:HGNC Symbol;Acc:HGNC:4942]	993	-1.5119847059249878	-0.17806505	Yes	
+row_15	CD74	CD74 molecule [Source:HGNC Symbol;Acc:HGNC:1697]	995	-1.7771004438400269	0.0010194331	Yes	

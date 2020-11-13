@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IFITM2	interferon induced transmembrane protein 2 [Source:HGNC Symbol;Acc:HGNC:5413]	293	0.43800610303878784	-0.17615823	No	
+row_1	LY6E	lymphocyte antigen 6 family member E [Source:HGNC Symbol;Acc:HGNC:6727]	416	0.35345879197120667	-0.2271235	No	
+row_2	PSMA3	proteasome 20S subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:9532]	569	0.28249260783195496	-0.31127822	No	
+row_3	WARS1	tryptophanyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:12729]	622	0.26575967669487	-0.31794098	No	
+row_4	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	694	-0.25390058755874634	-0.34129483	Yes	
+row_5	IFI35	interferon induced protein 35 [Source:HGNC Symbol;Acc:HGNC:5399]	717	-0.2608962655067444	-0.3246895	Yes	
+row_6	DDX60	DExD/H-box helicase 60 [Source:HGNC Symbol;Acc:HGNC:25942]	720	-0.262035071849823	-0.29199895	Yes	
+row_7	TXNIP	thioredoxin interacting protein [Source:HGNC Symbol;Acc:HGNC:16952]	724	-0.26362085342407227	-0.25989774	Yes	
+row_8	PSMB8	proteasome 20S subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:9545]	849	-0.3228287398815155	-0.31646422	Yes	
+row_9	TENT5A	terminal nucleotidyltransferase 5A [Source:HGNC Symbol;Acc:HGNC:18345]	942	-0.39541783928871155	-0.33803526	Yes	
+row_10	TRIM5	tripartite motif containing 5 [Source:HGNC Symbol;Acc:HGNC:16276]	990	-0.4277042746543884	-0.31952542	Yes	
+row_11	PSME2	proteasome activator subunit 2 [Source:HGNC Symbol;Acc:HGNC:9569]	1016	-0.46413153409957886	-0.2787196	Yes	
+row_12	IRF7	interferon regulatory factor 7 [Source:HGNC Symbol;Acc:HGNC:6122]	1054	-0.5112994313240051	-0.24130422	Yes	
+row_13	CD74	CD74 molecule [Source:HGNC Symbol;Acc:HGNC:1697]	1173	-0.821943461894989	-0.22778657	Yes	
+row_14	LAP3	leucine aminopeptidase 3 [Source:HGNC Symbol;Acc:HGNC:18449]	1190	-0.9277964234352112	-0.11914442	Yes	
+row_15	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	1239	-1.3917396068572998	0.024701191	Yes	

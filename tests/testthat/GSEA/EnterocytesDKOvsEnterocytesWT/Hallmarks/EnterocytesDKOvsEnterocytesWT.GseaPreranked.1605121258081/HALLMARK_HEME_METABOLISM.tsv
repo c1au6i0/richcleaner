@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SDCBP	syndecan binding protein [Source:HGNC Symbol;Acc:HGNC:10662]	63	0.513802707195282	0.0026109805	No	
+row_1	TFRC	transferrin receptor [Source:HGNC Symbol;Acc:HGNC:11763]	170	0.31801122426986694	-0.06414748	No	
+row_2	SLC6A8	solute carrier family 6 member 8 [Source:HGNC Symbol;Acc:HGNC:11055]	220	0.27412620186805725	-0.07845648	No	
+row_3	SLC30A10	solute carrier family 30 member 10 [Source:HGNC Symbol;Acc:HGNC:25355]	228	0.2627485394477844	-0.05138969	No	
+row_4	ABCG2	ATP binding cassette subfamily G member 2 (Junior blood group) [Source:HGNC Symbol;Acc:HGNC:74]	268	-0.255232036113739	-0.057954606	No	
+row_5	MPP1	membrane palmitoylated protein 1 [Source:HGNC Symbol;Acc:HGNC:7219]	298	-0.26303040981292725	-0.053300098	No	
+row_6	LAMP2	lysosomal associated membrane protein 2 [Source:HGNC Symbol;Acc:HGNC:6501]	305	-0.26486122608184814	-0.02493783	No	
+row_7	GLRX5	glutaredoxin 5 [Source:HGNC Symbol;Acc:HGNC:20134]	476	-0.3180745244026184	-0.15699416	No	
+row_8	CDR2	cerebellar degeneration related protein 2 [Source:HGNC Symbol;Acc:HGNC:1799]	648	-0.41926899552345276	-0.27689546	Yes	
+row_9	UCP2	uncoupling protein 2 [Source:HGNC Symbol;Acc:HGNC:12518]	694	-0.4447386562824249	-0.26490924	Yes	
+row_10	ACP5	acid phosphatase 5, tartrate resistant [Source:HGNC Symbol;Acc:HGNC:124]	746	-0.48693084716796875	-0.25355205	Yes	
+row_11	CAT	catalase [Source:HGNC Symbol;Acc:HGNC:1516]	751	-0.4903503358364105	-0.19379047	Yes	
+row_12	BSG	basigin (Ok blood group) [Source:HGNC Symbol;Acc:HGNC:1116]	761	-0.5024280548095703	-0.13755843	Yes	
+row_13	GDE1	glycerophosphodiester phosphodiesterase 1 [Source:HGNC Symbol;Acc:HGNC:29644]	812	-0.5582782626152039	-0.115891464	Yes	
+row_14	PRDX2	peroxiredoxin 2 [Source:HGNC Symbol;Acc:HGNC:9353]	868	-0.6459109783172607	-0.08791683	Yes	
+row_15	HAGH	hydroxyacylglutathione hydrolase [Source:HGNC Symbol;Acc:HGNC:4805]	929	-0.7743124961853027	-0.048326466	Yes	
+row_16	MGST3	microsomal glutathione S-transferase 3 [Source:HGNC Symbol;Acc:HGNC:7064]	954	-0.8884347081184387	0.042857207	Yes	

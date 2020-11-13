@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DMBT1	deleted in malignant brain tumors 1 [Source:HGNC Symbol;Acc:HGNC:2926]	12	0.6378223299980164	0.019707039	No	
+row_1	PLAC8	placenta associated 8 [Source:HGNC Symbol;Acc:HGNC:19254]	16	0.5947688817977905	0.058406398	No	
+row_2	HMGB2	high mobility group box 2 [Source:HGNC Symbol;Acc:HGNC:5000]	54	0.4201262891292572	-8.106595E-4	No	
+row_3	WFDC2	WAP four-disulfide core domain 2 [Source:HGNC Symbol;Acc:HGNC:15939]	97	0.35807281732559204	-0.077248916	No	
+row_4	CYBA	cytochrome b-245 alpha chain [Source:HGNC Symbol;Acc:HGNC:2577]	102	0.3542243242263794	-0.05969294	No	
+row_5	RPL39	ribosomal protein L39 [Source:HGNC Symbol;Acc:HGNC:10350]	175	0.2993217408657074	-0.21513093	No	
+row_6	RPS19	ribosomal protein S19 [Source:HGNC Symbol;Acc:HGNC:10402]	217	0.27697494626045227	-0.29537955	No	
+row_7	REG3G	regenerating family member 3 gamma [Source:HGNC Symbol;Acc:HGNC:29595]	237	0.2694959342479706	-0.32161784	No	
+row_8	PGLYRP1	peptidoglycan recognition protein 1 [Source:HGNC Symbol;Acc:HGNC:8904]	241	0.26719439029693604	-0.30833244	No	
+row_9	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	328	-0.3010304570198059	-0.49837732	No	
+row_10	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	348	-0.36987370252609253	-0.51682806	No	
+row_11	CHGA	chromogranin A [Source:HGNC Symbol;Acc:HGNC:1929]	399	-1.2148116827011108	-0.5466497	Yes	
+row_12	DEFA3	defensin alpha 3 [Source:HGNC Symbol;Acc:HGNC:2762]	402	-1.413041591644287	-0.4419855	Yes	
+row_13	LYZ	lysozyme [Source:HGNC Symbol;Acc:HGNC:6740]	407	-1.8362603187561035	-0.30944976	Yes	
+row_14	ZG16	zymogen granule protein 16 [Source:HGNC Symbol;Acc:HGNC:30961]	417	-4.276520729064941	-2.7241185E-8	Yes	

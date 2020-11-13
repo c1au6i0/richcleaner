@@ -1,0 +1,22 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EMP1	epithelial membrane protein 1 [Source:HGNC Symbol;Acc:HGNC:3333]	16	0.8945969939231873	0.0728513	Yes	
+row_1	PHLDA1	pleckstrin homology like domain family A member 1 [Source:HGNC Symbol;Acc:HGNC:8933]	25	0.7318364977836609	0.13925171	Yes	
+row_2	CAPG	capping actin protein, gelsolin like [Source:HGNC Symbol;Acc:HGNC:1474]	37	0.6490554213523865	0.19292083	Yes	
+row_3	CD44	CD44 molecule (Indian blood group) [Source:HGNC Symbol;Acc:HGNC:1681]	58	0.5619633793830872	0.22538312	Yes	
+row_4	AHNAK	AHNAK nucleoprotein [Source:HGNC Symbol;Acc:HGNC:347]	68	0.524288535118103	0.2685824	Yes	
+row_5	ITGA6	integrin subunit alpha 6 [Source:HGNC Symbol;Acc:HGNC:6142]	106	0.454662024974823	0.26701373	Yes	
+row_6	PLSCR1	phospholipid scramblase 1 [Source:HGNC Symbol;Acc:HGNC:9092]	134	0.4204649329185486	0.2752115	Yes	
+row_7	PLEC	plectin [Source:HGNC Symbol;Acc:HGNC:9069]	139	0.4125789701938629	0.3133272	Yes	
+row_8	BHLHE40	basic helix-loop-helix family member e40 [Source:HGNC Symbol;Acc:HGNC:1046]	155	0.39408618211746216	0.3347889	Yes	
+row_9	ITGAV	integrin subunit alpha V [Source:HGNC Symbol;Acc:HGNC:6150]	187	0.3513985574245453	0.33036327	Yes	
+row_10	KLF6	Kruppel like factor 6 [Source:HGNC Symbol;Acc:HGNC:2235]	196	0.34194743633270264	0.35569066	Yes	
+row_11	MYO1C	myosin IC [Source:HGNC Symbol;Acc:HGNC:7597]	202	0.3391028642654419	0.3847291	Yes	
+row_12	ALCAM	activated leukocyte cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:400]	217	0.328165739774704	0.40058327	Yes	
+row_13	HK2	hexokinase 2 [Source:HGNC Symbol;Acc:HGNC:4923]	251	0.301866352558136	0.38826585	No	
+row_14	GSTO1	glutathione S-transferase omega 1 [Source:HGNC Symbol;Acc:HGNC:13312]	277	0.2807214558124542	0.3844161	No	
+row_15	PNP	purine nucleoside phosphorylase [Source:HGNC Symbol;Acc:HGNC:7892]	431	-0.2863204777240753	0.21003318	No	
+row_16	IRF8	interferon regulatory factor 8 [Source:HGNC Symbol;Acc:HGNC:5358]	451	-0.2959664762020111	0.2158108	No	
+row_17	CTSZ	cathepsin Z [Source:HGNC Symbol;Acc:HGNC:2547]	480	-0.3102013170719147	0.21105593	No	
+row_18	ARL4A	ADP ribosylation factor like GTPase 4A [Source:HGNC Symbol;Acc:HGNC:695]	512	-0.3304521143436432	0.2044237	No	
+row_19	IFITM3	interferon induced transmembrane protein 3 [Source:HGNC Symbol;Acc:HGNC:5414]	627	-0.47284606099128723	0.101829425	No	
+row_20	ST3GAL4	ST3 beta-galactoside alpha-2,3-sialyltransferase 4 [Source:HGNC Symbol;Acc:HGNC:10864]	716	-0.8100631237030029	0.06951878	No	

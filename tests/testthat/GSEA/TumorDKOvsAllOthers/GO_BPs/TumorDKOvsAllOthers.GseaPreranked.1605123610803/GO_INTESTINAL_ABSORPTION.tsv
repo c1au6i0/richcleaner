@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	F11R	F11 receptor [Source:HGNC Symbol;Acc:HGNC:14685]	269	0.2896535098552704	-0.3305123	No	
+row_1	TJP2	tight junction protein 2 [Source:HGNC Symbol;Acc:HGNC:11828]	295	0.2702713906764984	-0.3391738	No	
+row_2	SLC2A2	solute carrier family 2 member 2 [Source:HGNC Symbol;Acc:HGNC:11006]	518	-0.3343863785266876	-0.60329765	No	
+row_3	LPCAT3	lysophosphatidylcholine acyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:30244]	544	-0.3603391945362091	-0.60379624	No	
+row_4	VDR	vitamin D receptor [Source:HGNC Symbol;Acc:HGNC:12679]	602	-0.4275470972061157	-0.64064395	Yes	
+row_5	SLC26A6	solute carrier family 26 member 6 [Source:HGNC Symbol;Acc:HGNC:14472]	611	-0.4451034963130951	-0.6109138	Yes	
+row_6	MOGAT2	monoacylglycerol O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:23248]	623	-0.46740174293518066	-0.5831415	Yes	
+row_7	VIL1	villin 1 [Source:HGNC Symbol;Acc:HGNC:12690]	624	-0.4687521159648895	-0.54065794	Yes	
+row_8	PLS1	plastin 1 [Source:HGNC Symbol;Acc:HGNC:9090]	646	-0.5086944699287415	-0.52240586	Yes	
+row_9	NPC1L1	NPC1 like intracellular cholesterol transporter 1 [Source:HGNC Symbol;Acc:HGNC:7898]	647	-0.5104362368583679	-0.47614443	Yes	
+row_10	APOA4	apolipoprotein A4 [Source:HGNC Symbol;Acc:HGNC:602]	692	-0.6682462692260742	-0.47393596	Yes	
+row_11	SLC5A1	solute carrier family 5 member 1 [Source:HGNC Symbol;Acc:HGNC:11036]	738	-1.025381088256836	-0.4406862	Yes	
+row_12	FABP1	fatty acid binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3555]	742	-1.1126315593719482	-0.3438259	Yes	
+row_13	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	747	-1.2770800590515137	-0.23338774	Yes	
+row_14	FABP2	fatty acid binding protein 2 [Source:HGNC Symbol;Acc:HGNC:3556]	763	-2.8678102493286133	0.006631272	Yes	

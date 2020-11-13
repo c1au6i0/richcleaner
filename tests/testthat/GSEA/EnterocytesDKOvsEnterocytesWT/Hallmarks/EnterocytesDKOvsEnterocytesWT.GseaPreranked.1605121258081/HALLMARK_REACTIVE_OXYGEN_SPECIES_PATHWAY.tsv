@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MGST1	microsomal glutathione S-transferase 1 [Source:HGNC Symbol;Acc:HGNC:7061]	25	0.7691357731819153	0.07174279	No	
+row_1	JUNB	JunB proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6205]	56	0.5586668848991394	0.1117955	No	
+row_2	GSR	glutathione-disulfide reductase [Source:HGNC Symbol;Acc:HGNC:4623]	221	0.2731231153011322	-0.020694146	No	
+row_3	HMOX2	heme oxygenase 2 [Source:HGNC Symbol;Acc:HGNC:5014]	287	-0.26021188497543335	-0.05400081	No	
+row_4	NDUFA6	NADH:ubiquinone oxidoreductase subunit A6 [Source:HGNC Symbol;Acc:HGNC:7690]	402	-0.2915475368499756	-0.13324554	No	
+row_5	GPX4	glutathione peroxidase 4 [Source:HGNC Symbol;Acc:HGNC:4556]	490	-0.32351920008659363	-0.18095487	No	
+row_6	SELENOS	selenoprotein S [Source:HGNC Symbol;Acc:HGNC:30396]	517	-0.3372361660003662	-0.16481258	No	
+row_7	MSRA	methionine sulfoxide reductase A [Source:HGNC Symbol;Acc:HGNC:7377]	636	-0.4056040048599243	-0.23371652	No	
+row_8	CAT	catalase [Source:HGNC Symbol;Acc:HGNC:1516]	751	-0.4903503358364105	-0.28783715	Yes	
+row_9	GLRX	glutaredoxin [Source:HGNC Symbol;Acc:HGNC:4330]	769	-0.5124866366386414	-0.24038227	Yes	
+row_10	NDUFB4	NADH:ubiquinone oxidoreductase subunit B4 [Source:HGNC Symbol;Acc:HGNC:7699]	829	-0.5759443044662476	-0.22767766	Yes	
+row_11	SOD2	superoxide dismutase 2 [Source:HGNC Symbol;Acc:HGNC:11180]	860	-0.6364188194274902	-0.17779888	Yes	
+row_12	PRDX2	peroxiredoxin 2 [Source:HGNC Symbol;Acc:HGNC:9353]	868	-0.6459109783172607	-0.103298925	Yes	
+row_13	NDUFS2	NADH:ubiquinone oxidoreductase core subunit S2 [Source:HGNC Symbol;Acc:HGNC:7708]	899	-0.6991062760353088	-0.0454979	Yes	
+row_14	PRDX1	peroxiredoxin 1 [Source:HGNC Symbol;Acc:HGNC:9352]	982	-1.1335731744766235	0.014256567	Yes	

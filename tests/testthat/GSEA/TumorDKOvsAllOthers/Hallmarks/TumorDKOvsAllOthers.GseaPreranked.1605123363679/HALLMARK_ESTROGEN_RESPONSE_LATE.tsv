@@ -1,0 +1,29 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AREG	amphiregulin [Source:HGNC Symbol;Acc:HGNC:651]	11	1.0183526277542114	0.047125142	No	
+row_1	ABHD2	abhydrolase domain containing 2, acylglycerol lipase [Source:HGNC Symbol;Acc:HGNC:18717]	22	0.7936760187149048	0.08192754	No	
+row_2	FLNB	filamin B [Source:HGNC Symbol;Acc:HGNC:3755]	23	0.7915253639221191	0.13009433	No	
+row_3	CD44	CD44 molecule (Indian blood group) [Source:HGNC Symbol;Acc:HGNC:1681]	58	0.5619633793830872	0.11840762	No	
+row_4	LAMC2	laminin subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:6493]	69	0.5228712558746338	0.1367307	No	
+row_5	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	72	0.5145708322525024	0.1653449	No	
+row_6	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	110	0.44804179668426514	0.14267711	No	
+row_7	UGDH	UDP-glucose 6-dehydrogenase [Source:HGNC Symbol;Acc:HGNC:12525]	124	0.43833261728286743	0.15180717	No	
+row_8	KRT19	keratin 19 [Source:HGNC Symbol;Acc:HGNC:6436]	141	0.41142556071281433	0.15525126	No	
+row_9	CD9	CD9 molecule [Source:HGNC Symbol;Acc:HGNC:1709]	211	0.3329448997974396	0.0823946	No	
+row_10	MYOF	myoferlin [Source:HGNC Symbol;Acc:HGNC:3656]	284	0.27656590938568115	0.0020585111	No	
+row_11	PRSS23	serine protease 23 [Source:HGNC Symbol;Acc:HGNC:14370]	358	-0.25575923919677734	-0.080893256	No	
+row_12	FOS	Fos proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:3796]	400	-0.2729761004447937	-0.11961243	No	
+row_13	PDCD4	programmed cell death 4 [Source:HGNC Symbol;Acc:HGNC:8763]	419	-0.2837854027748108	-0.1266347	No	
+row_14	TSPAN13	tetraspanin 13 [Source:HGNC Symbol;Acc:HGNC:21643]	448	-0.2939528226852417	-0.14653353	No	
+row_15	TSTA3	tissue specific transplantation antigen P35B [Source:HGNC Symbol;Acc:HGNC:12390]	449	-0.29421648383140564	-0.12862954	No	
+row_16	PRLR	prolactin receptor [Source:HGNC Symbol;Acc:HGNC:9446]	467	-0.30366697907447815	-0.13309242	No	
+row_17	SLC26A2	solute carrier family 26 member 2 [Source:HGNC Symbol;Acc:HGNC:10994]	477	-0.30740243196487427	-0.12653176	No	
+row_18	BAG1	BAG cochaperone 1 [Source:HGNC Symbol;Acc:HGNC:937]	478	-0.30777719616889954	-0.107802555	No	
+row_19	PDZK1	PDZ domain containing 1 [Source:HGNC Symbol;Acc:HGNC:8821]	500	-0.3211478888988495	-0.11659978	No	
+row_20	MOCS2	molybdenum cofactor synthesis 2 [Source:HGNC Symbol;Acc:HGNC:7193]	535	-0.3565622568130493	-0.1407858	No	
+row_21	KLF4	Kruppel like factor 4 [Source:HGNC Symbol;Acc:HGNC:6348]	586	-0.4015501141548157	-0.1838266	No	
+row_22	MAPK13	mitogen-activated protein kinase 13 [Source:HGNC Symbol;Acc:HGNC:6875]	612	-0.44658464193344116	-0.19038871	Yes	
+row_23	SULT2B1	sulfotransferase family 2B member 1 [Source:HGNC Symbol;Acc:HGNC:11459]	622	-0.4644802510738373	-0.17426938	Yes	
+row_24	CHPT1	choline phosphotransferase 1 [Source:HGNC Symbol;Acc:HGNC:17852]	640	-0.490469753742218	-0.16736473	Yes	
+row_25	SLC9A3R1	SLC9A3 regulator 1 [Source:HGNC Symbol;Acc:HGNC:11075]	687	-0.6455308198928833	-0.19016042	Yes	
+row_26	AGR2	anterior gradient 2, protein disulphide isomerase family member [Source:HGNC Symbol;Acc:HGNC:328]	758	-1.9424649477005005	-0.1664223	Yes	
+row_27	TFF3	trefoil factor 3 [Source:HGNC Symbol;Acc:HGNC:11757]	764	-2.9344115257263184	0.0053981934	Yes	

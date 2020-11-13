@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PSMA5	proteasome 20S subunit alpha 5 [Source:HGNC Symbol;Acc:HGNC:9534]	430	-0.28608831763267517	-0.52530974	Yes	
+row_1	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	444	-0.2920899987220764	-0.49662548	Yes	
+row_2	PSMA2	proteasome 20S subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:9531]	475	-0.3064170181751251	-0.48823497	Yes	
+row_3	PSMB1	proteasome 20S subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:9537]	506	-0.32506614923477173	-0.4769122	Yes	
+row_4	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	525	-0.34834131598472595	-0.44601476	Yes	
+row_5	PSMB2	proteasome 20S subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:9539]	548	-0.36536866426467896	-0.4177451	Yes	
+row_6	PSMA3	proteasome 20S subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:9532]	559	-0.3729473352432251	-0.37236875	Yes	
+row_7	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	574	-0.3801666498184204	-0.33116233	Yes	
+row_8	PSMA4	proteasome 20S subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:9533]	577	-0.3874157965183258	-0.272901	Yes	
+row_9	PSMB9	proteasome 20S subunit beta 9 [Source:HGNC Symbol;Acc:HGNC:9546]	578	-0.3885420262813568	-0.21181008	Yes	
+row_10	PSME1	proteasome activator subunit 1 [Source:HGNC Symbol;Acc:HGNC:9568]	619	-0.45781654119491577	-0.19287743	Yes	
+row_11	PSMB10	proteasome 20S subunit beta 10 [Source:HGNC Symbol;Acc:HGNC:9538]	635	-0.4836503565311432	-0.13672641	Yes	
+row_12	PSME2	proteasome activator subunit 2 [Source:HGNC Symbol;Acc:HGNC:9569]	677	-0.5921851992607117	-0.09799307	Yes	
+row_13	PSMB8	proteasome 20S subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:9545]	693	-0.6697738170623779	-0.012577621	Yes	
+row_14	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	701	-0.7041921615600586	0.08885954	Yes	

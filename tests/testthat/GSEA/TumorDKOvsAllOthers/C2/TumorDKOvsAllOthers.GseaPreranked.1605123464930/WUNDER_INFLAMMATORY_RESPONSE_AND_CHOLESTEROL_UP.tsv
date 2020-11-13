@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ERO1A	endoplasmic reticulum oxidoreductase 1 alpha [Source:HGNC Symbol;Acc:HGNC:13280]	63	0.544617235660553	-0.054266892	No	
+row_1	GK	glycerol kinase [Source:HGNC Symbol;Acc:HGNC:4289]	409	-0.27869826555252075	-0.5007262	No	
+row_2	HLA-DMB	major histocompatibility complex, class II, DM beta [Source:HGNC Symbol;Acc:HGNC:4935]	427	-0.2854723632335663	-0.5077219	No	
+row_3	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	444	-0.2920899987220764	-0.5130135	No	
+row_4	HLA-DMA	major histocompatibility complex, class II, DM alpha [Source:HGNC Symbol;Acc:HGNC:4934]	484	-0.3123410940170288	-0.54797673	No	
+row_5	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	525	-0.34834131598472595	-0.58229095	No	
+row_6	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	574	-0.3801666498184204	-0.6255575	Yes	
+row_7	PSMB9	proteasome 20S subunit beta 9 [Source:HGNC Symbol;Acc:HGNC:9546]	578	-0.3885420262813568	-0.6081206	Yes	
+row_8	CASP1	caspase 1 [Source:HGNC Symbol;Acc:HGNC:1499]	601	-0.4244210422039032	-0.6141378	Yes	
+row_9	UPP1	uridine phosphorylase 1 [Source:HGNC Symbol;Acc:HGNC:12576]	629	-0.47486522793769836	-0.6240632	Yes	
+row_10	PSMB10	proteasome 20S subunit beta 10 [Source:HGNC Symbol;Acc:HGNC:9538]	635	-0.4836503565311432	-0.6040524	Yes	
+row_11	KLK1	kallikrein 1 [Source:HGNC Symbol;Acc:HGNC:6357]	656	-0.522150456905365	-0.6019962	Yes	
+row_12	PSME2	proteasome activator subunit 2 [Source:HGNC Symbol;Acc:HGNC:9569]	677	-0.5921851992607117	-0.5960731	Yes	
+row_13	HLA-DRB1	major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	686	-0.6428012847900391	-0.571291	Yes	
+row_14	PSMB8	proteasome 20S subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:9545]	693	-0.6697738170623779	-0.5423423	Yes	
+row_15	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	703	-0.718590497970581	-0.5147143	Yes	
+row_16	ARG2	arginase 2 [Source:HGNC Symbol;Acc:HGNC:664]	705	-0.7256156802177429	-0.47598886	Yes	
+row_17	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1 [Source:HGNC Symbol;Acc:HGNC:4942]	713	-0.783592700958252	-0.44209445	Yes	
+row_18	HLA-DQB2	major histocompatibility complex, class II, DQ beta 2 [Source:HGNC Symbol;Acc:HGNC:4945]	728	-0.9095942378044128	-0.4106138	Yes	
+row_19	CD74	CD74 molecule [Source:HGNC Symbol;Acc:HGNC:1697]	755	-1.7358746528625488	-0.34957525	Yes	
+row_20	TFF3	trefoil factor 3 [Source:HGNC Symbol;Acc:HGNC:11757]	764	-2.9344115257263184	-0.19826436	Yes	
+row_21	DEFA3	defensin alpha 3 [Source:HGNC Symbol;Acc:HGNC:2762]	766	-3.663578748703003	0.0026775268	Yes	

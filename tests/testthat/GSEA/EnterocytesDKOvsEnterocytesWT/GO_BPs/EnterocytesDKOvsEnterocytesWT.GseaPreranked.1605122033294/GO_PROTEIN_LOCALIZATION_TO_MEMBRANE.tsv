@@ -1,0 +1,59 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	10	1.093573808670044	0.034031488	Yes	
+row_1	PMAIP1	phorbol-12-myristate-13-acetate-induced protein 1 [Source:HGNC Symbol;Acc:HGNC:9108]	19	0.8593693375587463	0.060623795	Yes	
+row_2	RPL37A	ribosomal protein L37a [Source:HGNC Symbol;Acc:HGNC:10348]	30	0.7070110440254211	0.07886115	Yes	
+row_3	RPL41	ribosomal protein L41 [Source:HGNC Symbol;Acc:HGNC:10354]	42	0.5943914651870728	0.09143213	Yes	
+row_4	RPS28	ribosomal protein S28 [Source:HGNC Symbol;Acc:HGNC:10418]	58	0.5374387502670288	0.097416304	Yes	
+row_5	RPL35	ribosomal protein L35 [Source:HGNC Symbol;Acc:HGNC:10344]	61	0.5163154602050781	0.116381936	Yes	
+row_6	SDCBP	syndecan binding protein [Source:HGNC Symbol;Acc:HGNC:10662]	63	0.513802707195282	0.13630986	Yes	
+row_7	RPL39	ribosomal protein L39 [Source:HGNC Symbol;Acc:HGNC:10350]	69	0.4788356423377991	0.15054926	Yes	
+row_8	KRT18	keratin 18 [Source:HGNC Symbol;Acc:HGNC:6430]	70	0.474046915769577	0.16991782	Yes	
+row_9	ARF6	ADP ribosylation factor 6 [Source:HGNC Symbol;Acc:HGNC:659]	75	0.46412602066993713	0.18462117	Yes	
+row_10	RPS20	ribosomal protein S20 [Source:HGNC Symbol;Acc:HGNC:10405]	77	0.4579424560070038	0.20226677	Yes	
+row_11	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta [Source:HGNC Symbol;Acc:HGNC:12853]	90	0.43239930272102356	0.20715414	Yes	
+row_12	RPS29	ribosomal protein S29 [Source:HGNC Symbol;Acc:HGNC:10419]	95	0.4269571900367737	0.22033885	Yes	
+row_13	RPL36	ribosomal protein L36 [Source:HGNC Symbol;Acc:HGNC:13631]	102	0.4179432988166809	0.23102535	Yes	
+row_14	RPL37	ribosomal protein L37 [Source:HGNC Symbol;Acc:HGNC:10347]	105	0.4111798405647278	0.24569537	Yes	
+row_15	RPS19	ribosomal protein S19 [Source:HGNC Symbol;Acc:HGNC:10402]	106	0.4095083773136139	0.262427	Yes	
+row_16	RPL30	ribosomal protein L30 [Source:HGNC Symbol;Acc:HGNC:10333]	111	0.3992132246494293	0.27447817	Yes	
+row_17	S100A10	S100 calcium binding protein A10 [Source:HGNC Symbol;Acc:HGNC:10487]	116	0.3920312225818634	0.2862359	Yes	
+row_18	RPS27	ribosomal protein S27 [Source:HGNC Symbol;Acc:HGNC:10416]	131	0.3742702901363373	0.2866183	Yes	
+row_19	RPL11	ribosomal protein L11 [Source:HGNC Symbol;Acc:HGNC:10301]	132	0.37296441197395325	0.30185685	Yes	
+row_20	ACSL3	acyl-CoA synthetase long chain family member 3 [Source:HGNC Symbol;Acc:HGNC:3570]	150	0.3516235053539276	0.29811907	Yes	
+row_21	CPE	carboxypeptidase E [Source:HGNC Symbol;Acc:HGNC:2303]	152	0.34894752502441406	0.31131136	Yes	
+row_22	RPS26	ribosomal protein S26 [Source:HGNC Symbol;Acc:HGNC:10414]	154	0.3405185341835022	0.32415926	Yes	
+row_23	RPS7	ribosomal protein S7 [Source:HGNC Symbol;Acc:HGNC:10440]	171	0.31699883937835693	0.32007176	Yes	
+row_24	RPS24	ribosomal protein S24 [Source:HGNC Symbol;Acc:HGNC:10411]	178	0.3076510727405548	0.32625195	Yes	
+row_25	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	200	0.28988054394721985	0.31573164	Yes	
+row_26	RPL38	ribosomal protein L38 [Source:HGNC Symbol;Acc:HGNC:10349]	205	0.28546860814094543	0.32313544	Yes	
+row_27	RPL18A	ribosomal protein L18a [Source:HGNC Symbol;Acc:HGNC:10311]	206	0.2838688790798187	0.33473372	Yes	
+row_28	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	212	0.27820849418640137	0.3407759	Yes	
+row_29	RPL6	ribosomal protein L6 [Source:HGNC Symbol;Acc:HGNC:10362]	214	0.27658218145370483	0.3510115	Yes	
+row_30	RPS15	ribosomal protein S15 [Source:HGNC Symbol;Acc:HGNC:10388]	217	0.2760257422924042	0.36015943	Yes	
+row_31	RPS2	ribosomal protein S2 [Source:HGNC Symbol;Acc:HGNC:10404]	222	0.27124667167663574	0.36698213	Yes	
+row_32	RPS27A	ribosomal protein S27a [Source:HGNC Symbol;Acc:HGNC:10417]	237	0.2573755383491516	0.36258847	No	
+row_33	ZDHHC7	zinc finger DHHC-type palmitoyltransferase 7 [Source:HGNC Symbol;Acc:HGNC:18459]	276	-0.25662437081336975	0.332605	No	
+row_34	LGALS3	galectin 3 [Source:HGNC Symbol;Acc:HGNC:6563]	302	-0.2634928822517395	0.3167467	No	
+row_35	PDZD11	PDZ domain containing 11 [Source:HGNC Symbol;Acc:HGNC:28034]	335	-0.2715977132320404	0.29376483	No	
+row_36	VPS37A	VPS37A subunit of ESCRT-I [Source:HGNC Symbol;Acc:HGNC:24928]	374	-0.28218695521354675	0.2648258	No	
+row_37	ARL6IP1	ADP ribosylation factor like GTPase 6 interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:697]	436	-0.30248531699180603	0.21222198	No	
+row_38	HSPA5	heat shock protein family A (Hsp70) member 5 [Source:HGNC Symbol;Acc:HGNC:5238]	439	-0.3030836582183838	0.22247541	No	
+row_39	BAD	BCL2 associated agonist of cell death [Source:HGNC Symbol;Acc:HGNC:936]	441	-0.3041301667690277	0.23383656	No	
+row_40	VIL1	villin 1 [Source:HGNC Symbol;Acc:HGNC:12690]	449	-0.3066394627094269	0.23891047	No	
+row_41	RPL21	ribosomal protein L21 [Source:HGNC Symbol;Acc:HGNC:10313]	453	-0.3080396056175232	0.24830142	No	
+row_42	SAMM50	SAMM50 sorting and assembly machinery component [Source:HGNC Symbol;Acc:HGNC:24276]	468	-0.3135656416416168	0.24620357	No	
+row_43	RER1	retention in endoplasmic reticulum sorting receptor 1 [Source:HGNC Symbol;Acc:HGNC:30309]	498	-0.32600677013397217	0.2286396	No	
+row_44	PEX16	peroxisomal biogenesis factor 16 [Source:HGNC Symbol;Acc:HGNC:8857]	507	-0.33113858103752136	0.23364952	No	
+row_45	PRKG2	protein kinase cGMP-dependent 2 [Source:HGNC Symbol;Acc:HGNC:9416]	537	-0.34648069739341736	0.21692207	No	
+row_46	AQP11	aquaporin 11 [Source:HGNC Symbol;Acc:HGNC:19940]	558	-0.35965853929519653	0.2103177	No	
+row_47	ABHD17A	abhydrolase domain containing 17A, depalmitoylase [Source:HGNC Symbol;Acc:HGNC:28756]	596	-0.38516339659690857	0.18665105	No	
+row_48	CD81	CD81 molecule [Source:HGNC Symbol;Acc:HGNC:1701]	624	-0.4003819525241852	0.17425582	No	
+row_49	SSR2	signal sequence receptor subunit 2 [Source:HGNC Symbol;Acc:HGNC:11324]	655	-0.423974871635437	0.15962964	No	
+row_50	VAMP5	vesicle associated membrane protein 5 [Source:HGNC Symbol;Acc:HGNC:12646]	673	-0.431254506111145	0.15914543	No	
+row_51	BSG	basigin (Ok blood group) [Source:HGNC Symbol;Acc:HGNC:1116]	761	-0.5024280548095703	0.08702181	No	
+row_52	IFT20	intraflagellar transport 20 [Source:HGNC Symbol;Acc:HGNC:30989]	771	-0.5144216418266296	0.09845533	No	
+row_53	TSPAN15	tetraspanin 15 [Source:HGNC Symbol;Acc:HGNC:23298]	781	-0.5237415432929993	0.110269636	No	
+row_54	EPB41L3	erythrocyte membrane protein band 4.1 like 3 [Source:HGNC Symbol;Acc:HGNC:3380]	782	-0.5240123867988586	0.13167967	No	
+row_55	NDUFA13	NADH:ubiquinone oxidoreductase subunit A13 [Source:HGNC Symbol;Acc:HGNC:17194]	794	-0.5411498546600342	0.14207533	No	
+row_56	PDZK1	PDZ domain containing 1 [Source:HGNC Symbol;Acc:HGNC:8821]	832	-0.5779129266738892	0.126284	No	
+row_57	PIGR	polymeric immunoglobulin receptor [Source:HGNC Symbol;Acc:HGNC:8968]	984	-1.1577906608581543	0.012779511	No	

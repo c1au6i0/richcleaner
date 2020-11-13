@@ -1,0 +1,24 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RPL39	ribosomal protein L39 [Source:HGNC Symbol;Acc:HGNC:10350]	49	0.5838735103607178	-0.03727328	No	
+row_1	ANXA3	annexin A3 [Source:HGNC Symbol;Acc:HGNC:541]	52	0.5800811648368835	-0.011728403	No	
+row_2	S100A14	S100 calcium binding protein A14 [Source:HGNC Symbol;Acc:HGNC:18901]	53	0.5791584253311157	0.01645254	No	
+row_3	WFDC2	WAP four-disulfide core domain 2 [Source:HGNC Symbol;Acc:HGNC:15939]	55	0.5730356574058533	0.042995073	No	
+row_4	CYBA	cytochrome b-245 alpha chain [Source:HGNC Symbol;Acc:HGNC:2577]	73	0.5142569541931152	0.045229807	No	
+row_5	ROMO1	reactive oxygen species modulator 1 [Source:HGNC Symbol;Acc:HGNC:16185]	81	0.49944764375686646	0.060148768	No	
+row_6	PGLYRP1	peptidoglycan recognition protein 1 [Source:HGNC Symbol;Acc:HGNC:8904]	94	0.4742079973220825	0.0671372	No	
+row_7	IGKC	immunoglobulin kappa constant [Source:HGNC Symbol;Acc:HGNC:5716]	163	0.38226518034935	-0.0054151984	No	
+row_8	RAB1A	RAB1A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9758]	197	0.34186652302742004	-0.033016436	No	
+row_9	EPHA2	EPH receptor A2 [Source:HGNC Symbol;Acc:HGNC:3386]	274	0.28151094913482666	-0.121195234	No	
+row_10	ANG	angiogenin [Source:HGNC Symbol;Acc:HGNC:483]	386	-0.26653802394866943	-0.2570195	No	
+row_11	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	444	-0.2920899987220764	-0.31921434	No	
+row_12	IRF8	interferon regulatory factor 8 [Source:HGNC Symbol;Acc:HGNC:5358]	451	-0.2959664762020111	-0.312856	No	
+row_13	GSDMC	gasdermin C [Source:HGNC Symbol;Acc:HGNC:7151]	543	-0.3594522476196289	-0.41734952	No	
+row_14	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	574	-0.3801666498184204	-0.43906567	No	
+row_15	LEAP2	liver enriched antimicrobial peptide 2 [Source:HGNC Symbol;Acc:HGNC:29571]	594	-0.4114803373813629	-0.44451287	No	
+row_16	ARG2	arginase 2 [Source:HGNC Symbol;Acc:HGNC:664]	705	-0.7256156802177429	-0.5566586	Yes	
+row_17	PYCARD	PYD and CARD domain containing [Source:HGNC Symbol;Acc:HGNC:16608]	725	-0.8799656629562378	-0.53931004	Yes	
+row_18	CHGA	chromogranin A [Source:HGNC Symbol;Acc:HGNC:1929]	727	-0.8985058665275574	-0.49693063	Yes	
+row_19	REG3G	regenerating family member 3 gamma [Source:HGNC Symbol;Acc:HGNC:29595]	749	-1.324976921081543	-0.46060947	Yes	
+row_20	LYZ	lysozyme [Source:HGNC Symbol;Acc:HGNC:6740]	761	-2.4896504878997803	-0.35421228	Yes	
+row_21	DEFA3	defensin alpha 3 [Source:HGNC Symbol;Acc:HGNC:2762]	766	-3.663578748703003	-0.1813102	Yes	
+row_22	ZG16	zymogen granule protein 16 [Source:HGNC Symbol;Acc:HGNC:30961]	767	-3.753728151321411	0.0013403229	Yes	

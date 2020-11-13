@@ -1,0 +1,20 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RPS28	ribosomal protein S28 [Source:HGNC Symbol;Acc:HGNC:10418]	14	0.9433043003082275	0.09932763	Yes	
+row_1	RPL38	ribosomal protein L38 [Source:HGNC Symbol;Acc:HGNC:10349]	24	0.7375556230545044	0.17958562	Yes	
+row_2	TOMM7	translocase of outer mitochondrial membrane 7 [Source:HGNC Symbol;Acc:HGNC:21648]	70	0.5224393010139465	0.18493555	Yes	
+row_3	ATOX1	antioxidant 1 copper chaperone [Source:HGNC Symbol;Acc:HGNC:798]	71	0.5179052352905273	0.24971832	Yes	
+row_4	ROMO1	reactive oxygen species modulator 1 [Source:HGNC Symbol;Acc:HGNC:16185]	81	0.49944764375686646	0.3001923	Yes	
+row_5	UQCR11	ubiquinol-cytochrome c reductase, complex III subunit XI [Source:HGNC Symbol;Acc:HGNC:30862]	86	0.48772773146629333	0.35586697	Yes	
+row_6	SNRPG	small nuclear ribonucleoprotein polypeptide G [Source:HGNC Symbol;Acc:HGNC:11163]	96	0.46854397654533386	0.40247533	Yes	
+row_7	COX7C	cytochrome c oxidase subunit 7C [Source:HGNC Symbol;Acc:HGNC:2292]	133	0.42079755663871765	0.40711126	Yes	
+row_8	COPS9	COP9 signalosome subunit 9 [Source:HGNC Symbol;Acc:HGNC:21314]	159	0.3878326117992401	0.4222904	Yes	
+row_9	RPS21	ribosomal protein S21 [Source:HGNC Symbol;Acc:HGNC:10409]	184	0.35385313630104065	0.43455255	Yes	
+row_10	ATP5ME	ATP synthase membrane subunit e [Source:HGNC Symbol;Acc:HGNC:846]	189	0.3497360050678253	0.47296634	Yes	
+row_11	NDUFA3	NADH:ubiquinone oxidoreductase subunit A3 [Source:HGNC Symbol;Acc:HGNC:7686]	213	0.3300606310367584	0.4835857	Yes	
+row_12	SNRPE	small nuclear ribonucleoprotein polypeptide E [Source:HGNC Symbol;Acc:HGNC:11161]	252	0.30182501673698425	0.47067314	Yes	
+row_13	RPL36A	ribosomal protein L36a [Source:HGNC Symbol;Acc:HGNC:10359]	254	0.30072447657585144	0.5069563	Yes	
+row_14	LSM7	LSM7 homolog, U6 small nuclear RNA and mRNA degradation associated [Source:HGNC Symbol;Acc:HGNC:20470]	264	0.29098084568977356	0.53135395	Yes	
+row_15	POLR2L	RNA polymerase II subunit L [Source:HGNC Symbol;Acc:HGNC:9199]	283	0.27666935324668884	0.5419615	Yes	
+row_16	ELOB	elongin B [Source:HGNC Symbol;Acc:HGNC:11619]	289	0.2743692398071289	0.5696146	Yes	
+row_17	ATP5MPL	ATP synthase membrane subunit 6.8PL [Source:HGNC Symbol;Acc:HGNC:1188]	292	0.27132368087768555	0.60088676	Yes	
+row_18	MALAT1	metastasis associated lung adenocarcinoma transcript 1 [Source:HGNC Symbol;Acc:HGNC:29665]	314	0.2593938708305359	0.6053333	Yes	

@@ -1,0 +1,24 @@
+producer_class	xtools.gsea.GseaPreranked
+producer_timestamp	1605122033294
+param	rpt_label	EnterocytesDKOvsEnterocytesWT
+param	rnd_seed	timestamp
+param	set_min	15
+param	chip	ftp.broadinstitute.org://pub/gsea/annotations_versioned/Mouse_Gene_Symbol_Remapping_Human_Orthologs_MSigDB.v7.2.chip
+param	zip_report	false
+param	create_svgs	false
+param	scoring_scheme	weighted
+param	rnk	/Volumes/Macintosh/Research/Projects/PKC/EnterocytesDKOvsEnterocytesWT_PreRanked.rnk
+param	norm	meandiv
+param	out	/Volumes/Macintosh/Research/Projects/PKC/Enrichment/GSEA/EnterocytesDKOvsEnterocytesWT/GO_BPs
+param	mode	Max_probe
+param	include_only_symbols	true
+param	help	false
+param	set_max	500
+param	gmx	ftp.broadinstitute.org://pub/gsea/gene_sets/c5.go.bp.v7.2.symbols.gmt
+param	make_sets	true
+param	plot_top_x	20
+param	gui	false
+param	nperm	1000
+param	collapse	Collapse
+
+file	/Volumes/Macintosh/Research/Projects/PKC/Enrichment/GSEA/EnterocytesDKOvsEnterocytesWT/GO_BPs/EnterocytesDKOvsEnterocytesWT.GseaPreranked.1605122033294/index.html

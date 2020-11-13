@@ -1,0 +1,24 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	11	0.6584210395812988	0.0474874	Yes	
+row_1	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	19	0.5771936774253845	0.09580747	Yes	
+row_2	PTMA	prothymosin alpha [Source:HGNC Symbol;Acc:HGNC:9623]	21	0.5571044683456421	0.15701884	Yes	
+row_3	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	42	0.4461413323879242	0.15743272	Yes	
+row_4	NPM1	nucleophosmin 1 [Source:HGNC Symbol;Acc:HGNC:7910]	46	0.4414442181587219	0.20034714	Yes	
+row_5	SET	SET nuclear proto-oncogene [Source:HGNC Symbol;Acc:HGNC:10760]	50	0.42515307664871216	0.24139754	Yes	
+row_6	HMGB2	high mobility group box 2 [Source:HGNC Symbol;Acc:HGNC:5000]	54	0.4201262891292572	0.2818728	Yes	
+row_7	LMNA	lamin A/C [Source:HGNC Symbol;Acc:HGNC:6636]	70	0.39462971687316895	0.28905103	Yes	
+row_8	NUCKS1	nuclear casein kinase and cyclin dependent kinase substrate 1 [Source:HGNC Symbol;Acc:HGNC:29923]	72	0.3874936103820801	0.3308558	Yes	
+row_9	NOP10	NOP10 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:14378]	87	0.3704751133918762	0.33780193	Yes	
+row_10	PTGES3	prostaglandin E synthase 3 [Source:HGNC Symbol;Acc:HGNC:16049]	90	0.36784738302230835	0.37482715	Yes	
+row_11	HMGB1	high mobility group box 1 [Source:HGNC Symbol;Acc:HGNC:4983]	114	0.3430297374725342	0.35584822	Yes	
+row_12	NHP2	NHP2 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:14377]	116	0.3385803699493408	0.39205644	Yes	
+row_13	NAP1L1	nucleosome assembly protein 1 like 1 [Source:HGNC Symbol;Acc:HGNC:7637]	139	0.3218720853328705	0.37318832	Yes	
+row_14	G3BP1	G3BP stress granule assembly factor 1 [Source:HGNC Symbol;Acc:HGNC:30292]	142	0.32015329599380493	0.40475646	Yes	
+row_15	HMGN1	high mobility group nucleosome binding domain 1 [Source:HGNC Symbol;Acc:HGNC:4984]	157	0.3115482032299042	0.40496027	Yes	
+row_16	ANP32B	acidic nuclear phosphoprotein 32 family member B [Source:HGNC Symbol;Acc:HGNC:16677]	192	0.28909558057785034	0.35196218	No	
+row_17	RAN	RAN, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9846]	200	0.2866247892379761	0.36703584	No	
+row_18	HNRNPU	heterogeneous nuclear ribonucleoprotein U [Source:HGNC Symbol;Acc:HGNC:5048]	240	0.2677850127220154	0.2989412	No	
+row_19	H2AZ1	H2A.Z variant histone 1 [Source:HGNC Symbol;Acc:HGNC:4741]	257	0.2617552578449249	0.2883845	No	
+row_20	HNRNPA1	heterogeneous nuclear ribonucleoprotein A1 [Source:HGNC Symbol;Acc:HGNC:5031]	261	0.2615104019641876	0.31071115	No	
+row_21	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	306	-0.269396036863327	0.23014262	No	
+row_22	FOXA3	forkhead box A3 [Source:HGNC Symbol;Acc:HGNC:5023]	365	-0.4224703311920166	0.13164558	No	

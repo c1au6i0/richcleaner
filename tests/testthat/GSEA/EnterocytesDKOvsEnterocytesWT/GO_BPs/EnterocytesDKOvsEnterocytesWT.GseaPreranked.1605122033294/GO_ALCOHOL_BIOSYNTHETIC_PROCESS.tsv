@@ -1,0 +1,33 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HMGCS1	3-hydroxy-3-methylglutaryl-CoA synthase 1 [Source:HGNC Symbol;Acc:HGNC:5007]	7	1.1506723165512085	0.05993838	Yes	
+row_1	MSMO1	methylsterol monooxygenase 1 [Source:HGNC Symbol;Acc:HGNC:10545]	12	1.0861291885375977	0.11921664	Yes	
+row_2	CYP3A4	cytochrome P450 family 3 subfamily A member 4 [Source:HGNC Symbol;Acc:HGNC:2637]	18	0.8616648316383362	0.16435128	Yes	
+row_3	POR	cytochrome p450 oxidoreductase [Source:HGNC Symbol;Acc:HGNC:9208]	20	0.850222647190094	0.21296285	Yes	
+row_4	INSIG1	insulin induced gene 1 [Source:HGNC Symbol;Acc:HGNC:6083]	22	0.7930747270584106	0.25823733	Yes	
+row_5	DHCR24	24-dehydrocholesterol reductase [Source:HGNC Symbol;Acc:HGNC:2859]	29	0.721125066280365	0.294129	Yes	
+row_6	SQLE	squalene epoxidase [Source:HGNC Symbol;Acc:HGNC:11279]	32	0.6954421401023865	0.33266607	Yes	
+row_7	SCD	stearoyl-CoA desaturase [Source:HGNC Symbol;Acc:HGNC:10571]	36	0.6586044430732727	0.36801577	Yes	
+row_8	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	44	0.5904099941253662	0.39523822	Yes	
+row_9	IDI1	isopentenyl-diphosphate delta isomerase 1 [Source:HGNC Symbol;Acc:HGNC:5387]	46	0.5843395590782166	0.42832384	Yes	
+row_10	CYP51A1	cytochrome P450 family 51 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2649]	47	0.5835601687431335	0.4624002	Yes	
+row_11	FDPS	farnesyl diphosphate synthase [Source:HGNC Symbol;Acc:HGNC:3631]	128	0.3757230341434479	0.4014386	No	
+row_12	HMGCR	3-hydroxy-3-methylglutaryl-CoA reductase [Source:HGNC Symbol;Acc:HGNC:5006]	140	0.3645966649055481	0.41132987	No	
+row_13	BMP2	bone morphogenetic protein 2 [Source:HGNC Symbol;Acc:HGNC:1069]	151	0.35152918100357056	0.42149433	No	
+row_14	GCH1	GTP cyclohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:4193]	172	0.3160191774368286	0.41922253	No	
+row_15	FDFT1	farnesyl-diphosphate farnesyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:3629]	188	0.2998398542404175	0.4211873	No	
+row_16	SREBF2	sterol regulatory element binding transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:11290]	231	0.26032912731170654	0.39286563	No	
+row_17	HSD17B7	hydroxysteroid 17-beta dehydrogenase 7 [Source:HGNC Symbol;Acc:HGNC:5215]	235	0.2576461136341095	0.4048018	No	
+row_18	SPR	sepiapterin reductase [Source:HGNC Symbol;Acc:HGNC:11257]	303	-0.2645466923713684	0.35081965	No	
+row_19	VDR	vitamin D receptor [Source:HGNC Symbol;Acc:HGNC:12679]	321	-0.2694392800331116	0.3489367	No	
+row_20	ELOVL6	ELOVL fatty acid elongase 6 [Source:HGNC Symbol;Acc:HGNC:15829]	438	-0.3026563823223114	0.24640273	No	
+row_21	SPHK2	sphingosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:18859]	451	-0.3075839579105377	0.25192854	No	
+row_22	EBP	EBP cholestenol delta-isomerase [Source:HGNC Symbol;Acc:HGNC:3133]	455	-0.3090462386608124	0.26686615	No	
+row_23	DHFRP1	dihydrofolate reductase pseudogene 1 [Source:HGNC Symbol;Acc:HGNC:2862]	492	-0.3244372010231018	0.2485056	No	
+row_24	GOT1	glutamic-oxaloacetic transaminase 1 [Source:HGNC Symbol;Acc:HGNC:4432]	533	-0.34461709856987	0.22717836	No	
+row_25	NPC1L1	NPC1 like intracellular cholesterol transporter 1 [Source:HGNC Symbol;Acc:HGNC:7898]	613	-0.3928757607936859	0.16825463	No	
+row_26	LPCAT3	lysophosphatidylcholine acyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:30244]	649	-0.4209713339805603	0.15656736	No	
+row_27	ACAA2	acetyl-CoA acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:83]	864	-0.6414039134979248	-0.027740212	No	
+row_28	CYB5R3	cytochrome b5 reductase 3 [Source:HGNC Symbol;Acc:HGNC:2873]	875	-0.6527979373931885	1.652434E-5	No	
+row_29	CES1	carboxylesterase 1 [Source:HGNC Symbol;Acc:HGNC:1863]	882	-0.6640109419822693	0.03257311	No	
+row_30	ASAH2B	N-acylsphingosine amidohydrolase 2B [Source:HGNC Symbol;Acc:HGNC:23456]	900	-0.7007813453674316	0.0558779	No	
+row_31	SEC14L2	SEC14 like lipid binding 2 [Source:HGNC Symbol;Acc:HGNC:10699]	911	-0.7289754152297974	0.08808294	No	

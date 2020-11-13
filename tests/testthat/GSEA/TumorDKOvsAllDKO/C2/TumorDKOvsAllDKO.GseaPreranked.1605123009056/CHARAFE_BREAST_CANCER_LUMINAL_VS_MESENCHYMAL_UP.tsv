@@ -1,0 +1,26 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KRT19	keratin 19 [Source:HGNC Symbol;Acc:HGNC:6436]	15	0.6018701791763306	3.7291227E-4	No	
+row_1	MAL2	mal, T cell differentiation protein 2 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:13634]	17	0.5847442150115967	0.03527257	No	
+row_2	JUP	junction plakoglobin [Source:HGNC Symbol;Acc:HGNC:6207]	170	0.3028024435043335	-0.33210588	No	
+row_3	LAD1	ladinin 1 [Source:HGNC Symbol;Acc:HGNC:6472]	218	0.27672281861305237	-0.43397877	No	
+row_4	BLVRB	biliverdin reductase B [Source:HGNC Symbol;Acc:HGNC:1063]	262	0.2613549530506134	-0.52665764	No	
+row_5	EPCAM	epithelial cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:11529]	265	0.2603159546852112	-0.5150773	No	
+row_6	RAB27B	RAB27B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9767]	296	-0.25578588247299194	-0.5750339	Yes	
+row_7	NPDC1	neural proliferation, differentiation and control 1 [Source:HGNC Symbol;Acc:HGNC:7899]	298	-0.2606825828552246	-0.56088555	Yes	
+row_8	PDCD4	programmed cell death 4 [Source:HGNC Symbol;Acc:HGNC:8763]	308	-0.27207037806510925	-0.5663643	Yes	
+row_9	ELAPOR1	endosome-lysosome associated apoptosis and autophagy regulator 1 [Source:HGNC Symbol;Acc:HGNC:29618]	315	-0.2803494334220886	-0.5636792	Yes	
+row_10	GALNT6	polypeptide N-acetylgalactosaminyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:4128]	327	-0.3009383976459503	-0.5723984	Yes	
+row_11	TMED3	transmembrane p24 trafficking protein 3 [Source:HGNC Symbol;Acc:HGNC:28889]	333	-0.31635311245918274	-0.5648633	Yes	
+row_12	CRIP1	cysteine rich protein 1 [Source:HGNC Symbol;Acc:HGNC:2360]	334	-0.31657421588897705	-0.5445914	Yes	
+row_13	SSR4	signal sequence receptor subunit 4 [Source:HGNC Symbol;Acc:HGNC:11326]	337	-0.3377106785774231	-0.52805513	Yes	
+row_14	BCAS1	brain enriched myelin associated protein 1 [Source:HGNC Symbol;Acc:HGNC:974]	344	-0.35033687949180603	-0.52088845	Yes	
+row_15	REEP5	receptor accessory protein 5 [Source:HGNC Symbol;Acc:HGNC:30077]	352	-0.37442731857299805	-0.51472366	Yes	
+row_16	MCF2L	MCF.2 cell line derived transforming sequence like [Source:HGNC Symbol;Acc:HGNC:14576]	354	-0.3846997320652008	-0.49263388	Yes	
+row_17	STARD10	StAR related lipid transfer domain containing 10 [Source:HGNC Symbol;Acc:HGNC:10666]	356	-0.38714390993118286	-0.47038758	Yes	
+row_18	CAMK2N1	calcium/calmodulin dependent protein kinase II inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:24190]	366	-0.4241335690021515	-0.4661289	Yes	
+row_19	TSPAN13	tetraspanin 13 [Source:HGNC Symbol;Acc:HGNC:21643]	370	-0.44322407245635986	-0.44538054	Yes	
+row_20	SPDEF	SAM pointed domain containing ETS transcription factor [Source:HGNC Symbol;Acc:HGNC:17257]	380	-0.5430809259414673	-0.43350503	Yes	
+row_21	CD24	CD24 molecule [Source:HGNC Symbol;Acc:HGNC:1645]	387	-0.6521586179733276	-0.40701112	Yes	
+row_22	SELENOP	selenoprotein P [Source:HGNC Symbol;Acc:HGNC:10751]	397	-0.9995927810668945	-0.3659028	Yes	
+row_23	AGR2	anterior gradient 2, protein disulphide isomerase family member [Source:HGNC Symbol;Acc:HGNC:328]	411	-2.510745048522949	-0.23820576	Yes	
+row_24	TFF3	trefoil factor 3 [Source:HGNC Symbol;Acc:HGNC:11757]	415	-3.9186036586761475	0.005089059	Yes	

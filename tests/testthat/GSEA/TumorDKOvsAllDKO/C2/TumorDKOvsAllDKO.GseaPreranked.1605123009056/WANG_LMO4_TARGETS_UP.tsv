@@ -1,0 +1,21 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	25	0.5315682888031006	-0.02103894	No	
+row_1	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	42	0.4461413323879242	-0.026178388	No	
+row_2	NUCKS1	nuclear casein kinase and cyclin dependent kinase substrate 1 [Source:HGNC Symbol;Acc:HGNC:29923]	72	0.3874936103820801	-0.06859019	No	
+row_3	TUBB	tubulin beta class I [Source:HGNC Symbol;Acc:HGNC:20778]	82	0.3757162392139435	-0.061676294	No	
+row_4	DBI	diazepam binding inhibitor, acyl-CoA binding protein [Source:HGNC Symbol;Acc:HGNC:2690]	83	0.37401294708251953	-0.032283194	No	
+row_5	ZFP36L2	ZFP36 ring finger protein like 2 [Source:HGNC Symbol;Acc:HGNC:1108]	106	0.35035356879234314	-0.060025834	No	
+row_6	HMGB1	high mobility group box 1 [Source:HGNC Symbol;Acc:HGNC:4983]	114	0.3430297374725342	-0.050655596	No	
+row_7	NAP1L1	nucleosome assembly protein 1 like 1 [Source:HGNC Symbol;Acc:HGNC:7637]	139	0.3218720853328705	-0.08566167	No	
+row_8	DSTN	destrin, actin depolymerizing factor [Source:HGNC Symbol;Acc:HGNC:15750]	177	0.29831424355506897	-0.15518244	No	
+row_9	BOK	BCL2 family apoptosis regulator BOK [Source:HGNC Symbol;Acc:HGNC:1087]	238	0.26827067136764526	-0.28485322	No	
+row_10	HNRNPA1	heterogeneous nuclear ribonucleoprotein A1 [Source:HGNC Symbol;Acc:HGNC:5031]	261	0.2615104019641876	-0.3195779	No	
+row_11	CDV3	CDV3 homolog [Source:HGNC Symbol;Acc:HGNC:26928]	269	0.2583073675632477	-0.3168659	No	
+row_12	LSM5	LSM5 homolog, U6 small nuclear RNA and mRNA degradation associated [Source:HGNC Symbol;Acc:HGNC:17162]	273	0.25632479786872864	-0.3042594	No	
+row_13	ABHD17C	abhydrolase domain containing 17C, depalmitoylase [Source:HGNC Symbol;Acc:HGNC:26925]	283	0.2514529228210449	-0.30711117	No	
+row_14	PDCD4	programmed cell death 4 [Source:HGNC Symbol;Acc:HGNC:8763]	308	-0.27207037806510925	-0.3460311	No	
+row_15	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	351	-0.373076468706131	-0.4222392	Yes	
+row_16	S100A13	S100 calcium binding protein A13 [Source:HGNC Symbol;Acc:HGNC:10490]	353	-0.3825710415840149	-0.3946861	Yes	
+row_17	SPDEF	SAM pointed domain containing ETS transcription factor [Source:HGNC Symbol;Acc:HGNC:17257]	380	-0.5430809259414673	-0.41733286	Yes	
+row_18	AGR2	anterior gradient 2, protein disulphide isomerase family member [Source:HGNC Symbol;Acc:HGNC:328]	411	-2.510745048522949	-0.29539418	Yes	
+row_19	TFF3	trefoil factor 3 [Source:HGNC Symbol;Acc:HGNC:11757]	415	-3.9186036586761475	0.0050251177	Yes	

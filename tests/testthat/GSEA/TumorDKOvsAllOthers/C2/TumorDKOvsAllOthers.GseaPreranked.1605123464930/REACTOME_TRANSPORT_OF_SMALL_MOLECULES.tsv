@@ -1,0 +1,63 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC39A4	solute carrier family 39 member 4 [Source:HGNC Symbol;Acc:HGNC:17129]	109	0.4486578702926636	-0.13893719	No	
+row_1	EIF2S2	eukaryotic translation initiation factor 2 subunit beta [Source:HGNC Symbol;Acc:HGNC:3266]	117	0.44433629512786865	-0.13374956	No	
+row_2	SEM1	SEM1 26S proteasome complex subunit [Source:HGNC Symbol;Acc:HGNC:10845]	119	0.4436001181602478	-0.12010036	No	
+row_3	SLC39A1	solute carrier family 39 member 1 [Source:HGNC Symbol;Acc:HGNC:12876]	126	0.43693941831588745	-0.113749474	No	
+row_4	EIF2S3	eukaryotic translation initiation factor 2 subunit gamma [Source:HGNC Symbol;Acc:HGNC:3267]	130	0.4280144274234772	-0.10345839	No	
+row_5	ATP10B	ATPase phospholipid transporting 10B (putative) [Source:HGNC Symbol;Acc:HGNC:13543]	137	0.4134780764579773	-0.0979042	No	
+row_6	GNG5	G protein subunit gamma 5 [Source:HGNC Symbol;Acc:HGNC:4408]	166	0.3773398995399475	-0.12469458	No	
+row_7	ATP2A2	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2 [Source:HGNC Symbol;Acc:HGNC:812]	178	0.3644122779369354	-0.1278787	No	
+row_8	CFTR	CF transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884]	183	0.35461246967315674	-0.121494584	No	
+row_9	SKP1	S-phase kinase associated protein 1 [Source:HGNC Symbol;Acc:HGNC:10899]	246	0.30495572090148926	-0.19883348	No	
+row_10	RAB11A	RAB11A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9760]	270	0.28845903277397156	-0.22156991	No	
+row_11	SLC4A7	solute carrier family 4 member 7 [Source:HGNC Symbol;Acc:HGNC:11033]	287	0.27528509497642517	-0.23485272	No	
+row_12	ATP8B1	ATPase phospholipid transporting 8B1 [Source:HGNC Symbol;Acc:HGNC:3706]	306	0.26462262868881226	-0.25132644	No	
+row_13	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	340	0.2504592537879944	-0.28949752	No	
+row_14	SLC5A8	solute carrier family 5 member 8 [Source:HGNC Symbol;Acc:HGNC:19119]	364	-0.25780537724494934	-0.31327486	No	
+row_15	ATP1B1	ATPase Na+/K+ transporting subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:804]	365	-0.25856655836105347	-0.30449456	No	
+row_16	SLC34A2	solute carrier family 34 member 2 [Source:HGNC Symbol;Acc:HGNC:11020]	388	-0.26739463210105896	-0.32653186	No	
+row_17	SLC6A20	solute carrier family 6 member 20 [Source:HGNC Symbol;Acc:HGNC:30927]	396	-0.2705639600753784	-0.32724512	No	
+row_18	SLC3A1	solute carrier family 3 member 1 [Source:HGNC Symbol;Acc:HGNC:11025]	399	-0.2724728286266327	-0.32082143	No	
+row_19	PSMA5	proteasome 20S subunit alpha 5 [Source:HGNC Symbol;Acc:HGNC:9534]	430	-0.28608831763267517	-0.35353938	No	
+row_20	SLC7A9	solute carrier family 7 member 9 [Source:HGNC Symbol;Acc:HGNC:11067]	466	-0.3036227822303772	-0.392734	Yes	
+row_21	SLC3A2	solute carrier family 3 member 2 [Source:HGNC Symbol;Acc:HGNC:11026]	468	-0.3037409484386444	-0.3838341	Yes	
+row_22	FTH1	ferritin heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:3976]	474	-0.3063566982746124	-0.38050306	Yes	
+row_23	PSMA2	proteasome 20S subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:9531]	475	-0.3064170181751251	-0.37009785	Yes	
+row_24	SLC26A2	solute carrier family 26 member 2 [Source:HGNC Symbol;Acc:HGNC:10994]	477	-0.30740243196487427	-0.3610736	Yes	
+row_25	PHB2	prohibitin 2 [Source:HGNC Symbol;Acc:HGNC:30306]	486	-0.312918484210968	-0.36176306	Yes	
+row_26	SLC7A7	solute carrier family 7 member 7 [Source:HGNC Symbol;Acc:HGNC:11065]	488	-0.31392353773117065	-0.35251737	Yes	
+row_27	SLC26A3	solute carrier family 26 member 3 [Source:HGNC Symbol;Acc:HGNC:3018]	492	-0.31571313738822937	-0.34603977	Yes	
+row_28	AQP1	aquaporin 1 (Colton blood group) [Source:HGNC Symbol;Acc:HGNC:633]	495	-0.3192821741104126	-0.33802655	Yes	
+row_29	PSMB1	proteasome 20S subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:9537]	506	-0.32506614923477173	-0.34113234	Yes	
+row_30	CREB3L3	cAMP responsive element binding protein 3 like 3 [Source:HGNC Symbol;Acc:HGNC:18855]	509	-0.3277280628681183	-0.3328323	Yes	
+row_31	SLC2A2	solute carrier family 2 member 2 [Source:HGNC Symbol;Acc:HGNC:11006]	518	-0.3343863785266876	-0.33279273	Yes	
+row_32	SLC39A5	solute carrier family 39 member 5 [Source:HGNC Symbol;Acc:HGNC:20502]	528	-0.3492589294910431	-0.33366257	Yes	
+row_33	SLC27A4	solute carrier family 27 member 4 [Source:HGNC Symbol;Acc:HGNC:10998]	536	-0.3570185899734497	-0.33144003	Yes	
+row_34	ABCG2	ATP binding cassette subfamily G member 2 (Junior blood group) [Source:HGNC Symbol;Acc:HGNC:74]	539	-0.35801976919174194	-0.32211137	Yes	
+row_35	PSMB2	proteasome 20S subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:9539]	548	-0.36536866426467896	-0.32101974	Yes	
+row_36	PSMA3	proteasome 20S subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:9532]	559	-0.3729473352432251	-0.32249957	Yes	
+row_37	PSMA4	proteasome 20S subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:9533]	577	-0.3874157965183258	-0.3333891	Yes	
+row_38	PSMB9	proteasome 20S subunit beta 9 [Source:HGNC Symbol;Acc:HGNC:9546]	578	-0.3885420262813568	-0.3201951	Yes	
+row_39	SAR1B	secretion associated Ras related GTPase 1B [Source:HGNC Symbol;Acc:HGNC:10535]	598	-0.421810120344162	-0.33274555	Yes	
+row_40	SLC13A2	solute carrier family 13 member 2 [Source:HGNC Symbol;Acc:HGNC:10917]	606	-0.43418562412261963	-0.32790262	Yes	
+row_41	SLC26A6	solute carrier family 26 member 6 [Source:HGNC Symbol;Acc:HGNC:14472]	611	-0.4451034963130951	-0.31844565	Yes	
+row_42	PSME1	proteasome activator subunit 1 [Source:HGNC Symbol;Acc:HGNC:9568]	619	-0.45781654119491577	-0.31280026	Yes	
+row_43	CA4	carbonic anhydrase 4 [Source:HGNC Symbol;Acc:HGNC:1375]	625	-0.4694886803627014	-0.30392966	Yes	
+row_44	PSMB10	proteasome 20S subunit beta 10 [Source:HGNC Symbol;Acc:HGNC:9538]	635	-0.4836503565311432	-0.30023587	Yes	
+row_45	AMN	amnion associated transmembrane protein [Source:HGNC Symbol;Acc:HGNC:14604]	650	-0.5134616494178772	-0.30260187	Yes	
+row_46	SLC15A1	solute carrier family 15 member 1 [Source:HGNC Symbol;Acc:HGNC:10920]	658	-0.5236736536026001	-0.29472014	Yes	
+row_47	SLC43A2	solute carrier family 43 member 2 [Source:HGNC Symbol;Acc:HGNC:23087]	662	-0.5445667505264282	-0.2804712	Yes	
+row_48	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	668	-0.5597564578056335	-0.26853532	Yes	
+row_49	SLC25A5	solute carrier family 25 member 5 [Source:HGNC Symbol;Acc:HGNC:10991]	672	-0.5778260231018066	-0.25315696	Yes	
+row_50	PSME2	proteasome activator subunit 2 [Source:HGNC Symbol;Acc:HGNC:9569]	677	-0.5921851992607117	-0.23870546	Yes	
+row_51	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	683	-0.6200270056724548	-0.22472292	Yes	
+row_52	ATP1A1	ATPase Na+/K+ transporting subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:799]	691	-0.6605367064476013	-0.21219362	Yes	
+row_53	APOA4	apolipoprotein A4 [Source:HGNC Symbol;Acc:HGNC:602]	692	-0.6682462692260742	-0.18950154	Yes	
+row_54	PSMB8	proteasome 20S subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:9545]	693	-0.6697738170623779	-0.16675758	Yes	
+row_55	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	701	-0.7041921615600586	-0.15274584	Yes	
+row_56	SLC6A19	solute carrier family 6 member 19 [Source:HGNC Symbol;Acc:HGNC:27960]	711	-0.7623409628868103	-0.13958837	Yes	
+row_57	MTTP	microsomal triglyceride transfer protein [Source:HGNC Symbol;Acc:HGNC:7467]	720	-0.8416233658790588	-0.12232423	Yes	
+row_58	SLC5A1	solute carrier family 5 member 1 [Source:HGNC Symbol;Acc:HGNC:11036]	738	-1.025381088256836	-0.111549936	Yes	
+row_59	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	747	-1.2770800590515137	-0.07949869	Yes	
+row_60	APOC3	apolipoprotein C3 [Source:HGNC Symbol;Acc:HGNC:610]	748	-1.315944790840149	-0.034812283	Yes	
+row_61	CLCA1	chloride channel accessory 1 [Source:HGNC Symbol;Acc:HGNC:2015]	757	-1.8165706396102905	0.015558802	Yes	

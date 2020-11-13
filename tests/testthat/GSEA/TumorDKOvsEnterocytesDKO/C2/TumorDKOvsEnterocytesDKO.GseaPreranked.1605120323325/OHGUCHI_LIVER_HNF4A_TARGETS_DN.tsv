@@ -1,0 +1,26 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CLDN2	claudin 2 [Source:HGNC Symbol;Acc:HGNC:2041]	93	0.9015116095542908	-0.029888846	No	
+row_1	SC5D	sterol-C5-desaturase [Source:HGNC Symbol;Acc:HGNC:10547]	712	-0.2593326270580292	-0.51300305	No	
+row_2	FAAH	fatty acid amide hydrolase [Source:HGNC Symbol;Acc:HGNC:3553]	716	-0.2604481875896454	-0.5024824	No	
+row_3	RDH16	retinol dehydrogenase 16 [Source:HGNC Symbol;Acc:HGNC:29674]	824	-0.30542370676994324	-0.5731963	No	
+row_4	NAT8	N-acetyltransferase 8 (putative) [Source:HGNC Symbol;Acc:HGNC:18069]	890	-0.3489544689655304	-0.6080415	No	
+row_5	S100A10	S100 calcium binding protein A10 [Source:HGNC Symbol;Acc:HGNC:10487]	905	-0.3578750193119049	-0.60151297	No	
+row_6	PLA2G12B	phospholipase A2 group XIIB [Source:HGNC Symbol;Acc:HGNC:18555]	940	-0.3953261077404022	-0.60917675	No	
+row_7	SMLR1	small leucine rich protein 1 [Source:HGNC Symbol;Acc:HGNC:44670]	977	-0.41390329599380493	-0.61752355	Yes	
+row_8	ERBB3	erb-b2 receptor tyrosine kinase 3 [Source:HGNC Symbol;Acc:HGNC:3431]	981	-0.4166356027126312	-0.59924996	Yes	
+row_9	PCYT2	phosphate cytidylyltransferase 2, ethanolamine [Source:HGNC Symbol;Acc:HGNC:8756]	1011	-0.4582902193069458	-0.59977543	Yes	
+row_10	SLC30A10	solute carrier family 30 member 10 [Source:HGNC Symbol;Acc:HGNC:25355]	1040	-0.49431514739990234	-0.5977101	Yes	
+row_11	TKFC	triokinase and FMN cyclase [Source:HGNC Symbol;Acc:HGNC:24552]	1060	-0.5187900066375732	-0.5872068	Yes	
+row_12	PDZK1	PDZ domain containing 1 [Source:HGNC Symbol;Acc:HGNC:8821]	1061	-0.5205377340316772	-0.56136787	Yes	
+row_13	ENPP3	ectonucleotide pyrophosphatase/phosphodiesterase 3 [Source:HGNC Symbol;Acc:HGNC:3358]	1065	-0.5227947235107422	-0.53782463	Yes	
+row_14	SOAT2	sterol O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:11178]	1080	-0.558765172958374	-0.52132416	Yes	
+row_15	CYP2D6	cytochrome P450 family 2 subfamily D member 6 [Source:HGNC Symbol;Acc:HGNC:2625]	1084	-0.5618195533752441	-0.49584377	Yes	
+row_16	CIDEB	cell death inducing DFFA like effector b [Source:HGNC Symbol;Acc:HGNC:1977]	1093	-0.5923337340354919	-0.47286156	Yes	
+row_17	GCHFR	GTP cyclohydrolase I feedback regulator [Source:HGNC Symbol;Acc:HGNC:4194]	1109	-0.632881760597229	-0.45348454	Yes	
+row_18	SLC3A1	solute carrier family 3 member 1 [Source:HGNC Symbol;Acc:HGNC:11025]	1154	-0.7723442316055298	-0.45045927	Yes	
+row_19	CYP4V2	cytochrome P450 family 4 subfamily V member 2 [Source:HGNC Symbol;Acc:HGNC:23198]	1196	-0.9478849768638611	-0.43631265	Yes	
+row_20	CES2	carboxylesterase 2 [Source:HGNC Symbol;Acc:HGNC:1864]	1207	-1.0198955535888672	-0.3937119	Yes	
+row_21	SULT1B1	sulfotransferase family 1B member 1 [Source:HGNC Symbol;Acc:HGNC:17845]	1214	-1.08074152469635	-0.34488055	Yes	
+row_22	MTTP	microsomal triglyceride transfer protein [Source:HGNC Symbol;Acc:HGNC:7467]	1256	-1.7194935083389282	-0.29243216	Yes	
+row_23	APOA4	apolipoprotein A4 [Source:HGNC Symbol;Acc:HGNC:602]	1262	-2.3588438034057617	-0.1793547	Yes	
+row_24	FABP2	fatty acid binding protein 2 [Source:HGNC Symbol;Acc:HGNC:3556]	1270	-3.7263708114624023	8.3004124E-8	Yes	

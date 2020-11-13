@@ -1,0 +1,33 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GSTA1	glutathione S-transferase alpha 1 [Source:HGNC Symbol;Acc:HGNC:4626]	3	0.7680385112762451	0.030285377	No	
+row_1	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	10	0.6586881875991821	0.04738027	No	
+row_2	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	11	0.6584210395812988	0.080005966	No	
+row_3	KRT19	keratin 19 [Source:HGNC Symbol;Acc:HGNC:6436]	15	0.6018701791763306	0.10205747	No	
+row_4	PLAC8	placenta associated 8 [Source:HGNC Symbol;Acc:HGNC:19254]	16	0.5947688817977905	0.13152911	No	
+row_5	GPX2	glutathione peroxidase 2 [Source:HGNC Symbol;Acc:HGNC:4554]	18	0.5820276141166687	0.15777873	No	
+row_6	IL33	interleukin 33 [Source:HGNC Symbol;Acc:HGNC:16028]	55	0.4194910228252411	0.085300855	No	
+row_7	CORO2A	coronin 2A [Source:HGNC Symbol;Acc:HGNC:2255]	89	0.36858949065208435	0.018072765	No	
+row_8	LY6H	lymphocyte antigen 6 family member H [Source:HGNC Symbol;Acc:HGNC:6728]	115	0.3388656973838806	-0.029902797	No	
+row_9	EIF2S3	eukaryotic translation initiation factor 2 subunit gamma [Source:HGNC Symbol;Acc:HGNC:3267]	117	0.33854469656944275	-0.0157181	No	
+row_10	MBOAT1	membrane bound O-acyltransferase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:21579]	123	0.3342765271663666	-0.012107592	No	
+row_11	KCNN4	potassium calcium-activated channel subfamily N member 4 [Source:HGNC Symbol;Acc:HGNC:6293]	125	0.3308022916316986	0.0016934564	No	
+row_12	TSPAN12	tetraspanin 12 [Source:HGNC Symbol;Acc:HGNC:21641]	138	0.32225286960601807	-0.0134265395	No	
+row_13	GCLC	glutamate-cysteine ligase catalytic subunit [Source:HGNC Symbol;Acc:HGNC:4311]	173	0.30015799403190613	-0.086636186	No	
+row_14	GSTA3	glutathione S-transferase alpha 3 [Source:HGNC Symbol;Acc:HGNC:4628]	189	0.28995591402053833	-0.11112856	No	
+row_15	PLSCR1	phospholipid scramblase 1 [Source:HGNC Symbol;Acc:HGNC:9092]	201	0.2854034900665283	-0.12548383	No	
+row_16	SPRR1A	small proline rich protein 1A [Source:HGNC Symbol;Acc:HGNC:11259]	216	0.2775038182735443	-0.14800254	No	
+row_17	EPCAM	epithelial cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:11529]	265	0.2603159546852112	-0.25945586	No	
+row_18	MANF	mesencephalic astrocyte derived neurotrophic factor [Source:HGNC Symbol;Acc:HGNC:15461]	292	-0.25422683358192444	-0.31421605	No	
+row_19	SERINC3	serine incorporator 3 [Source:HGNC Symbol;Acc:HGNC:11699]	300	-0.2638694941997528	-0.31927568	No	
+row_20	RNASE4	ribonuclease A family member 4 [Source:HGNC Symbol;Acc:HGNC:10047]	323	-0.2975098490715027	-0.36152846	No	
+row_21	KCTD12	potassium channel tetramerization domain containing 12 [Source:HGNC Symbol;Acc:HGNC:14678]	324	-0.29766416549682617	-0.34677875	No	
+row_22	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	328	-0.3010304570198059	-0.3396343	No	
+row_23	LRRC26	leucine rich repeat containing 26 [Source:HGNC Symbol;Acc:HGNC:31409]	330	-0.3051862418651581	-0.32710257	No	
+row_24	TSPAN13	tetraspanin 13 [Source:HGNC Symbol;Acc:HGNC:21643]	370	-0.44322407245635986	-0.40617645	Yes	
+row_25	RAMP1	receptor activity modifying protein 1 [Source:HGNC Symbol;Acc:HGNC:9843]	371	-0.4466107189655304	-0.38404626	Yes	
+row_26	RGS2	regulator of G protein signaling 2 [Source:HGNC Symbol;Acc:HGNC:9998]	373	-0.4509578347206116	-0.3642913	Yes	
+row_27	CD24	CD24 molecule [Source:HGNC Symbol;Acc:HGNC:1645]	387	-0.6521586179733276	-0.3656547	Yes	
+row_28	MMP7	matrix metallopeptidase 7 [Source:HGNC Symbol;Acc:HGNC:7174]	401	-1.3992948532104492	-0.3299964	Yes	
+row_29	CLCA1	chloride channel accessory 1 [Source:HGNC Symbol;Acc:HGNC:2015]	410	-2.245792865753174	-0.23943958	Yes	
+row_30	AGR2	anterior gradient 2, protein disulphide isomerase family member [Source:HGNC Symbol;Acc:HGNC:328]	411	-2.510745048522949	-0.11502859	Yes	
+row_31	SCT	secretin [Source:HGNC Symbol;Acc:HGNC:10607]	412	-2.582814931869507	0.01295355	Yes	

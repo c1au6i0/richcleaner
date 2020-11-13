@@ -1,0 +1,19 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	19	0.5771936774253845	-0.007833876	No	
+row_1	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	25	0.5315682888031006	0.016196765	No	
+row_2	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	42	0.4461413323879242	0.0068566613	No	
+row_3	PRDX1	peroxiredoxin 1 [Source:HGNC Symbol;Acc:HGNC:9352]	59	0.4066278338432312	-0.0051989052	No	
+row_4	NOP10	NOP10 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:14378]	87	0.3704751133918762	-0.047238972	No	
+row_5	PTGES3	prostaglandin E synthase 3 [Source:HGNC Symbol;Acc:HGNC:16049]	90	0.36784738302230835	-0.026959622	No	
+row_6	NHP2	NHP2 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:14377]	116	0.3385803699493408	-0.06619157	No	
+row_7	TFRC	transferrin receptor [Source:HGNC Symbol;Acc:HGNC:11763]	186	0.2916891276836395	-0.21864599	No	
+row_8	PROM1	prominin 1 [Source:HGNC Symbol;Acc:HGNC:9454]	196	0.2883591651916504	-0.22132927	No	
+row_9	HNRNPU	heterogeneous nuclear ribonucleoprotein U [Source:HGNC Symbol;Acc:HGNC:5048]	240	0.2677850127220154	-0.31042644	No	
+row_10	HIF1A	hypoxia inducible factor 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:4910]	244	0.2661416232585907	-0.29963654	No	
+row_11	HNRNPA1	heterogeneous nuclear ribonucleoprotein A1 [Source:HGNC Symbol;Acc:HGNC:5031]	261	0.2615104019641876	-0.32166493	No	
+row_12	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	305	-0.26824018359184265	-0.41073084	No	
+row_13	NEUROD1	neuronal differentiation 1 [Source:HGNC Symbol;Acc:HGNC:7762]	358	-0.4010186195373535	-0.51317185	Yes	
+row_14	PIGR	polymeric immunoglobulin receptor [Source:HGNC Symbol;Acc:HGNC:8968]	363	-0.4184744656085968	-0.49441332	Yes	
+row_15	LYZ	lysozyme [Source:HGNC Symbol;Acc:HGNC:6740]	407	-1.8362603187561035	-0.47572112	Yes	
+row_16	MUC2	mucin 2, oligomeric mucus/gel-forming [Source:HGNC Symbol;Acc:HGNC:7512]	414	-3.2947847843170166	-0.26429567	Yes	
+row_17	TFF3	trefoil factor 3 [Source:HGNC Symbol;Acc:HGNC:11757]	415	-3.9186036586761475	0.00500011	Yes	

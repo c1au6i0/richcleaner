@@ -1,0 +1,27 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AREG	amphiregulin [Source:HGNC Symbol;Acc:HGNC:651]	132	0.7549067735671997	-0.055230875	No	
+row_1	PMEPA1	prostate transmembrane protein, androgen induced 1 [Source:HGNC Symbol;Acc:HGNC:14107]	138	0.7413991093635559	-0.009362568	No	
+row_2	CD44	CD44 molecule (Indian blood group) [Source:HGNC Symbol;Acc:HGNC:1681]	144	0.730023205280304	0.035740323	No	
+row_3	CAPG	capping actin protein, gelsolin like [Source:HGNC Symbol;Acc:HGNC:1474]	175	0.6201288104057312	0.053368744	No	
+row_4	TPM4	tropomyosin 4 [Source:HGNC Symbol;Acc:HGNC:12013]	212	0.5529938340187073	0.061660774	No	
+row_5	LAMC2	laminin subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:6493]	233	0.5315284132957458	0.08135992	No	
+row_6	TPM1	tropomyosin 1 [Source:HGNC Symbol;Acc:HGNC:12010]	265	0.466879665851593	0.087873906	No	
+row_7	PLAUR	plasminogen activator, urokinase receptor [Source:HGNC Symbol;Acc:HGNC:9053]	267	0.46598249673843384	0.1184239	No	
+row_8	BASP1	brain abundant membrane attached signal protein 1 [Source:HGNC Symbol;Acc:HGNC:957]	277	0.4525924623012543	0.14164726	No	
+row_9	SDC1	syndecan 1 [Source:HGNC Symbol;Acc:HGNC:10658]	387	0.37059035897254944	0.0790319	No	
+row_10	ITGB1	integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	409	0.356621652841568	0.0861594	No	
+row_11	THBS1	thrombospondin 1 [Source:HGNC Symbol;Acc:HGNC:11785]	474	0.32270166277885437	0.056466464	No	
+row_12	IGFBP4	insulin like growth factor binding protein 4 [Source:HGNC Symbol;Acc:HGNC:5473]	512	0.3048292398452759	0.04725775	No	
+row_13	SDC4	syndecan 4 [Source:HGNC Symbol;Acc:HGNC:10661]	538	0.29445430636405945	0.04698952	No	
+row_14	ITGA2	integrin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6137]	539	0.2941422164440155	0.06678061	No	
+row_15	TNFRSF12A	TNF receptor superfamily member 12A [Source:HGNC Symbol;Acc:HGNC:18152]	620	0.26589512825012207	0.020414101	No	
+row_16	SAT1	spermidine/spermine N1-acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10540]	626	0.2651323676109314	0.03423723	No	
+row_17	FLNA	filamin A [Source:HGNC Symbol;Acc:HGNC:3754]	637	0.2617831230163574	0.043818943	No	
+row_18	RHOB	ras homolog family member B [Source:HGNC Symbol;Acc:HGNC:668]	766	-0.2765064537525177	-0.040387817	No	
+row_19	APLP1	amyloid beta precursor like protein 1 [Source:HGNC Symbol;Acc:HGNC:597]	858	-0.33344656229019165	-0.09104454	No	
+row_20	PMP22	peripheral myelin protein 22 [Source:HGNC Symbol;Acc:HGNC:9118]	899	-0.35498809814453125	-0.099287994	No	
+row_21	TGFBI	transforming growth factor beta induced [Source:HGNC Symbol;Acc:HGNC:11771]	1044	-0.49811291694641113	-0.18143557	No	
+row_22	VEGFA	vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	1053	-0.5100680589675903	-0.1535418	No	
+row_23	JUN	Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]	1186	-0.8940507769584656	-0.1994105	Yes	
+row_24	SLC6A8	solute carrier family 6 member 8 [Source:HGNC Symbol;Acc:HGNC:11055]	1231	-1.2646304368972778	-0.14966235	Yes	
+row_25	ANPEP	alanyl aminopeptidase, membrane [Source:HGNC Symbol;Acc:HGNC:500]	1265	-2.6779656410217285	0.004016146	Yes	

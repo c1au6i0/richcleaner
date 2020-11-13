@@ -1,0 +1,30 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SOX9	SRY-box transcription factor 9 [Source:HGNC Symbol;Acc:HGNC:11204]	229	0.53575599193573	-0.16787235	No	
+row_1	KCNN4	potassium calcium-activated channel subfamily N member 4 [Source:HGNC Symbol;Acc:HGNC:6293]	257	0.47693338990211487	-0.17491625	No	
+row_2	AKR1B10	aldo-keto reductase family 1 member B10 [Source:HGNC Symbol;Acc:HGNC:382]	269	0.4620147943496704	-0.16953737	No	
+row_3	VSIG1	V-set and immunoglobulin domain containing 1 [Source:HGNC Symbol;Acc:HGNC:28675]	673	0.2542365491390228	-0.48618048	No	
+row_4	PPARGC1A	PPARG coactivator 1 alpha [Source:HGNC Symbol;Acc:HGNC:9237]	709	-0.2587960958480835	-0.5063868	No	
+row_5	ABCG8	ATP binding cassette subfamily G member 8 [Source:HGNC Symbol;Acc:HGNC:13887]	923	-0.37783724069595337	-0.66624254	No	
+row_6	AQP1	aquaporin 1 (Colton blood group) [Source:HGNC Symbol;Acc:HGNC:633]	945	-0.3964509665966034	-0.67093533	No	
+row_7	VDR	vitamin D receptor [Source:HGNC Symbol;Acc:HGNC:12679]	1026	-0.4747384488582611	-0.72071993	No	
+row_8	SLC26A6	solute carrier family 26 member 6 [Source:HGNC Symbol;Acc:HGNC:14472]	1066	-0.522800862789154	-0.7360124	Yes	
+row_9	ABCG5	ATP binding cassette subfamily G member 5 [Source:HGNC Symbol;Acc:HGNC:13886]	1074	-0.5454912185668945	-0.7248409	Yes	
+row_10	SOAT2	sterol O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:11178]	1080	-0.558765172958374	-0.71165	Yes	
+row_11	MOGAT2	monoacylglycerol O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:23248]	1103	-0.6136521697044373	-0.71045554	Yes	
+row_12	EZR	ezrin [Source:HGNC Symbol;Acc:HGNC:12691]	1133	-0.7120858430862427	-0.71186423	Yes	
+row_13	MEP1A	meprin A subunit alpha [Source:HGNC Symbol;Acc:HGNC:7015]	1135	-0.7174587249755859	-0.6905631	Yes	
+row_14	MUC13	mucin 13, cell surface associated [Source:HGNC Symbol;Acc:HGNC:7511]	1184	-0.8704946041107178	-0.7023888	Yes	
+row_15	ACE	angiotensin I converting enzyme [Source:HGNC Symbol;Acc:HGNC:2707]	1202	-0.9814121127128601	-0.6858372	Yes	
+row_16	NPC1L1	NPC1 like intracellular cholesterol transporter 1 [Source:HGNC Symbol;Acc:HGNC:7898]	1205	-1.001619577407837	-0.6565857	Yes	
+row_17	VIL1	villin 1 [Source:HGNC Symbol;Acc:HGNC:12690]	1215	-1.0814448595046997	-0.6305107	Yes	
+row_18	MEP1B	meprin A subunit beta [Source:HGNC Symbol;Acc:HGNC:7020]	1228	-1.2365025281906128	-0.6020735	Yes	
+row_19	PLS1	plastin 1 [Source:HGNC Symbol;Acc:HGNC:9090]	1237	-1.337673306465149	-0.5672984	Yes	
+row_20	MGAM	maltase-glucoamylase [Source:HGNC Symbol;Acc:HGNC:7043]	1241	-1.4259612560272217	-0.5257772	Yes	
+row_21	ACE2	angiotensin I converting enzyme 2 [Source:HGNC Symbol;Acc:HGNC:13557]	1249	-1.6108580827713013	-0.48177966	Yes	
+row_22	SLC15A1	solute carrier family 15 member 1 [Source:HGNC Symbol;Acc:HGNC:10920]	1254	-1.7016215324401855	-0.43257	Yes	
+row_23	ENPEP	glutamyl aminopeptidase [Source:HGNC Symbol;Acc:HGNC:3355]	1258	-1.8677152395248413	-0.37743756	Yes	
+row_24	FABP1	fatty acid binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3555]	1259	-1.9348732233047485	-0.3178204	Yes	
+row_25	SLC5A1	solute carrier family 5 member 1 [Source:HGNC Symbol;Acc:HGNC:11036]	1260	-2.1824960708618164	-0.25057346	Yes	
+row_26	SI	sucrase-isomaltase [Source:HGNC Symbol;Acc:HGNC:10856]	1261	-2.2300522327423096	-0.18186125	Yes	
+row_27	APOA4	apolipoprotein A4 [Source:HGNC Symbol;Acc:HGNC:602]	1262	-2.3588438034057617	-0.10918071	Yes	
+row_28	FABP2	fatty acid binding protein 2 [Source:HGNC Symbol;Acc:HGNC:3556]	1270	-3.7263708114624023	-1.0186341E-7	Yes	

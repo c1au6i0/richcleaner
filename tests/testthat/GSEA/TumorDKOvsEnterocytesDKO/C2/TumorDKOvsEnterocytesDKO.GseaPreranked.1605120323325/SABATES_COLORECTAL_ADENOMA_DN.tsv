@@ -1,0 +1,38 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LGALS2	galectin 2 [Source:HGNC Symbol;Acc:HGNC:6562]	25	1.2530702352523804	0.014149366	No	
+row_1	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	44	1.1072791814804077	0.029967992	No	
+row_2	LYPD8	LY6/PLAUR domain containing 8 [Source:HGNC Symbol;Acc:HGNC:44208]	248	0.49391964077949524	-0.12097489	No	
+row_3	SLC9A3	solute carrier family 9 member A3 [Source:HGNC Symbol;Acc:HGNC:11073]	796	-0.29210180044174194	-0.5562278	No	
+row_4	ADH1B	alcohol dehydrogenase 1B (class I), beta polypeptide [Source:HGNC Symbol;Acc:HGNC:250]	828	-0.3087038993835449	-0.5728725	No	
+row_5	PHLPP2	PH domain and leucine rich repeat protein phosphatase 2 [Source:HGNC Symbol;Acc:HGNC:29149]	834	-0.3120347559452057	-0.56835604	No	
+row_6	PTPRR	protein tyrosine phosphatase receptor type R [Source:HGNC Symbol;Acc:HGNC:9680]	852	-0.3248494267463684	-0.5732122	No	
+row_7	GDPD2	glycerophosphodiester phosphodiesterase domain containing 2 [Source:HGNC Symbol;Acc:HGNC:25974]	909	-0.36140257120132446	-0.60866916	No	
+row_8	PLA2G12B	phospholipase A2 group XIIB [Source:HGNC Symbol;Acc:HGNC:18555]	940	-0.3953261077404022	-0.62212485	No	
+row_9	XPNPEP2	X-prolyl aminopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:12823]	1037	-0.4912010133266449	-0.68643254	Yes	
+row_10	ABCG2	ATP binding cassette subfamily G member 2 (Junior blood group) [Source:HGNC Symbol;Acc:HGNC:74]	1042	-0.49532684683799744	-0.6760726	Yes	
+row_11	DHRS11	dehydrogenase/reductase 11 [Source:HGNC Symbol;Acc:HGNC:28639]	1048	-0.5028699636459351	-0.66631585	Yes	
+row_12	PDZK1	PDZ domain containing 1 [Source:HGNC Symbol;Acc:HGNC:8821]	1061	-0.5205377340316772	-0.6617466	Yes	
+row_13	DUSP1	dual specificity phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:3064]	1072	-0.5357057452201843	-0.65514016	Yes	
+row_14	SLC26A2	solute carrier family 26 member 2 [Source:HGNC Symbol;Acc:HGNC:10994]	1088	-0.5756403207778931	-0.65148896	Yes	
+row_15	CDA	cytidine deaminase [Source:HGNC Symbol;Acc:HGNC:1712]	1094	-0.5947034955024719	-0.6392106	Yes	
+row_16	TM6SF2	transmembrane 6 superfamily member 2 [Source:HGNC Symbol;Acc:HGNC:11861]	1112	-0.6554542779922485	-0.6349884	Yes	
+row_17	ZG16	zymogen granule protein 16 [Source:HGNC Symbol;Acc:HGNC:30961]	1116	-0.665442705154419	-0.6191468	Yes	
+row_18	CLCA4	chloride channel accessory 4 [Source:HGNC Symbol;Acc:HGNC:2018]	1130	-0.6973125338554382	-0.61053383	Yes	
+row_19	PCK1	phosphoenolpyruvate carboxykinase 1 [Source:HGNC Symbol;Acc:HGNC:8724]	1151	-0.7642478346824646	-0.60575545	Yes	
+row_20	SECTM1	secreted and transmembrane 1 [Source:HGNC Symbol;Acc:HGNC:10707]	1163	-0.7987720370292664	-0.59273565	Yes	
+row_21	EPB41L3	erythrocyte membrane protein band 4.1 like 3 [Source:HGNC Symbol;Acc:HGNC:3380]	1171	-0.8147391080856323	-0.5760359	Yes	
+row_22	ALPI	alkaline phosphatase, intestinal [Source:HGNC Symbol;Acc:HGNC:437]	1188	-0.9020824432373047	-0.56423116	Yes	
+row_23	ASPA	aspartoacylase [Source:HGNC Symbol;Acc:HGNC:756]	1189	-0.9151434898376465	-0.5391018	Yes	
+row_24	CES2	carboxylesterase 2 [Source:HGNC Symbol;Acc:HGNC:1864]	1207	-1.0198955535888672	-0.5248723	Yes	
+row_25	CDHR5	cadherin related family member 5 [Source:HGNC Symbol;Acc:HGNC:7521]	1209	-1.0369160175323486	-0.49720946	Yes	
+row_26	MEP1B	meprin A subunit beta [Source:HGNC Symbol;Acc:HGNC:7020]	1228	-1.2365025281906128	-0.47784242	Yes	
+row_27	SLC51B	solute carrier family 51 subunit beta [Source:HGNC Symbol;Acc:HGNC:29956]	1232	-1.2831902503967285	-0.44503778	Yes	
+row_28	NAALADL1	N-acetylated alpha-linked acidic dipeptidase like 1 [Source:HGNC Symbol;Acc:HGNC:23536]	1242	-1.4260996580123901	-0.41317114	Yes	
+row_29	SLC51A	solute carrier family 51 subunit alpha [Source:HGNC Symbol;Acc:HGNC:29955]	1246	-1.5922664403915405	-0.37187943	Yes	
+row_30	SLC6A19	solute carrier family 6 member 19 [Source:HGNC Symbol;Acc:HGNC:27960]	1247	-1.6037949323654175	-0.32784	Yes	
+row_31	GUCA2A	guanylate cyclase activator 2A [Source:HGNC Symbol;Acc:HGNC:4682]	1250	-1.6156039237976074	-0.2850971	Yes	
+row_32	CYP3A4	cytochrome P450 family 3 subfamily A member 4 [Source:HGNC Symbol;Acc:HGNC:2637]	1251	-1.619191288948059	-0.24063489	Yes	
+row_33	SLC15A1	solute carrier family 15 member 1 [Source:HGNC Symbol;Acc:HGNC:10920]	1254	-1.7016215324401855	-0.19552995	Yes	
+row_34	SI	sucrase-isomaltase [Source:HGNC Symbol;Acc:HGNC:10856]	1261	-2.2300522327423096	-0.13915607	Yes	
+row_35	GUCA2B	guanylate cyclase activator 2B [Source:HGNC Symbol;Acc:HGNC:4683]	1264	-2.5962986946105957	-0.06948375	Yes	
+row_36	ANPEP	alanyl aminopeptidase, membrane [Source:HGNC Symbol;Acc:HGNC:500]	1265	-2.6779656410217285	0.0040518525	Yes	

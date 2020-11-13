@@ -1,0 +1,26 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANXA2	annexin A2 [Source:HGNC Symbol;Acc:HGNC:537]	6	0.6924484968185425	0.033748623	No	
+row_1	SAT1	spermidine/spermine N1-acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10540]	40	0.45204922556877136	-0.018221997	No	
+row_2	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	42	0.4461413323879242	0.010814123	No	
+row_3	HNRNPA3	heterogeneous nuclear ribonucleoprotein A3 [Source:HGNC Symbol;Acc:HGNC:24941]	80	0.3783285617828369	-0.056553017	No	
+row_4	TMSB10	thymosin beta 10 [Source:HGNC Symbol;Acc:HGNC:11879]	88	0.3689432144165039	-0.048248634	No	
+row_5	RPS29	ribosomal protein S29 [Source:HGNC Symbol;Acc:HGNC:10419]	111	0.3452698588371277	-0.07978794	No	
+row_6	SERPINB1	serpin family B member 1 [Source:HGNC Symbol;Acc:HGNC:3311]	129	0.32822203636169434	-0.099811345	No	
+row_7	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	149	0.31485334038734436	-0.12587012	No	
+row_8	CD44	CD44 molecule (Indian blood group) [Source:HGNC Symbol;Acc:HGNC:1681]	164	0.3060827851295471	-0.1398271	No	
+row_9	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	194	0.2889412045478821	-0.1931654	No	
+row_10	RPL22	ribosomal protein L22 [Source:HGNC Symbol;Acc:HGNC:10315]	199	0.2871820330619812	-0.18301499	No	
+row_11	MPZL2	myelin protein zero like 2 [Source:HGNC Symbol;Acc:HGNC:3496]	202	0.28531014919281006	-0.16790803	No	
+row_12	LAMC2	laminin subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:6493]	203	0.284866064786911	-0.14774345	No	
+row_13	KLF6	Kruppel like factor 6 [Source:HGNC Symbol;Acc:HGNC:2235]	214	0.2778095006942749	-0.15352365	No	
+row_14	SPRR1A	small proline rich protein 1A [Source:HGNC Symbol;Acc:HGNC:11259]	216	0.2775038182735443	-0.13642475	No	
+row_15	MALL	mal, T cell differentiation protein like [Source:HGNC Symbol;Acc:HGNC:6818]	221	0.2745453119277954	-0.12716885	No	
+row_16	C15orf48	chromosome 15 open reading frame 48 [Source:HGNC Symbol;Acc:HGNC:29898]	225	0.27344846725463867	-0.11544605	No	
+row_17	TOMM20	translocase of outer mitochondrial membrane 20 [Source:HGNC Symbol;Acc:HGNC:20947]	267	0.2590065896511078	-0.20143767	No	
+row_18	RAB27B	RAB27B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9767]	296	-0.25578588247299194	-0.25457838	No	
+row_19	CD74	CD74 molecule [Source:HGNC Symbol;Acc:HGNC:1697]	341	-0.34466663002967834	-0.34214002	No	
+row_20	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	348	-0.36987370252609253	-0.33122525	No	
+row_21	SPINK1	serine peptidase inhibitor Kazal type 1 [Source:HGNC Symbol;Acc:HGNC:11244]	395	-0.9275135397911072	-0.38261843	Yes	
+row_22	MMP7	matrix metallopeptidase 7 [Source:HGNC Symbol;Acc:HGNC:7174]	401	-1.3992948532104492	-0.2962903	Yes	
+row_23	REG4	regenerating family member 4 [Source:HGNC Symbol;Acc:HGNC:22977]	403	-1.4251763820648193	-0.19795202	Yes	
+row_24	FCGBP	Fc fragment of IgG binding protein [Source:HGNC Symbol;Acc:HGNC:13572]	413	-3.2637853622436523	0.010178175	Yes	

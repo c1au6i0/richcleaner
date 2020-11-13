@@ -1,0 +1,37 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FLNB	filamin B [Source:HGNC Symbol;Acc:HGNC:3755]	23	0.7915253639221191	0.026702011	Yes	
+row_1	F3	coagulation factor III, tissue factor [Source:HGNC Symbol;Acc:HGNC:3541]	29	0.7270906567573547	0.0732326	Yes	
+row_2	HIF1A	hypoxia inducible factor 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:4910]	47	0.595140814781189	0.09371	Yes	
+row_3	FAT1	FAT atypical cadherin 1 [Source:HGNC Symbol;Acc:HGNC:3595]	85	0.49035942554473877	0.07921371	Yes	
+row_4	APP	amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620]	97	0.4662449061870575	0.09841863	Yes	
+row_5	ITGA6	integrin subunit alpha 6 [Source:HGNC Symbol;Acc:HGNC:6142]	106	0.454662024974823	0.120866396	Yes	
+row_6	PLAUR	plasminogen activator, urokinase receptor [Source:HGNC Symbol;Acc:HGNC:9053]	121	0.44230976700782776	0.13422225	Yes	
+row_7	AZIN1	antizyme inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:16432]	127	0.4354260265827179	0.15935132	Yes	
+row_8	PLSCR1	phospholipid scramblase 1 [Source:HGNC Symbol;Acc:HGNC:9092]	134	0.4204649329185486	0.18201831	Yes	
+row_9	BHLHE40	basic helix-loop-helix family member e40 [Source:HGNC Symbol;Acc:HGNC:1046]	155	0.39408618211746216	0.18365012	Yes	
+row_10	ACSL3	acyl-CoA synthetase long chain family member 3 [Source:HGNC Symbol;Acc:HGNC:3570]	165	0.37829911708831787	0.19913034	Yes	
+row_11	IFRD1	interferon related developmental regulator 1 [Source:HGNC Symbol;Acc:HGNC:5456]	168	0.3726617097854614	0.22374669	Yes	
+row_12	SLC25A24	solute carrier family 25 member 24 [Source:HGNC Symbol;Acc:HGNC:20662]	170	0.36964720487594604	0.24950612	Yes	
+row_13	ZFP36L2	ZFP36 ring finger protein like 2 [Source:HGNC Symbol;Acc:HGNC:1108]	172	0.367814302444458	0.27513105	Yes	
+row_14	CSNK1A1	casein kinase 1 alpha 1 [Source:HGNC Symbol;Acc:HGNC:2451]	185	0.352750688791275	0.28464383	Yes	
+row_15	ROCK2	Rho associated coiled-coil containing protein kinase 2 [Source:HGNC Symbol;Acc:HGNC:10252]	192	0.34392938017845154	0.30169484	Yes	
+row_16	KLF6	Kruppel like factor 6 [Source:HGNC Symbol;Acc:HGNC:2235]	196	0.34194743633270264	0.32269323	Yes	
+row_17	RBMS1	RNA binding motif single stranded interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:9907]	198	0.34154418110847473	0.34639052	Yes	
+row_18	MECOM	MDS1 and EVI1 complex locus [Source:HGNC Symbol;Acc:HGNC:3498]	209	0.33449044823646545	0.35729194	Yes	
+row_19	ALCAM	activated leukocyte cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:400]	217	0.328165739774704	0.371822	Yes	
+row_20	RRAS2	RAS related 2 [Source:HGNC Symbol;Acc:HGNC:17271]	235	0.31309986114501953	0.37160403	Yes	
+row_21	IBTK	inhibitor of Bruton tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:17853]	244	0.30712127685546875	0.38322568	Yes	
+row_22	SOX9	SRY-box transcription factor 9 [Source:HGNC Symbol;Acc:HGNC:11204]	278	0.280718058347702	0.3588035	Yes	
+row_23	SLK	STE20 like kinase [Source:HGNC Symbol;Acc:HGNC:11088]	279	0.2805902063846588	0.37939245	Yes	
+row_24	MYOF	myoferlin [Source:HGNC Symbol;Acc:HGNC:3656]	284	0.27656590938568115	0.39422905	Yes	
+row_25	SLC4A7	solute carrier family 4 member 7 [Source:HGNC Symbol;Acc:HGNC:11033]	287	0.27528509497642517	0.4117002	Yes	
+row_26	ADAM10	ADAM metallopeptidase domain 10 [Source:HGNC Symbol;Acc:HGNC:188]	293	0.270868718624115	0.4247545	Yes	
+row_27	TJP2	tight junction protein 2 [Source:HGNC Symbol;Acc:HGNC:11828]	295	0.2702713906764984	0.443222	Yes	
+row_28	ATP8B1	ATPase phospholipid transporting 8B1 [Source:HGNC Symbol;Acc:HGNC:3706]	306	0.26462262868881226	0.4489967	Yes	
+row_29	TGFBR2	transforming growth factor beta receptor 2 [Source:HGNC Symbol;Acc:HGNC:11773]	307	0.2639567255973816	0.4683651	Yes	
+row_30	IER3	immediate early response 3 [Source:HGNC Symbol;Acc:HGNC:5392]	318	0.25861456990242004	0.47369894	Yes	
+row_31	TCF7L2	transcription factor 7 like 2 [Source:HGNC Symbol;Acc:HGNC:11641]	321	0.25733882188796997	0.48985323	Yes	
+row_32	TRIP12	thyroid hormone receptor interactor 12 [Source:HGNC Symbol;Acc:HGNC:12306]	334	0.2537916600704193	0.49210465	Yes	
+row_33	ID3	inhibitor of DNA binding 3, HLH protein [Source:HGNC Symbol;Acc:HGNC:5362]	422	-0.28433284163475037	0.3942779	No	
+row_34	JUN	Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]	630	-0.47617611289024353	0.14681727	No	
+row_35	ME2	malic enzyme 2 [Source:HGNC Symbol;Acc:HGNC:6984]	663	-0.54630047082901	0.14324705	No	

@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PLSCR1	phospholipid scramblase 1 [Source:HGNC Symbol;Acc:HGNC:9092]	40	0.6218824982643127	0.020751815	No	
+row_1	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	74	0.467189222574234	0.03331597	No	
+row_2	LGMN	legumain [Source:HGNC Symbol;Acc:HGNC:9472]	98	0.4245831072330475	0.051904075	No	
+row_3	CTSD	cathepsin D [Source:HGNC Symbol;Acc:HGNC:2529]	177	0.3078806698322296	0.002488769	No	
+row_4	GNAI3	G protein subunit alpha i3 [Source:HGNC Symbol;Acc:HGNC:4387]	226	0.2656763792037964	-0.020349856	No	
+row_5	LGALS3	galectin 3 [Source:HGNC Symbol;Acc:HGNC:6563]	302	-0.2634928822517395	-0.071097694	No	
+row_6	LAMP2	lysosomal associated membrane protein 2 [Source:HGNC Symbol;Acc:HGNC:6501]	305	-0.26486122608184814	-0.046837814	No	
+row_7	CEBPB	CCAAT enhancer binding protein beta [Source:HGNC Symbol;Acc:HGNC:1834]	306	-0.2650432586669922	-0.020508567	No	
+row_8	LTA4H	leukotriene A4 hydrolase [Source:HGNC Symbol;Acc:HGNC:6710]	400	-0.2899552583694458	-0.08708919	No	
+row_9	HSPA5	heat shock protein family A (Hsp70) member 5 [Source:HGNC Symbol;Acc:HGNC:5238]	439	-0.3030836582183838	-0.09595539	No	
+row_10	ME1	malic enzyme 1 [Source:HGNC Symbol;Acc:HGNC:6983]	460	-0.31156548857688904	-0.085517466	No	
+row_11	CASP7	caspase 7 [Source:HGNC Symbol;Acc:HGNC:1508]	589	-0.3806972801685333	-0.17898126	Yes	
+row_12	XPNPEP1	X-prolyl aminopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:12822]	598	-0.3870164453983307	-0.1487404	Yes	
+row_13	GPD2	glycerol-3-phosphate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:4456]	633	-0.40345069766044617	-0.14353362	Yes	
+row_14	CD36	CD36 molecule [Source:HGNC Symbol;Acc:HGNC:1663]	678	-0.43444788455963135	-0.14550401	Yes	
+row_15	LAP3	leucine aminopeptidase 3 [Source:HGNC Symbol;Acc:HGNC:18449]	724	-0.46815618872642517	-0.1451515	Yes	
+row_16	DPP4	dipeptidyl peptidase 4 [Source:HGNC Symbol;Acc:HGNC:3009]	767	-0.5095711350440979	-0.1376079	Yes	
+row_17	CD55	CD55 molecule (Cromer blood group) [Source:HGNC Symbol;Acc:HGNC:2665]	814	-0.5599076747894287	-0.12916647	Yes	
+row_18	PSMB9	proteasome 20S subunit beta 9 [Source:HGNC Symbol;Acc:HGNC:9546]	872	-0.6515887379646301	-0.122899555	Yes	
+row_19	CASP1	caspase 1 [Source:HGNC Symbol;Acc:HGNC:1499]	886	-0.673431932926178	-0.069334544	Yes	
+row_20	CASP3	caspase 3 [Source:HGNC Symbol;Acc:HGNC:1504]	931	-0.7807434797286987	-0.036904134	Yes	
+row_21	CDA	cytidine deaminase [Source:HGNC Symbol;Acc:HGNC:1712]	972	-1.0322715044021606	0.024615495	Yes	

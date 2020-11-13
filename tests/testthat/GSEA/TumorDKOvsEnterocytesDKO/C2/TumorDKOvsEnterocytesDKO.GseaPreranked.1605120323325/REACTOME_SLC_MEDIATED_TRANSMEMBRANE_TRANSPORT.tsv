@@ -1,0 +1,42 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC12A2	solute carrier family 12 member 2 [Source:HGNC Symbol;Acc:HGNC:10911]	118	0.8279896974563599	-0.062162723	No	
+row_1	SRI	sorcin [Source:HGNC Symbol;Acc:HGNC:11292]	564	0.28465917706489563	-0.41234058	No	
+row_2	SLC35C1	solute carrier family 35 member C1 [Source:HGNC Symbol;Acc:HGNC:20197]	580	0.27882277965545654	-0.41316304	No	
+row_3	SLC2A1	solute carrier family 2 member 1 [Source:HGNC Symbol;Acc:HGNC:11005]	617	0.2663023769855499	-0.4315693	No	
+row_4	SLC4A7	solute carrier family 4 member 7 [Source:HGNC Symbol;Acc:HGNC:11033]	671	0.25454920530319214	-0.46427613	No	
+row_5	SLC7A11	solute carrier family 7 member 11 [Source:HGNC Symbol;Acc:HGNC:11059]	685	0.25016888976097107	-0.4646413	No	
+row_6	SLC9A2	solute carrier family 9 member A2 [Source:HGNC Symbol;Acc:HGNC:11072]	695	-0.2539786398410797	-0.46159902	No	
+row_7	SLC5A12	solute carrier family 5 member 12 [Source:HGNC Symbol;Acc:HGNC:28750]	781	-0.28620749711990356	-0.5190308	No	
+row_8	SLC9A3	solute carrier family 9 member A3 [Source:HGNC Symbol;Acc:HGNC:11073]	796	-0.29210180044174194	-0.5184986	No	
+row_9	SLC36A1	solute carrier family 36 member 1 [Source:HGNC Symbol;Acc:HGNC:18761]	807	-0.297624409198761	-0.5144891	No	
+row_10	SLC3A2	solute carrier family 3 member 2 [Source:HGNC Symbol;Acc:HGNC:11026]	817	-0.30202171206474304	-0.5094873	No	
+row_11	SLC39A14	solute carrier family 39 member 14 [Source:HGNC Symbol;Acc:HGNC:20858]	842	-0.317686527967453	-0.5160416	No	
+row_12	SLC44A4	solute carrier family 44 member 4 [Source:HGNC Symbol;Acc:HGNC:13941]	864	-0.33511897921562195	-0.51944584	No	
+row_13	SLC16A10	solute carrier family 16 member 10 [Source:HGNC Symbol;Acc:HGNC:17027]	870	-0.33632001280784607	-0.509793	No	
+row_14	SLC39A5	solute carrier family 39 member 5 [Source:HGNC Symbol;Acc:HGNC:20502]	881	-0.3440510332584381	-0.50388986	No	
+row_15	SLCO2A1	solute carrier organic anion transporter family member 2A1 [Source:HGNC Symbol;Acc:HGNC:10955]	924	-0.3782690763473511	-0.52260727	Yes	
+row_16	SLC13A1	solute carrier family 13 member 1 [Source:HGNC Symbol;Acc:HGNC:10916]	933	-0.3910368084907532	-0.5131616	Yes	
+row_17	SLC7A8	solute carrier family 7 member 8 [Source:HGNC Symbol;Acc:HGNC:11066]	939	-0.3947394788265228	-0.50112593	Yes	
+row_18	SLC6A20	solute carrier family 6 member 20 [Source:HGNC Symbol;Acc:HGNC:30927]	972	-0.41085267066955566	-0.51038426	Yes	
+row_19	HEPH	hephaestin [Source:HGNC Symbol;Acc:HGNC:4866]	988	-0.42583513259887695	-0.5052103	Yes	
+row_20	SLC26A3	solute carrier family 26 member 3 [Source:HGNC Symbol;Acc:HGNC:3018]	994	-0.4330110251903534	-0.4916136	Yes	
+row_21	SLC7A7	solute carrier family 7 member 7 [Source:HGNC Symbol;Acc:HGNC:11065]	1035	-0.48568329215049744	-0.5043237	Yes	
+row_22	SLC30A10	solute carrier family 30 member 10 [Source:HGNC Symbol;Acc:HGNC:25355]	1040	-0.49431514739990234	-0.48741353	Yes	
+row_23	SLC28A2	solute carrier family 28 member 2 [Source:HGNC Symbol;Acc:HGNC:11002]	1046	-0.4984593689441681	-0.4711473	Yes	
+row_24	SLC26A6	solute carrier family 26 member 6 [Source:HGNC Symbol;Acc:HGNC:14472]	1066	-0.522800862789154	-0.46527034	Yes	
+row_25	SLC31A1	solute carrier family 31 member 1 [Source:HGNC Symbol;Acc:HGNC:11016]	1076	-0.5465545654296875	-0.4502944	Yes	
+row_26	SLC7A9	solute carrier family 7 member 9 [Source:HGNC Symbol;Acc:HGNC:11067]	1083	-0.5615503191947937	-0.4322678	Yes	
+row_27	SLC26A2	solute carrier family 26 member 2 [Source:HGNC Symbol;Acc:HGNC:10994]	1088	-0.5756403207778931	-0.4120405	Yes	
+row_28	SLC25A5	solute carrier family 25 member 5 [Source:HGNC Symbol;Acc:HGNC:10991]	1091	-0.5855600833892822	-0.38978255	Yes	
+row_29	SLC25A22	solute carrier family 25 member 22 [Source:HGNC Symbol;Acc:HGNC:19954]	1099	-0.6028616428375244	-0.37088394	Yes	
+row_30	SLC2A2	solute carrier family 2 member 2 [Source:HGNC Symbol;Acc:HGNC:11006]	1126	-0.6852066516876221	-0.3640738	Yes	
+row_31	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	1132	-0.7100363969802856	-0.3391777	Yes	
+row_32	SLC34A2	solute carrier family 34 member 2 [Source:HGNC Symbol;Acc:HGNC:11020]	1149	-0.7590911984443665	-0.32122386	Yes	
+row_33	SLC3A1	solute carrier family 3 member 1 [Source:HGNC Symbol;Acc:HGNC:11025]	1154	-0.7723442316055298	-0.29297334	Yes	
+row_34	SLC5A8	solute carrier family 5 member 8 [Source:HGNC Symbol;Acc:HGNC:19119]	1155	-0.7724592089653015	-0.2614661	Yes	
+row_35	SLC27A4	solute carrier family 27 member 4 [Source:HGNC Symbol;Acc:HGNC:10998]	1198	-0.9556950330734253	-0.2566313	Yes	
+row_36	SLC43A2	solute carrier family 43 member 2 [Source:HGNC Symbol;Acc:HGNC:23087]	1204	-0.9986978769302368	-0.21996124	Yes	
+row_37	SLC13A2	solute carrier family 13 member 2 [Source:HGNC Symbol;Acc:HGNC:10917]	1220	-1.1406625509262085	-0.18563075	Yes	
+row_38	SLC6A19	solute carrier family 6 member 19 [Source:HGNC Symbol;Acc:HGNC:27960]	1247	-1.6037949323654175	-0.14135301	Yes	
+row_39	SLC15A1	solute carrier family 15 member 1 [Source:HGNC Symbol;Acc:HGNC:10920]	1254	-1.7016215324401855	-0.076824926	Yes	
+row_40	SLC5A1	solute carrier family 5 member 1 [Source:HGNC Symbol;Acc:HGNC:11036]	1260	-2.1824960708618164	0.008130186	Yes	

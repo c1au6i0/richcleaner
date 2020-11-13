@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	10	0.6586881875991821	0.04464191	No	
+row_1	DMBT1	deleted in malignant brain tumors 1 [Source:HGNC Symbol;Acc:HGNC:2926]	12	0.6378223299980164	0.109416105	No	
+row_2	WFDC2	WAP four-disulfide core domain 2 [Source:HGNC Symbol;Acc:HGNC:15939]	97	0.35807281732559204	-0.061263397	No	
+row_3	REG3A	regenerating family member 3 alpha [Source:HGNC Symbol;Acc:HGNC:8601]	124	0.3323754370212555	-0.090731986	No	
+row_4	RPL39	ribosomal protein L39 [Source:HGNC Symbol;Acc:HGNC:10350]	175	0.2993217408657074	-0.18323928	No	
+row_5	RPS19	ribosomal protein S19 [Source:HGNC Symbol;Acc:HGNC:10402]	217	0.27697494626045227	-0.25577044	No	
+row_6	GAPDH	glyceraldehyde-3-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4141]	234	0.2711993455886841	-0.2668759	No	
+row_7	REG3G	regenerating family member 3 gamma [Source:HGNC Symbol;Acc:HGNC:29595]	237	0.2694959342479706	-0.24342151	No	
+row_8	PGLYRP1	peptidoglycan recognition protein 1 [Source:HGNC Symbol;Acc:HGNC:8904]	241	0.26719439029693604	-0.22269118	No	
+row_9	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	328	-0.3010304570198059	-0.40434834	No	
+row_10	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	348	-0.36987370252609253	-0.41249317	No	
+row_11	ITLN1	intelectin 1 [Source:HGNC Symbol;Acc:HGNC:18259]	396	-0.9773956537246704	-0.42605636	Yes	
+row_12	CHGA	chromogranin A [Source:HGNC Symbol;Acc:HGNC:1929]	399	-1.2148116827011108	-0.30292252	Yes	
+row_13	DEFA3	defensin alpha 3 [Source:HGNC Symbol;Acc:HGNC:2762]	402	-1.413041591644287	-0.15888621	Yes	
+row_14	LYZ	lysozyme [Source:HGNC Symbol;Acc:HGNC:6740]	407	-1.8362603187561035	0.02481389	Yes	

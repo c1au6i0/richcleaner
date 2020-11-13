@@ -1,0 +1,30 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	3	1.3506386280059814	0.08453037	Yes	
+row_1	LY6D	lymphocyte antigen 6 family member D [Source:HGNC Symbol;Acc:HGNC:13348]	4	1.177540898323059	0.16176182	Yes	
+row_2	LGALS3	galectin 3 [Source:HGNC Symbol;Acc:HGNC:6563]	6	1.0708757638931274	0.23064606	Yes	
+row_3	SCD	stearoyl-CoA desaturase [Source:HGNC Symbol;Acc:HGNC:10571]	15	0.9035183787345886	0.27909437	Yes	
+row_4	PHLDA1	pleckstrin homology like domain family A member 1 [Source:HGNC Symbol;Acc:HGNC:8933]	25	0.7318364977836609	0.3149312	Yes	
+row_5	KRT7	keratin 7 [Source:HGNC Symbol;Acc:HGNC:6445]	32	0.6648291945457458	0.3504273	Yes	
+row_6	WFDC2	WAP four-disulfide core domain 2 [Source:HGNC Symbol;Acc:HGNC:15939]	55	0.5730356574058533	0.35828128	Yes	
+row_7	DSP	desmoplakin [Source:HGNC Symbol;Acc:HGNC:3052]	57	0.5623799562454224	0.3938148	Yes	
+row_8	SPRR1A	small proline rich protein 1A [Source:HGNC Symbol;Acc:HGNC:11259]	64	0.5398656129837036	0.4211149	Yes	
+row_9	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	72	0.5145708322525024	0.44540462	Yes	
+row_10	SDC1	syndecan 1 [Source:HGNC Symbol;Acc:HGNC:10658]	112	0.44650328159332275	0.42198676	Yes	
+row_11	KRT8	keratin 8 [Source:HGNC Symbol;Acc:HGNC:6446]	118	0.4440076947212219	0.44435117	Yes	
+row_12	KRT19	keratin 19 [Source:HGNC Symbol;Acc:HGNC:6436]	141	0.41142556071281433	0.44160563	Yes	
+row_13	BASP1	brain abundant membrane attached signal protein 1 [Source:HGNC Symbol;Acc:HGNC:957]	142	0.40963611006736755	0.46847245	Yes	
+row_14	CEACAM1	CEA cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:1814]	143	0.40932005643844604	0.49531856	Yes	
+row_15	KRT18	keratin 18 [Source:HGNC Symbol;Acc:HGNC:6430]	148	0.40142855048179626	0.51624167	Yes	
+row_16	SLC25A24	solute carrier family 25 member 24 [Source:HGNC Symbol;Acc:HGNC:20662]	170	0.36964720487594604	0.5121074	No	
+row_17	GSTA3	glutathione S-transferase alpha 3 [Source:HGNC Symbol;Acc:HGNC:4628]	205	0.33760884404182434	0.4883042	No	
+row_18	FOXA1	forkhead box A1 [Source:HGNC Symbol;Acc:HGNC:5021]	241	0.3077232241630554	0.46118954	No	
+row_19	TNFRSF12A	TNF receptor superfamily member 12A [Source:HGNC Symbol;Acc:HGNC:18152]	261	0.29406967759132385	0.45480105	No	
+row_20	SOX9	SRY-box transcription factor 9 [Source:HGNC Symbol;Acc:HGNC:11204]	278	0.280718058347702	0.4515909	No	
+row_21	TJP2	tight junction protein 2 [Source:HGNC Symbol;Acc:HGNC:11828]	295	0.2702713906764984	0.44769558	No	
+row_22	HK1	hexokinase 1 [Source:HGNC Symbol;Acc:HGNC:4922]	309	0.2618545591831207	0.44730228	No	
+row_23	CYB5R3	cytochrome b5 reductase 3 [Source:HGNC Symbol;Acc:HGNC:2873]	362	-0.2570410966873169	0.3938906	No	
+row_24	CYP2D6	cytochrome P450 family 2 subfamily D member 6 [Source:HGNC Symbol;Acc:HGNC:2625]	549	-0.36581969261169434	0.16653226	No	
+row_25	CLDN3	claudin 3 [Source:HGNC Symbol;Acc:HGNC:2045]	567	-0.37662452459335327	0.16826099	No	
+row_26	TMEM45B	transmembrane protein 45B [Source:HGNC Symbol;Acc:HGNC:25194]	569	-0.37694817781448364	0.19163255	No	
+row_27	MTCH2	mitochondrial carrier 2 [Source:HGNC Symbol;Acc:HGNC:17587]	641	-0.4943690001964569	0.12811083	No	
+row_28	HLA-DRB1	major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	686	-0.6428012847900391	0.11081081	No	

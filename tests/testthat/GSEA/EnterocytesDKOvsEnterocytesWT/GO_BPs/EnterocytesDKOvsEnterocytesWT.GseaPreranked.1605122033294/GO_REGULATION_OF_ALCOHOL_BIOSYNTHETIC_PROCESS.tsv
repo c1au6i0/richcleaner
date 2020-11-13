@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HMGCS1	3-hydroxy-3-methylglutaryl-CoA synthase 1 [Source:HGNC Symbol;Acc:HGNC:5007]	7	1.1506723165512085	0.13858356	Yes	
+row_1	POR	cytochrome p450 oxidoreductase [Source:HGNC Symbol;Acc:HGNC:9208]	20	0.850222647190094	0.23402895	Yes	
+row_2	SQLE	squalene epoxidase [Source:HGNC Symbol;Acc:HGNC:11279]	32	0.6954421401023865	0.3108925	Yes	
+row_3	SCD	stearoyl-CoA desaturase [Source:HGNC Symbol;Acc:HGNC:10571]	36	0.6586044430732727	0.39123788	Yes	
+row_4	IDI1	isopentenyl-diphosphate delta isomerase 1 [Source:HGNC Symbol;Acc:HGNC:5387]	46	0.5843395590782166	0.45606896	Yes	
+row_5	CYP51A1	cytochrome P450 family 51 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2649]	47	0.5835601687431335	0.5299663	Yes	
+row_6	FDPS	farnesyl diphosphate synthase [Source:HGNC Symbol;Acc:HGNC:3631]	128	0.3757230341434479	0.49607846	Yes	
+row_7	HMGCR	3-hydroxy-3-methylglutaryl-CoA reductase [Source:HGNC Symbol;Acc:HGNC:5006]	140	0.3645966649055481	0.5310464	Yes	
+row_8	BMP2	bone morphogenetic protein 2 [Source:HGNC Symbol;Acc:HGNC:1069]	151	0.35152918100357056	0.56537795	Yes	
+row_9	FDFT1	farnesyl-diphosphate farnesyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:3629]	188	0.2998398542404175	0.56668735	Yes	
+row_10	SREBF2	sterol regulatory element binding transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:11290]	231	0.26032912731170654	0.5568835	No	
+row_11	VDR	vitamin D receptor [Source:HGNC Symbol;Acc:HGNC:12679]	321	-0.2694392800331116	0.50037175	No	
+row_12	ELOVL6	ELOVL fatty acid elongase 6 [Source:HGNC Symbol;Acc:HGNC:15829]	438	-0.3026563823223114	0.42057142	No	
+row_13	LPCAT3	lysophosphatidylcholine acyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:30244]	649	-0.4209713339805603	0.26003054	No	
+row_14	SEC14L2	SEC14 like lipid binding 2 [Source:HGNC Symbol;Acc:HGNC:10699]	911	-0.7289754152297974	0.086558	No	

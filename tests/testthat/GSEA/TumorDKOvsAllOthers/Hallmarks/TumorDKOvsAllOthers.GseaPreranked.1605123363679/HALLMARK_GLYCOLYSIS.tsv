@@ -1,0 +1,36 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FAM162A	family with sequence similarity 162 member A [Source:HGNC Symbol;Acc:HGNC:17865]	17	0.8848053216934204	0.026614264	No	
+row_1	CD44	CD44 molecule (Indian blood group) [Source:HGNC Symbol;Acc:HGNC:1681]	58	0.5619633793830872	0.0037317951	No	
+row_2	GCLC	glutamate-cysteine ligase catalytic subunit [Source:HGNC Symbol;Acc:HGNC:4311]	60	0.5550163388252258	0.033592034	No	
+row_3	ERO1A	endoplasmic reticulum oxidoreductase 1 alpha [Source:HGNC Symbol;Acc:HGNC:13280]	63	0.544617235660553	0.06150487	No	
+row_4	MIF	macrophage migration inhibitory factor [Source:HGNC Symbol;Acc:HGNC:7097]	79	0.5006850361824036	0.06923511	No	
+row_5	PGK1	phosphoglycerate kinase 1 [Source:HGNC Symbol;Acc:HGNC:8896]	99	0.4636472165584564	0.06943219	No	
+row_6	SDC1	syndecan 1 [Source:HGNC Symbol;Acc:HGNC:10658]	112	0.44650328159332275	0.078201614	No	
+row_7	SOD1	superoxide dismutase 1 [Source:HGNC Symbol;Acc:HGNC:11179]	120	0.44357559084892273	0.093618326	No	
+row_8	PKM	pyruvate kinase M1/2 [Source:HGNC Symbol;Acc:HGNC:9021]	140	0.412327378988266	0.09092838	No	
+row_9	ARPP19	cAMP regulated phosphoprotein 19 [Source:HGNC Symbol;Acc:HGNC:16967]	157	0.39383968710899353	0.09128561	No	
+row_10	IDH1	isocitrate dehydrogenase (NADP(+)) 1 [Source:HGNC Symbol;Acc:HGNC:5382]	160	0.38597342371940613	0.11027388	No	
+row_11	HK2	hexokinase 2 [Source:HGNC Symbol;Acc:HGNC:4923]	251	0.301866352558136	0.004639674	No	
+row_12	DSC2	desmocollin 2 [Source:HGNC Symbol;Acc:HGNC:3036]	263	0.29266178607940674	0.0061170883	No	
+row_13	SOX9	SRY-box transcription factor 9 [Source:HGNC Symbol;Acc:HGNC:11204]	278	0.280718058347702	0.0028354102	No	
+row_14	IER3	immediate early response 3 [Source:HGNC Symbol;Acc:HGNC:5392]	318	0.25861456990242004	-0.03574965	No	
+row_15	B3GNT3	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:13528]	331	0.2541920244693756	-0.037798766	No	
+row_16	ME1	malic enzyme 1 [Source:HGNC Symbol;Acc:HGNC:6983]	333	0.2540724575519562	-0.02486823	No	
+row_17	GFPT1	glutamine--fructose-6-phosphate transaminase 1 [Source:HGNC Symbol;Acc:HGNC:4241]	339	0.2507602274417877	-0.017573616	No	
+row_18	TALDO1	transaldolase 1 [Source:HGNC Symbol;Acc:HGNC:11559]	371	-0.26298728585243225	-0.045013506	No	
+row_19	ANG	angiogenin [Source:HGNC Symbol;Acc:HGNC:483]	386	-0.26653802394866943	-0.04909289	No	
+row_20	TGFBI	transforming growth factor beta induced [Source:HGNC Symbol;Acc:HGNC:11771]	443	-0.2906765639781952	-0.10903505	No	
+row_21	TSTA3	tissue specific transplantation antigen P35B [Source:HGNC Symbol;Acc:HGNC:12390]	449	-0.29421648383140564	-0.099295795	No	
+row_22	CASP6	caspase 6 [Source:HGNC Symbol;Acc:HGNC:1507]	485	-0.3128769099712372	-0.12937872	No	
+row_23	STMN1	stathmin 1 [Source:HGNC Symbol;Acc:HGNC:6510]	521	-0.33850619196891785	-0.15801986	No	
+row_24	CLDN3	claudin 3 [Source:HGNC Symbol;Acc:HGNC:2045]	567	-0.37662452459335327	-0.19814062	No	
+row_25	LCT	lactase [Source:HGNC Symbol;Acc:HGNC:6530]	573	-0.3794757127761841	-0.18360507	No	
+row_26	ALDH9A1	aldehyde dehydrogenase 9 family member A1 [Source:HGNC Symbol;Acc:HGNC:412]	597	-0.42059746384620667	-0.19127937	No	
+row_27	FBP2	fructose-bisphosphatase 2 [Source:HGNC Symbol;Acc:HGNC:3607]	617	-0.45571669936180115	-0.19152842	No	
+row_28	GLRX	glutaredoxin [Source:HGNC Symbol;Acc:HGNC:4330]	651	-0.5145806074142456	-0.20753963	Yes	
+row_29	ME2	malic enzyme 2 [Source:HGNC Symbol;Acc:HGNC:6984]	663	-0.54630047082901	-0.1917937	Yes	
+row_30	MDH2	malate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:6971]	675	-0.5867174863815308	-0.17377408	Yes	
+row_31	CYB5A	cytochrome b5 type A [Source:HGNC Symbol;Acc:HGNC:2570]	682	-0.6052952408790588	-0.14789736	Yes	
+row_32	MDH1	malate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:6970]	719	-0.8359899520874023	-0.14991479	Yes	
+row_33	ALDOB	aldolase, fructose-bisphosphate B [Source:HGNC Symbol;Acc:HGNC:417]	724	-0.8687403798103333	-0.106493086	Yes	
+row_34	TFF3	trefoil factor 3 [Source:HGNC Symbol;Acc:HGNC:11757]	764	-2.9344115257263184	0.005449729	Yes	

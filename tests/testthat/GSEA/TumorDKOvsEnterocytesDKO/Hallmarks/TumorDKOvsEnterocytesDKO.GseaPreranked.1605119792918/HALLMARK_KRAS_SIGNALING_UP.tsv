@@ -1,0 +1,36 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CCND2	cyclin D2 [Source:HGNC Symbol;Acc:HGNC:1583]	131	0.7622792720794678	-0.060875237	No	
+row_1	ANXA10	annexin A10 [Source:HGNC Symbol;Acc:HGNC:534]	142	0.7340364456176758	-0.025525449	No	
+row_2	TSPAN1	tetraspanin 1 [Source:HGNC Symbol;Acc:HGNC:20657]	167	0.6449541449546814	-0.0067744274	No	
+row_3	SOX9	SRY-box transcription factor 9 [Source:HGNC Symbol;Acc:HGNC:11204]	229	0.53575599193573	-0.024421047	No	
+row_4	BTC	betacellulin [Source:HGNC Symbol;Acc:HGNC:1121]	245	0.49593114852905273	-0.0072076786	No	
+row_5	KCNN4	potassium calcium-activated channel subfamily N member 4 [Source:HGNC Symbol;Acc:HGNC:6293]	257	0.47693338990211487	0.012117646	No	
+row_6	ERO1A	endoplasmic reticulum oxidoreductase 1 alpha [Source:HGNC Symbol;Acc:HGNC:13280]	260	0.4725005030632019	0.038462184	No	
+row_7	PLAUR	plasminogen activator, urokinase receptor [Source:HGNC Symbol;Acc:HGNC:9053]	267	0.46598249673843384	0.06118474	No	
+row_8	GALNT3	polypeptide N-acetylgalactosaminyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:4125]	326	0.41252952814102173	0.03867274	No	
+row_9	IL33	interleukin 33 [Source:HGNC Symbol;Acc:HGNC:16028]	403	0.36035269498825073	-0.001490198	No	
+row_10	ITGA2	integrin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6137]	539	0.2941422164440155	-0.09330612	No	
+row_11	JUP	junction plakoglobin [Source:HGNC Symbol;Acc:HGNC:6207]	552	0.2905353009700775	-0.08582092	No	
+row_12	PLAT	plasminogen activator, tissue type [Source:HGNC Symbol;Acc:HGNC:9051]	639	0.2610135078430176	-0.13995339	No	
+row_13	MPZL2	myelin protein zero like 2 [Source:HGNC Symbol;Acc:HGNC:3496]	683	0.25058165192604065	-0.15991357	No	
+row_14	TOR1AIP2	torsin 1A interacting protein 2 [Source:HGNC Symbol;Acc:HGNC:24055]	767	-0.2769291400909424	-0.21067695	No	
+row_15	MALL	mal, T cell differentiation protein like [Source:HGNC Symbol;Acc:HGNC:6818]	798	-0.2937171757221222	-0.21756656	No	
+row_16	USH1C	USH1 protein network component harmonin [Source:HGNC Symbol;Acc:HGNC:12597]	830	-0.3091346025466919	-0.22435284	Yes	
+row_17	PSMB8	proteasome 20S subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:9545]	849	-0.3228287398815155	-0.21981089	Yes	
+row_18	PTPRR	protein tyrosine phosphatase receptor type R [Source:HGNC Symbol;Acc:HGNC:9680]	852	-0.3248494267463684	-0.20220436	Yes	
+row_19	PRKG2	protein kinase cGMP-dependent 2 [Source:HGNC Symbol;Acc:HGNC:9416]	860	-0.33396607637405396	-0.18810362	Yes	
+row_20	CPE	carboxypeptidase E [Source:HGNC Symbol;Acc:HGNC:2303]	869	-0.3360442817211151	-0.17468895	Yes	
+row_21	ANGPTL4	angiopoietin like 4 [Source:HGNC Symbol;Acc:HGNC:16039]	878	-0.3430946469306946	-0.16085705	Yes	
+row_22	CROT	carnitine O-octanoyltransferase [Source:HGNC Symbol;Acc:HGNC:2366]	883	-0.3450334668159485	-0.14367415	Yes	
+row_23	HKDC1	hexokinase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:23302]	891	-0.34897562861442566	-0.12868515	Yes	
+row_24	TSPAN13	tetraspanin 13 [Source:HGNC Symbol;Acc:HGNC:21643]	892	-0.34963467717170715	-0.1079937	Yes	
+row_25	CTSS	cathepsin S [Source:HGNC Symbol;Acc:HGNC:2545]	907	-0.3589349091053009	-0.09807873	Yes	
+row_26	BMP2	bone morphogenetic protein 2 [Source:HGNC Symbol;Acc:HGNC:1069]	982	-0.4169149100780487	-0.13327618	Yes	
+row_27	HBEGF	heparin binding EGF like growth factor [Source:HGNC Symbol;Acc:HGNC:3059]	1058	-0.5173751711845398	-0.16333745	Yes	
+row_28	MAFB	MAF bZIP transcription factor B [Source:HGNC Symbol;Acc:HGNC:6408]	1062	-0.5209775567054749	-0.13493308	Yes	
+row_29	PIGR	polymeric immunoglobulin receptor [Source:HGNC Symbol;Acc:HGNC:8968]	1134	-0.714372456073761	-0.15009977	Yes	
+row_30	ABCB1	ATP binding cassette subfamily B member 1 [Source:HGNC Symbol;Acc:HGNC:40]	1145	-0.7532874941825867	-0.1136107	Yes	
+row_31	GLRX	glutaredoxin [Source:HGNC Symbol;Acc:HGNC:4330]	1160	-0.7823366522789001	-0.07863874	Yes	
+row_32	EPB41L3	erythrocyte membrane protein band 4.1 like 3 [Source:HGNC Symbol;Acc:HGNC:3380]	1171	-0.8147391080856323	-0.038512953	Yes	
+row_33	ACE	angiotensin I converting enzyme [Source:HGNC Symbol;Acc:HGNC:2707]	1202	-0.9814121127128601	-0.004704656	Yes	
+row_34	KLF4	Kruppel like factor 4 [Source:HGNC Symbol;Acc:HGNC:6348]	1203	-0.9954615235328674	0.05420693	Yes	
