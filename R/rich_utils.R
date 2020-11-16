@@ -38,8 +38,6 @@ rich_wider <- function(dat,
   }
 
 
-
-
   dat$nom_p_val[dat$nom_p_val == 0 ] <- 10^-10
   dat[,"n_logp_sign"] <- -log10(dat$nom_p_val) * sign(dat$nes)
 
@@ -76,6 +74,10 @@ rich_aggregate <- function(
 
   files_reports <- data.frame(file = files_all[grepl("report.*tsv", files_all)])
 
+  if(nrow(files_reports)  == 0){
+    stop("No reports detected in the folder!")
+  }
+
   # check the files at the same folder depth
   splitted_files <- strsplit(files_reports$file, "/")
   path_depth <- unlist(lapply(splitted_files, length))
@@ -85,6 +87,13 @@ rich_aggregate <- function(
   }
 
   path_depth <-  path_depth[[1]]
+
+
+  # easier to split by /, escape makes problems in separate
+  if (Sys.info()['sysname'] == "Windows"){
+     files_reports$file <- gsub("\\\\", "/", files_reports$file)
+     }
+
   files_reports  <- tidyr::separate(files_reports,
                                     col  = file,
                                     into = as.character(1:path_depth[1]),
@@ -94,19 +103,23 @@ rich_aggregate <- function(
   # we are subsetting by position so if the folder tree is different we are screwed
   # we want to select the second to the last (contrast) and one to the last(gs)
   # remove _ from them
-  files_reports[path_depth - 2:1] <- apply(files_reports[path_depth - 2:1], 2, function(x) sub("_", "", x))
+  # files_reports[path_depth - 2:1] <- apply(files_reports[path_depth - 2:1], 2, function(x) sub("_", "", x))
 
-  files_reports[, "id"] <-   paste0(files_reports[, path_depth - 2], "_", files_reports[, path_depth - 1])
+  files_reports[, "id"] <-   paste0(files_reports[, path_depth - 2], "~", files_reports[, path_depth - 1])
 
   rich_ls <- lapply(files_reports$file, utils::read.delim)
   names(rich_ls) <- files_reports$id
 
-  rich_df <- dplyr::bind_rows(rich_ls, .id = "id")
+  # remove empty dataframe
+  nrows_rich_ls <- lapply(rich_ls, nrow)
+  to_keep <- nrows_rich_ls != 0
+
+  rich_df <- dplyr::bind_rows(rich_ls[to_keep], .id = "id")
 
   # clean names
   names(rich_df) <- gsub("\\.", "_", tolower(names(rich_df)))
   names(rich_df)[names(rich_df) == "name"] <- "description"
-  rich_df <- tidyr::separate(rich_df, col = "id", into = c("contrast", "gs"))
+  rich_df <- tidyr::separate(rich_df, col = "id", into = c("contrast", "gs"), sep = "~")
 
   to_remove <- append(grep("gs.+", names(rich_df), value = TRUE, perl = TRUE), "x")
 
