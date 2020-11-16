@@ -25,8 +25,8 @@ devtools::install_github("c1au6i0/richcleaner")
 
 Organize the folders in contrasts, each containing the folder for each
 of the gene set databases used in `gsea`. Put the whole output folder of
-`gsea` inside the corresponding folder. Recommanded contrast name
-contain a `_` to separate group1 from group2 (`group1_group2`).
+`gsea` inside the corresponding folder. Recommanded folder name for
+contrasts uses `_` to separate group1 from group2 (`group1_group2`).
 
     #> root_folder
     #> ├── contrast1
