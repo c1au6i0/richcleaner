@@ -38,8 +38,10 @@ rich_wider <- function(dat,
   }
 
 
+
   dat$nom_p_val[dat$nom_p_val == 0 ] <- 10^-10
-  dat[,"n_logp_sign"] <- -log10(dat$nom_p_val) * sign(dat$nes)
+
+  dat[ ,"n_logp_sign"] <- -log10(dat$nom_p_val) * sign(dat$nes)
 
 
   dat <- dat[dat$gs == gs,]
@@ -49,7 +51,9 @@ rich_wider <- function(dat,
                                   id_cols = "description",
                                   names_from = "contrast",
                                   values_from = value,
+                                  # values_fn = length,
                                   values_fill = 0))
+
   row.names(dat_wider) <-  dat_wider$description
   dat_wider$description <- NULL
   dat_wider
@@ -72,7 +76,7 @@ rich_aggregate <- function(
   if(path == "svDialogs::dlg_dir()$res") eval(path)
   files_all <-   list.files(path, recursive = TRUE,  full.names = TRUE)
 
-  files_reports <- data.frame(file = files_all[grepl("report.*tsv", files_all)])
+  files_reports <- data.frame(file = files_all[grepl("report.*(pos|neg).*tsv", files_all, perl = TRUE)])
 
   if(nrow(files_reports)  == 0){
     stop("No reports detected in the folder!")
@@ -107,22 +111,24 @@ rich_aggregate <- function(
 
   files_reports[, "id"] <-   paste0(files_reports[, path_depth - 2], "~", files_reports[, path_depth - 1])
 
-  rich_ls <- lapply(files_reports$file, utils::read.delim)
+
+
+  rich_ls <- lapply(files_reports$file, data.table::fread, showProgress = TRUE)
+
   names(rich_ls) <- files_reports$id
 
   # remove empty dataframe
   nrows_rich_ls <- lapply(rich_ls, nrow)
   to_keep <- nrows_rich_ls != 0
-
   rich_df <- dplyr::bind_rows(rich_ls[to_keep], .id = "id")
 
   # clean names
-  names(rich_df) <- gsub("\\.", "_", tolower(names(rich_df)))
+  names(rich_df) <- gsub("\\.|\\s|-", "_", tolower(names(rich_df)))
   names(rich_df)[names(rich_df) == "name"] <- "description"
   rich_df <- tidyr::separate(rich_df, col = "id", into = c("contrast", "gs"), sep = "~")
 
-  to_remove <- append(grep("gs.+", names(rich_df), value = TRUE, perl = TRUE), "x")
-
+  # remove unwanted columns
+  to_remove <- append(grep("gs.+", names(rich_df), value = TRUE, perl = TRUE), "v12")
   rich_df[, to_remove] <- NULL
 
   rich_df
