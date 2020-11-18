@@ -8,7 +8,7 @@
 #'
 #' @param dat Dataframe as returned by \code{\link{rich_aggregate}}.
 #' @param fdr_threshold Minimum `FDR.q.val` to keep.
-#' @param gs Gene Set.
+#' @param gs Gene Set Database.
 #' @param value Column from which to take the value for pivit wider. One of c("fdr_q_val", "nes", "nom_p_val", "n_logp_sign").
 #'     Defaut is "n_logp_sign".
 #' @export
@@ -74,9 +74,8 @@ rich_aggregate <- function(
                   path = svDialogs::dlg_dir()$res){
 
   if(path == "svDialogs::dlg_dir()$res") eval(path)
-  files_all <-   list.files(path, recursive = TRUE,  full.names = TRUE)
 
-  files_reports <- data.frame(file = files_all[grepl("report.*(pos|neg).*tsv", files_all, perl = TRUE)])
+  files_reports <- data.frame(file = fs::dir_ls(path, recurse = TRUE,  regexp = "report.*(pos|neg).*tsv"))
 
   if(nrow(files_reports)  == 0){
     stop("No reports detected in the folder!")
@@ -113,12 +112,13 @@ rich_aggregate <- function(
 
 
 
+  message("Importing files ...")
   rich_ls <- lapply(files_reports$file, data.table::fread, showProgress = TRUE)
 
   names(rich_ls) <- files_reports$id
 
   # remove empty dataframe
-  nrows_rich_ls <- lapply(rich_ls, nrow)
+  nrows_rich_ls <- pbapply::pblapply(rich_ls, nrow)
   to_keep <- nrows_rich_ls != 0
   rich_df <- dplyr::bind_rows(rich_ls[to_keep], .id = "id")
 

@@ -11,7 +11,7 @@ rich_wider(dat, fdr_threshold, gs, value = "n_logp_sign")
 
 \item{fdr_threshold}{Minimum `FDR.q.val` to keep.}
 
-\item{gs}{Gene Set.}
+\item{gs}{Gene Set Database.}
 
 \item{value}{Column from which to take the value for pivit wider. One of c("fdr_q_val", "nes", "nom_p_val", "n_logp_sign").
 Defaut is "n_logp_sign".}
