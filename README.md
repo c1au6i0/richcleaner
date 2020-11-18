@@ -18,7 +18,7 @@ handy functions that we can share in Marchionni lab.
 ``` r
 library(devtools)
 
-devtools::install_github("c1au6i0/richcleaner")
+install_github("c1au6i0/richcleaner")
 ```
 
 ## Preparation of folders
