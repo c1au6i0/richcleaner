@@ -1,3 +1,55 @@
+#' find files
+#'
+#' The function looks recursively inside a folder and find specific files. Used internally.
+#'
+#' @param path The folder to look into
+#' @param reg_expr Regexp to look
+#' @return A dataframe
+#' @export
+rich_find <- function(path = path, reg_expr){
+
+  # "report.*(pos|neg).*tsv"
+  # ".*png$"
+  files_reports <- data.frame(
+    file = fs::dir_ls(path, recurse = TRUE,  regexp = reg_expr)
+  )
+
+  if(nrow(files_reports)  == 0){
+    stop("No relevant files detected in the folder!")
+  }
+
+  # check the files at the same folder depth
+  splitted_files <- strsplit(files_reports$file, "/")
+  path_depth <- unlist(lapply(splitted_files, length))
+  # if all the path_dept are equal to the first, then we have as many TRUE as the vector elements.
+  if(!sum(path_depth == path_depth[[1]]) == length(path_depth)){
+    stop("Not all the file of that  at the same path depth!!")
+  }
+
+  path_depth <-  path_depth[[1]]
+
+
+  # easier to split by /, escape makes problems in separate
+  if (Sys.info()['sysname'] == "Windows"){
+    files_reports$file <- gsub("\\\\", "/", files_reports$file)
+  }
+
+  files_reports  <- tidyr::separate(files_reports,
+                                    col  = file,
+                                    into = as.character(1:path_depth[1]),
+                                    sep = "/",
+                                    remove = FALSE)
+
+  # we are subsetting by position so if the folder tree is different we are screwed
+  # we want to select the second to the last (contrast) and one to the last(gs)
+  # remove _ from them
+  # files_reports[path_depth - 2:1] <- apply(files_reports[path_depth - 2:1], 2, function(x) sub("_", "", x))
+
+  files_reports[, "id"] <-   paste0(files_reports[, path_depth - 2], "~", files_reports[, path_depth - 1])
+
+  files_reports
+}
+
 #' rich_wider
 #'
 #' Given a dataframe generate by \code{\link{rich_aggregate}}, filters it to get a specific `gs`, it calculates
@@ -24,7 +76,6 @@ rich_wider <- function(dat,
     stop(paste("missing values for", paste(setdiff(defined, passed), collapse=", ")))
   }
 
-
   if(!is.numeric(fdr_threshold)){
     stop("fdr_threshold is not numeric!")
   }
@@ -37,12 +88,9 @@ rich_wider <- function(dat,
     stop("gs argument is not an among the elements of the column gs!!!")
   }
 
-
-
   dat$nom_p_val[dat$nom_p_val == 0 ] <- 10^-10
 
   dat[ ,"n_logp_sign"] <- -log10(dat$nom_p_val) * sign(dat$nes)
-
 
   dat <- dat[dat$gs == gs,]
   dat <- dat[dat$fdr_q_val < fdr_threshold,]
@@ -75,42 +123,7 @@ rich_aggregate <- function(
 
   if(path == "svDialogs::dlg_dir()$res") eval(path)
 
-  files_reports <- data.frame(file = fs::dir_ls(path, recurse = TRUE,  regexp = "report.*(pos|neg).*tsv"))
-
-  if(nrow(files_reports)  == 0){
-    stop("No reports detected in the folder!")
-  }
-
-  # check the files at the same folder depth
-  splitted_files <- strsplit(files_reports$file, "/")
-  path_depth <- unlist(lapply(splitted_files, length))
-  # if all the path_dept are equal to the first, then we have as many TRUE as the vector elements.
-  if(!sum(path_depth == path_depth[[1]]) == length(path_depth)){
-    stop("Not all the reports at the same path depth!!")
-  }
-
-  path_depth <-  path_depth[[1]]
-
-
-  # easier to split by /, escape makes problems in separate
-  if (Sys.info()['sysname'] == "Windows"){
-     files_reports$file <- gsub("\\\\", "/", files_reports$file)
-     }
-
-  files_reports  <- tidyr::separate(files_reports,
-                                    col  = file,
-                                    into = as.character(1:path_depth[1]),
-                                    sep = "/",
-                                    remove = FALSE)
-
-  # we are subsetting by position so if the folder tree is different we are screwed
-  # we want to select the second to the last (contrast) and one to the last(gs)
-  # remove _ from them
-  # files_reports[path_depth - 2:1] <- apply(files_reports[path_depth - 2:1], 2, function(x) sub("_", "", x))
-
-  files_reports[, "id"] <-   paste0(files_reports[, path_depth - 2], "~", files_reports[, path_depth - 1])
-
-
+  files_reports <- rich_find(path = path, reg_expr = "report.*(pos|neg).*tsv")
 
   message("Importing files ...")
   rich_ls <- lapply(files_reports$file, data.table::fread, showProgress = TRUE)

@@ -5,7 +5,7 @@
 
 <!-- badges: start -->
 
-[![](https://img.shields.io/badge/devel%20version-0.0.0.95-blue.svg)](https://github.com/https://github.com/c1au6i0/richcleaner)
+[![](https://img.shields.io/badge/devel%20version-0.0.0.96-blue.svg)](https://github.com/https://github.com/c1au6i0/richcleaner)
 
 <!-- badges: end -->
 
